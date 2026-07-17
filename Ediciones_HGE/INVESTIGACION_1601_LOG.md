@@ -386,4 +386,55 @@ Se adopta la **Opción A** (fuente 1601 como base primaria) con la edición de 1
 
 - Normalización ortográfica del TXT de 1601 para búsqueda automatizada
 - Verificación de las 180 citas contra la edición original
+
+---
+
+## Fase 7 — Confirmación definitiva y cambio de plan
+
+**Fecha**: 2026-07-17
+**Estado**: Completada ✅
+
+### Confirmación de legibilidad
+
+Se re-verificó el TXT de 1601 (`HGE_TomosI-II.txt`) en los cuatro puntos de Libros I–IV:
+
+| Libro | Línea | Contenido | Legible |
+|-------|-------|-----------|---------|
+| Libro I | 255 | Inicio: "LIBRO PRIMER O; DE LA HISTORIA de Efpaña" + caps I–III | ✅ |
+| Libro II | 3099 | Inicio: "LIBRO SEGVNDO. CAP. I. Que Hannony fus hermanos..." | ✅ |
+| Libro III | 6227 | Inicio: "LIBRO TERCERO. CAP. I. elprincipio idaguerra de ISLnmancia" | ✅ |
+| Libro IV | 9105 | Inicio: "LIBRO QVARTO. CAP. I. (De U tenida delhjo de (Diosalmundo" | ✅ |
+
+**Conclusión**: El TXT de 1601 es legible y procesable. La edición de 1601 queda confirmada como fuente primaria.
+
+### Decisión: eliminación de la edición de 1617
+
+Con la edición de 1601 confirmada y operativa, la edición de 1617 deja de ser necesaria. Se procederá a eliminar los siguientes archivos en la próxima sesión:
+
+| Archivo | Motivo de eliminación |
+|---------|----------------------|
+| `mariana_1617_tomo_primero_ocr.txt` | Ya no es fuente primaria; la 1601 la reemplaza |
+| `mariana_1617_tomo_primero_page_numbers.json` | Mapeo de páginas del OCR 1617, sin uso con 1601 |
+| `EDICION_1617_USO.md` | Ficha técnica de la 1617, ya no relevante |
+
+**Nota**: Los archivos se mantienen temporalmente en el repo hasta que se confirme que no hay referencias cruzadas que dependan de ellos.
+
+### Decisión: revisión del Plan de Separación OCR
+
+El plan de separación OCR (`PLAN_SEPARACION_OCR.md`) fue diseñado para la edición de 1617, donde los Libros I–IV ocupaban las páginas 43–234 del PDF. Con la edición de 1601:
+
+- **Los límites de página NO corresponden**: el TXT de 1601 tiene una estructura diferente (líneas 255–48.770 para el tomo I completo)
+- **Los marcadores de libro sí se localizan**: "LIBRO PRIMER O" (línea 255), "LIBRO SEGVNDO" (3099), "LIBRO TERCERO" (6227), "LIBRO QVARTO" (9105)
+- **El plan debe rehacerse** para trabajar con el TXT de 1601 en vez del PDF de 1617
+
+Se documenta aquí que el plan de separación queda **PENDIENTE DE REVISIÓN** para la próxima sesión.
+
+### Implicaciones para la Fase 2
+
+La Fase 2 del proyecto (verificación de 180 citas) ahora tiene claridad total:
+
+1. **Fuente**: `HGE_TomosI-II.txt` (edición de 1601,TXT de BNE Digital)
+2. **Archivos a eliminar**: Los de la edición de 1617 (próxima sesión)
+3. **Plan a revisar**: `PLAN_SEPARACION_OCR.md` (diseñado para 1617, no aplicable a 1601)
+4. **Siguiente paso**: Normalización ortográfica del TXT de 1601
 - Revisión humana de cada cita verificada

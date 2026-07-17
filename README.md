@@ -15,7 +15,7 @@ La pregunta que guía este proyecto es:
 
 No se trata ya de determinar si Mariana tuvo acceso físico a las obras que menciona —pregunta que, aunque legítima, resulta difícil de resolver sin evidencia material directa—, sino de entender la **función historiográfica** de cada cita dentro de la construcción del relato. Plinio aparece casi siempre para describir la geografía de Hispania. Tito Livio sustenta el relato de guerras y conquistas. San Isidoro actúa como puente entre el mundo clásico y el altomedieval. Los autores tardorromanos y medievales (Orosio, Casiodoro, Beda, Sigiberto) anclan cronologías y tradiciones eclesiásticas. Y cuando Mariana entra en terreno dudoso —reyes fabulosos, genealogías fantásticas, falsificaciones—, despliega varios autores en contraste, desplegando su escepticismo humanista.
 
-El objeto de estudio son, por tanto, **180 citas distribuidas en los Libros I–IV** de la *Historia General de España*, referenciadas contra la edición de 1617 y clasificadas según su función en el argumento de Mariana.
+El objeto de estudio son, por tanto, **180 citas distribuidas en los Libros I–IV** de la *Historia General de España*, referenciadas contra la edición de 1601 y clasificadas según su función en el argumento de Mariana.
 
 ---
 
@@ -80,13 +80,17 @@ El punto de partida empírico del proyecto es un **documento Word** (*Historia g
 
 Esas notas constituyen la **fuente primaria** del proyecto: todo lo que sigue —tablas, validaciones, clasificaciones— se construyó a partir de ellas. El documento Word original no se incluye en el repositorio por derechos de autor, pero su contenido está completamente volcado en `data/tabla_base.csv`.
 
-### 3.3 Edición de 1617 — Testigo auxiliar para contraste
+### 3.3 Edición de 1617 — Eliminada (próxima sesión)
 
-La edición de 1617 (*Historia General de España*, Madrid, Viuda de Alonso Martín, "corregida y muy aumentada") se incorporó al proyecto como **herramienta de contraste secundaria**, no como sustituta de la de 1601. Su función es auxiliar: facilitar la localización de pasajes mediante búsqueda de texto y servir como punto de comparación para detectar cambios entre ediciones.
+La edición de 1617 (*Historia General de España*, Madrid, Viuda de Alonso Martín, "corregida y muy aumentada") se utilizó inicialmente como fuente de validación, pero con la obtención de la edición de 1601 deja de ser necesaria. Los archivos se eliminarán en la próxima sesión:
 
-**Limitaciones**: Solo se dispone del tomo primero (OCR de Internet Archive, `Ediciones_HGE/mariana_1617_tomo_primero_ocr.txt`, ~96.000 líneas). El propio Mariana declaró que esta edición contenía más de 500 correcciones respecto a la de 1608 (que a su vez era corregida desde 1601).
+| Archivo | Motivo |
+|---------|--------|
+| `mariana_1617_tomo_primero_ocr.txt` | Reemplazado por `HGE_TomosI-II.txt` (edición 1601) |
+| `mariana_1617_tomo_primero_page_numbers.json` | Mapeo de páginas del OCR 1617, sin uso |
+| `EDICION_1617_USO.md` | Ficha técnica de la 1617, ya no relevante |
 
-**Nota**: La validación original del proyecto (113/180 citas localizadas) se realizó contra el OCR de 1617. La verificación definitiva se realizará contra la edición de 1601.
+**Nota histórica**: La validación original del proyecto (113/180 citas localizadas) se realizó contra el OCR de 1617. La verificación definitiva se realizará contra la edición de 1601.
 
 ### 3.4 Catálogos de verificación
 
@@ -182,7 +186,7 @@ Se identificaron **18 casos** en los que Mariana nombra al autor **y** la obra e
 
 La lista completa está en `data/obras_explicitas.md`.
 
-### 4.4 Validación contra la edición de 1617
+### 4.4 Validación preliminar contra la edición de 1617
 
 Se ejecutó una validación automatizada de las 180 citas contra el OCR de la edición de 1617:
 
@@ -244,9 +248,11 @@ Las obras llegaron a Mariana principalmente por tres vías:
 |------|--------|
 | Extracción y verificación de autores | ✅ Completo — 68 autores verificados |
 | Búsqueda de edición de 1601 digital | ✅ Completo — TXT de ambas ediciones obtenido |
-| Validación contra OCR 1617 | ✅ Completo — 113/180 localizados (testigo auxiliar) |
+| Validación contra OCR 1617 | ✅ Completo (testigo auxiliar, 113/180 localizados) |
 | Identificación de obras explícitas | ✅ Completo — 18 casos |
 | Reorientación metodológica | ✅ Documentada |
+| **Edición 1617: eliminación pendiente** | ⏳ Pendiente — archivos marcados para borrado en próxima sesión |
+| **Plan de separación OCR: revisión pendiente** | ⏳ Pendiente — diseñado para 1617, no aplicable a 1601 |
 | Verificación de citas contra edición 1601 | 🔲 Pendiente — normalización ortográfica + búsqueda |
 | Análisis historiográfico | 🔲 Pendiente |
 | Redacción de conclusiones | 🔲 Pendiente |
@@ -275,13 +281,13 @@ Proyecto_Autores/
 │   └── summary_phase2.py             — Resumen de obras explícitas por libro
 │
 └── Ediciones_HGE/
-    ├── HGE_TomosI-II.txt                        — Texto completo de la edición de 1601 (Tomo I + II, ~5.8 MB, 98K líneas)
-    ├── mariana_1617_tomo_primero_ocr.txt         — OCR del tomo primero de la edición de 1617 (96K líneas)
-    ├── mariana_1617_tomo_primero_page_numbers.json — Mapeo de páginas del OCR 1617
-    ├── EDICION_1617_USO.md                       — Ficha de la edición 1617
+    ├── HGE_TomosI-II.txt                        — ✅ Texto completo de la edición de 1601 (Tomo I + II, ~5.8 MB, 98K líneas)
+    ├── mariana_1617_tomo_primero_ocr.txt         — ⏳ PENDIENTE DE ELIMINAR (reemplazado por 1601)
+    ├── mariana_1617_tomo_primero_page_numbers.json — ⏳ PENDIENTE DE ELIMINAR
+    ├── EDICION_1617_USO.md                       — ⏳ PENDIENTE DE ELIMINAR
     ├── INVESTIGACION_1601_LOG.md                 — Bitácora de búsqueda de la edición de 1601
     ├── PLAN_INVESTIGACION_1601.md                — Plan de investigación de la edición de 1601
-    └── PLAN_SEPARACION_OCR.md                   — Plan de separación en Libros I–IV
+    └── PLAN_SEPARACION_OCR.md                   — ⚠ PENDIENTE DE REVISIÓN (diseñado para 1617, no aplicable a 1601)
 ```
 
 ### Descripción de archivos principales
@@ -296,7 +302,7 @@ Proyecto_Autores/
 
 **`data/obras_explicitas.md`** — Los 18 casos en los que Mariana nombra al autor y la obra en el mismo pasaje. Incluye la evidencia OCR con las líneas exactas del texto.
 
-**`Ediciones_HGE/mariana_1617_tomo_primero_ocr.txt`** — Texto del tomo primero de la edición de 1617, extraído mediante OCR. Fuente auxiliar de contraste (ya no es la fuente primaria de verificación).
+**`Ediciones_HGE/mariana_1617_tomo_primero_ocr.txt`** — ~~Texto del tomo primero de la edición de 1617.~~ **PENDIENTE DE ELIMINAR**: reemplazado por `HGE_TomosI-II.txt` (edición de 1601).
 
 ---
 
