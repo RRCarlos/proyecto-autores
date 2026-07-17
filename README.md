@@ -188,6 +188,46 @@ Las razones de las no localizaciones son diversas: variantes ortográficas propi
 
 Todas las validaciones están marcadas como **"Pendiente de verificación visual"** contra el facsímil. La validación automática ayuda a localizar pasajes, pero no sustituye la confrontación directa con la edición impresa.
 
+### 4.5 Ejemplares localizados en CLM
+
+Se consultó la Biblioteca de Castilla-La Mancha (CLM), que conserva los fondos del antiguo Colegio de Jesuitas de Toledo. Se localizaron 11 exemplares con edición anterior a 1592:
+
+| Autor | Obra | Año | Signatura |
+|-------|------|-----|-----------|
+| Tito Livio | Las Décadas | 1505 | Res.38 |
+| Tito Livio | Las quatorze decadas | 1520 | Res.372 |
+| Claudio Ptolomeo | Cosmographia | 1486 | Inc.318 |
+| Aristóteles | In octo Politicorum | 1500 | Inc.373(I) |
+| Platón | Opera omnia | 1548 | FA |
+| Marco Tulio Cicerón | Rhetorica ad Herennium | 1496 | FA |
+| Séneca el Viejo | Opera | 1529 | FA |
+| Antonio de Nebrija | Introductiones | 1540 | FA |
+| Ambrosio de Morales | Antigüedades de España | 1574–1575 | FA |
+| Lucio Flavio Arriano | Periplus | 1577 | FA |
+| Festo Pompeyo | Verrii Flacci quae extant | 1584 | FA |
+
+### 4.6 Incunables más antiguos en CLM
+
+Los incunables más antiguos localizados en la CLM:
+
+| Autor | Año | Signatura GW |
+|-------|-----|--------------|
+| San Jerónimo (Vulgata) | 1456 | — |
+| Cicerón | 1465 | Augusta Vincentiae |
+| Virgilio | 1469 | GW M47276 |
+| Tito Livio | 1470 | GW M18494 |
+| Plutarco | 1470 | GW M34477 |
+| Valerio Máximo | 1470 | GW M49160 |
+| Pomponio Mela | 1471 | GW M34861 |
+
+### 4.7 Tres vías de transmisión
+
+Las obras llegaron a Mariana principalmente por tres vías:
+
+1. **Ediciones impresas (~70%)** — Desde 1450, los impresores produjeron masivamente ediciones de autores clásicos.
+2. **Compilaciones medievales (~20%)** — Autores como San Isidoro o Beda preservaron fragmentos de obras antiguas.
+3. **Manuscritos (~10%)** — Para obras menores o fragmentos específicos.
+
 ---
 
 ## 5. Estado del proyecto
@@ -216,10 +256,6 @@ Proyecto_Autores/
 │   ├── validacion_1617.csv            — Resultado de validación contra OCR 1617
 │   ├── validacion_por_lotes.md        — Validación detallada por lotes de capítulos
 │   └── obras_explicitas.md            — 18 casos con autor + obra nombrados juntos
-│
-├── docs/
-│   ├── MEMORIA.md                     — Memoria completa del proyecto (metodología, fases, resultados)
-│   └── PLAN_REORIENTACION_METODOLOGICA.md — Documento del giro: de "¿tuvo acceso?" a "¿para qué lo usa?"
 │
 ├── scripts/
 │   ├── build_citation_use_table.py    — Extrae citas del Word y genera tabla_base
