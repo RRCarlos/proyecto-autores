@@ -6,16 +6,23 @@ Obtener los textos individualizados de los Libros I, II, III y IV de la edición
 
 ---
 
-## Fase 1: Localizar la edición de 1617
+## Fase 1: Localizar la edición de 1617 ✅ COMPLETADA
 
-| Tarea | Descripción |
-|-------|-------------|
-| 1.1 | Buscar la edición de 1617 en Internet Archive |
-| 1.2 | Confirmar que es el tomo primero (que contiene los Libros I–IV) |
-| 1.3 | Verificar la estructura del PDF (número de páginas, rango de Libros I–IV) |
-| 1.4 | **Proporcionar el link de descarga** para verificación manual paralela por el investigador |
+> **Completada:** 2026-07-17
 
-**Criterio de aceptación:** PDF localizado, confirmado como tomo primero, link de descarga entregado.
+| Tarea | Descripción | Estado |
+|-------|-------------|--------|
+| 1.1 | Buscar la edición de 1617 en Internet Archive | ✅ `bub_gb_qpHbv84HpA0C` (Biblioteca Nacional de Nápoles, 818 págs) |
+| 1.2 | Confirmar que es el tomo primero (que contiene los Libros I–IV) | ✅ Libros I–IV en págs 43–234 del PDF |
+| 1.3 | Verificar la estructura del PDF (número de páginas, rango de Libros I–IV) | ✅ 818 páginas totales, estructura mapeada |
+| 1.4 | **Proporcionar el link de descarga** para verificación manual paralela por el investigador | ✅ Investigador descargó el PDF a `Downloads/HGE_Tomo1_1617.pdf` |
+
+**Criterio de aceptación:** PDF localizado, confirmado como tomo primero, link de descarga entregado. ✅ **Cumplido.**
+
+**Evidencia:**
+- PDF verificado con PyMuPDF: 818 páginas, metadata confirma fuente IA, portada/aprobaciones coinciden con OCR.
+- Documento de referencia creado: `EDICION_1617_USO.md`.
+- Ediciones descartadas documentadas (BVPB 503, CristoRaúl 1780, IA 1618).
 
 ---
 
@@ -83,7 +90,9 @@ Ediciones_HGE/
 ├── libro_ii.txt
 ├── libro_iii.txt
 ├── libro_iv.txt
-└── mariana_1617_tomo_primero_page_numbers.json
+├── EDICION_1617_USO.md                       — Ficha de la edición 1617 (fase 1)
+├── mariana_1617_tomo_primero_ocr.txt          — OCR completo del tomo primero
+└── mariana_1617_tomo_primero_page_numbers.json — Mapeo de páginas del OCR
 ```
 
 ---

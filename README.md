@@ -238,6 +238,8 @@ Las obras llegaron a Mariana principalmente por tres vías:
 | Validación contra OCR 1617 | ✅ Completo — 113/180 localizados |
 | Identificación de obras explícitas | ✅ Completo — 18 casos |
 | Reorientación metodológica | ✅ Documentada |
+| Fase 1 separación OCR (localización edición) | ✅ Completo — edición 1617 verificada, PDF descargado |
+| Fase 2 separación OCR (extracción Libros I–IV) | 🔲 Pendiente |
 | Transcripción verificada de fragmentos | 🔲 Pendiente — verificación visual contra facsímil |
 | Análisis historiográfico | 🔲 Pendiente |
 | Redacción de conclusiones | 🔲 Pendiente |
@@ -266,8 +268,10 @@ Proyecto_Autores/
 │   └── summary_phase2.py             — Resumen de obras explícitas por libro
 │
 └── Ediciones_HGE/
-    ├── mariana_1617_tomo_primero_ocr.txt      — OCR completo del tomo primero (96K líneas, ~3.8 MB)
-    └── mariana_1617_tomo_primero_page_numbers.json — Mapeo de páginas del OCR
+    ├── EDICION_1617_USO.md                       — Ficha completa de la edición 1617 (fuente, OCR, ediciones descartadas)
+    ├── mariana_1617_tomo_primero_ocr.txt          — OCR completo del tomo primero (96K líneas, ~3.8 MB)
+    ├── mariana_1617_tomo_primero_page_numbers.json — Mapeo de páginas del OCR
+    └── PLAN_SEPARACION_OCR.md                     — Plan de separación en Libros I–IV (fase 1 completada)
 ```
 
 ### Descripción de archivos principales

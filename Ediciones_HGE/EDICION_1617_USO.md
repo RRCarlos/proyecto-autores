@@ -167,7 +167,7 @@ La edición de 1617 se usa como **herramienta de validación auxiliar** (no como
 1. **Mismo contenido sustancial**: La edición de 1617 es "corregida y aumentada" respecto a la de 1601, pero los libros I–IV mantienen la misma estructura y contenido argumental.
 2. **Disponibilidad digital**: La edición de 1617 está disponible en Internet Archive con OCR y PDF descargable.
 3. **Validación automatizada**: El OCR permite búsquedas de texto para localizar menciones de autores de forma automatizada.
-4. **Limitación acknowledge**: Los resultados de validación contra el OCR 1617 son **orientativos**, no definitivos. La verificación final requiere confrontación con el facsímil de 1601.
+4. **Limitación reconocida**: Los resultados de validación contra el OCR 1617 son **orientativos**, no definitivos. La verificación final requiere confrontación con el facsímil de 1601.
 
 ---
 
