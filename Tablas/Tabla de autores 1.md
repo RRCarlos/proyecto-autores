@@ -1,190 +1,207 @@
-﻿# Tabla de autores 1
+# Tabla de autores 1
 
-Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). Cada fila indica una aparición concreta del autor, ordenada alfabéticamente por nombre, luego por libro, capítulo y línea. Las filas marcadas con * fueron añadidas en la revisión de julio 2026.
+Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). Cada fila indica una aparición concreta del autor, ordenada por libro y capítulo. Las filas marcadas con * fueron añadidas en la revisión de julio 2026.
 
-| # | Autor | Libro | Capítulo | Línea |
-|---|-------|-------|----------|-------|
-| 1 | Amiano Marcelino | IV | XVII | 2481 |
-| 2 | Amiano Marcelino | IV | XIX | 2575 |
-| 3 | Amiano Marcelino | IV | XIX | 2672 |
-| 4 | *Antonio de Nebrija | III | XI | 1361 |
-| 5 | Aristoteles | I | XVII | 2115 |
-| 6 | Aristoteles | II | II | 301 |
-| 7 | Arriano | I | XXII | 2747 |
-| 8 | Arriano | II | V | 534 |
-| 9 | *Appiano | III | III | 355 |
-| 10 | *Appiano | III | IIII | 660 |
-| 11 | *Appiano | III | X | 1247 |
-| 12 | *Aulo Gelio | II | XXV | 2980 |
-| 13 | *Beda | IV | III | 339 |
-| 14 | Braulio de Zaragoza | IV | XIII | 1894 |
-| 15 | Cayo Julio Solino | I | XI | 1261 |
-| 16 | Cayo Julio Solino | I | XII | 1482 |
-| 17 | Cayo Julio Solino | I | XV | 1885 |
-| 18 | Cayo Silio Italico | II | XXII | 2530 |
-| 19 | Cayo Silio Italico | II | XXVI | 3106 |
-| 20 | Cayo Silio Italico | IV | II | 199 |
-| 21 | Cayo Silio Italico | IV | II | 226 |
-| 22 | Cayo Silio Italico | IV | III | 466 |
-| 23 | Cayo Suetonio Tranquilo | I | VIII | 841 |
-| 24 | Cayo Suetonio Tranquilo | IV | IIII | 667 |
-| 25 | Cayo Suetonio Tranquilo | IV | IIII | 760 |
-| 26 | Ciceron | III | II | 254 |
-| 27 | Ciceron | III | II | 364 |
-| 28 | Ciceron | III | XI | 1297 |
-| 29 | Ciceron | III | XI | 1299 |
-| 30 | Ciceron | III | XV | 1797 |
-| 31 | Ciceron | III | XXIII | 2430 |
-| 32 | Ciceron | III | XXIIII | 2481 |
-| 33 | Claudio Ptolomeo | I | IIII | 476 |
-| 34 | Claudio Ptolomeo | I | IIII | 496 |
-| 35 | Claudio Ptolomeo | I | VII | 687 |
-| 36 | Claudio Ptolomeo | I | XXII | 2799 |
-| 37 | Claudio Ptolomeo | II | VII | 841 |
-| 38 | Claudio Ptolomeo | II | XXVI | 3037 |
-| 39 | Claudio Ptolomeo | III | I | 187 |
-| 40 | Claudio Ptolomeo | III | XII | 1491 |
-| 41 | Claudio Ptolomeo | III | XVIII | 2077 |
-| 42 | Claudio Ptolomeo | III | XXV | 2612 |
-| 43 | Claudio Ptolomeo | III | XXV | 2685 |
-| 44 | Claudio Ptolomeo | III | XXV | 2796 |
-| 45 | Claudio Ptolomeo | IV | XIII | 1911 |
-| 46 | Claudio Ptolomeo | IV | XIII | 1924 |
-| 47 | Columela | IV | II | 213 |
-| 48 | Diodoro Siculus | I | VIII | 805 |
-| 49 | Diodoro Siculus | I | XII | 1338 |
-| 50 | Diodoro Siculus | I | XII | 1424 |
-| 51 | Dion | III | XVI | 1860 |
-| 52 | Dion | III | XXIII | 2375 |
-| 53 | Dion | III | XXIIII | 2465 |
-| 54 | Dion | III | XXIIII | 2559 |
-| 55 | Dion | III | XXV | 2777 |
-| 56 | Dion | IV | I | 35 |
-| 57 | Dion | IV | I | 145 |
-| 58 | Dion | IV | VI | 1069 |
-| 59 | Dionisio de Halicarnaso | II | II | 96 |
-| 60 | Estrabon | I | V | 543 |
-| 61 | Estrabon | I | VII | 687 |
-| 62 | Estrabon | I | XII | 1482 |
-| 63 | Estrabon | III | II | 277 |
-| 64 | Estrabon | III | XV | 1792 |
-| 65 | Eusebio Cesariense | IV | II | 220 |
-| 66 | Eusebio Cesariense | IV | XVI | 2215 |
-| 67 | Eusebio Cesariense | IV | XVI | 2337 |
-| 68 | Eusebio Cesariense | IV | XVI | 2342 |
-| 69 | Eusebio Cesariense | IV | XVII | 2409 |
-| 70 | Eusebio Cesariense | IV | XIX | 2635 |
-| 71 | Eusebio Cesariense | IV | XIX | 2728 |
-| 72 | Eusebio de Cesarea | II | III | 361 |
-| 73 | Eusebio de Cesarea | II | VI | 701 |
-| 74 | Fabio Pictor | I | X | 1115 |
-| 75 | Falso Beroso | I | IX | 997 |
-| 76 | *Festo Pompeyo | I | XX | 2575 |
-| 77 | Floro | III | XXII | 2305 |
-| 78 | Gregorio Giraldo | IV | III | 470 |
-| 79 | Herodoto | I | XV | 1870 |
-| 80 | Justino | I | XI | 1274 |
-| 81 | Justino | I | XI | 1279 |
-| 82 | Justino | I | XIII | 1561 |
-| 83 | Lucano | III | XVII | 1988 |
-| 84 | Lucano | IV | III | 310 |
-| 85 | Marco Varron | I | XII | 1365 |
-| 86 | Marco Varron | II | XIIII | 1661 |
-| 87 | Marco Varron | II | XIIII | 1664 |
-| 88 | Marco Varron | II | XXVI | 3031 |
-| 89 | Marco Varron | III | XVII | 1925 |
-| 90 | Marco Varron | III | XVII | 1926 |
-| 91 | Marco Varron | III | XVII | 1971 |
-| 92 | Marco Varron | III | XVIII | 2048 |
-| 93 | Marco Varron | III | XVIII | 2061 |
-| 94 | Marco Varron | III | XVIII | 2064 |
-| 95 | Marco Varron | III | XVIII | 2067 |
-| 96 | Orosio | II | V | 507 |
-| 97 | Orosio | III | XIII | 1611 |
-| 98 | Orosio | IV | XXI | 3160 |
-| 99 | Ovidio Naso | III | XXV | 2875 |
-| 100 | *Polibio | II | VI | 690 |
-| 101 | *Polibio | II | IX | 1142 |
-| 102 | *Polibio | II | X | 1361 |
-| 103 | Pietro Ricci (Crinito) | IV | III | 469 |
-| 104 | Pietro Ricci (Crinito) | IV | XV | 2109 |
-| 105 | Plinio | I | I | 103 |
-| 106 | Plinio | I | IIII | 361 |
-| 107 | Plinio | I | VII | 687 |
-| 108 | Plinio | I | VII | 715 |
-| 109 | Plinio | I | IX | 983 |
-| 110 | Plinio | I | XV | 1885 |
-| 111 | Plinio | I | XVII | 2002 |
-| 112 | Plinio | I | XXII | 2789 |
-| 113 | Plinio | I | XXII | 2831 |
-| 114 | Plinio | II | VI | 719 |
-| 115 | Plinio | II | XXI | 2483 |
-| 116 | Plinio | II | XXIII | 2582 |
-| 117 | Plinio | II | XXIII | 2604 |
-| 118 | Plinio | III | II | 346 |
-| 119 | Plinio | III | IIII | 559 |
-| 120 | Plinio | III | IIII | 578 |
-| 121 | Plinio | III | XII | 1491 |
-| 122 | Plinio | III | XXV | 2846 |
-| 123 | Plinio | IV | V | 909 |
-| 124 | Plutarco | I | IX | 985 |
-| 125 | Plutarco | II | XVII | 1993 |
-| 126 | Plutarco | II | XXVI | 3049 |
-| 127 | Plutarco | III | XIII | 1519 |
-| 128 | Plutarco | III | XVI | 1812 |
-| 129 | Plutarco | III | XXI | 2213 |
-| 130 | Plutarco | IV | V | 875 |
-| 131 | Pomponio Mela | I | II | 218 |
-| 132 | Pomponio Mela | III | XXV | 2799 |
-| 133 | Procopio | IV | XIX | 2597 |
-| 134 | Procopio | IV | XIX | 2693 |
-| 135 | Prospero de Aquitania | IV | XXI | 3160 |
-| 136 | Prudencio | IV | X | 1562 |
-| 137 | Prudencio | IV | XII | 1795 |
-| 138 | Prudencio | IV | XII | 1804 |
-| 139 | Prudencio | IV | XV | 2102 |
-| 140 | Prudencio | IV | XVII | 2482 |
-| 141 | Prudencio | IV | XVII | 2486 |
-| 142 | Quintiliano | IV | II | 218 |
-| 143 | Quintiliano | IV | III | 458 |
-| 144 | Quintiliano | IV | III | 484 |
-| 145 | Quintiliano | IV | X | 1492 |
-| 146 | Quintiliano | IV | X | 1593 |
-| 147 | *Rufo Festo | II | XII | 1466 |
-| 148 | San Basilio | IV | XVI | 2197 |
-| 149 | San Basilio | IV | XIX | 2638 |
-| 150 | San Gregorio Nacianceno | IV | XX | 2819 |
-| 151 | San Isidoro de Sevilla | I | IIII | 349 |
-| 152 | San Isidoro de Sevilla | I | XII | 1455 |
-| 153 | San Isidoro de Sevilla | III | XXIIII | 2486 |
-| 154 | San Isidoro de Sevilla | III | XXIIII | 2493 |
-| 155 | San Isidoro de Sevilla | III | XXIIII | 2501 |
-| 156 | San Isidoro de Sevilla | IV | XVII | 2445 |
-| 157 | San Isidoro de Sevilla | IV | XX | 2937 |
-| 158 | San Lucas | IV | II | 170 |
-| 159 | San Lucas | IV | II | 246 |
-| 160 | Seneca | III | XXV | 2868 |
-| 161 | Seneca | IV | I | 113 |
-| 162 | Seneca | IV | II | 207 |
-| 163 | Seneca | IV | II | 214 |
-| 164 | Seneca | IV | III | 310 |
-| 165 | Seneca | IV | III | 311 |
-| 166 | Seneca | IV | III | 482 |
-| 167 | Sigiberto de Gembloux | IV | XX | 2871 |
-| 168 | Tacito | IV | I | 145 |
-| 169 | Tertuliano | III | XIII | 1574 |
-| 170 | Tito Flavio Josefo | I | XVII | 2063 |
-| 171 | Tito Livio | I | XVIII | 2155 |
-| 172 | Tito Livio | II | II | 96 |
-| 173 | Tito Livio | II | VII | 896 |
-| 174 | Tito Livio | II | XVI | 1896 |
-| 175 | Tito Livio | IV | XIII | 1915 |
-| 176 | Tucides | II | II | 96 |
-| 177 | *Usuardo | IV | III | 339 |
-| 178 | Valerio Maximo | II | XXIII | 2611 |
-| 179 | Valerio Sorano | I | X | 1126 |
-| 180 | Virgilio | I | XII | 1432 |
-| 181 | Virgilio | III | XXII | 2341 |
+## Libro Primero
+
+| # | Autor | Capítulo | Línea |
+|---|-------|----------|-------|
+| 1 | Plinio | I | 103 |
+| 2 | Pomponio Mela | II | 218 |
+| 3 | San Isidoro de Sevilla | IIII | 349 |
+| 4 | Plinio | IIII | 361 |
+| 5 | Claudio Ptolomeo | IIII | 476 |
+| 6 | Claudio Ptolomeo | IIII | 496 |
+| 7 | Estrabon | V | 543 |
+| 8 | Claudio Ptolomeo | VII | 687 |
+| 9 | Estrabon | VII | 687 |
+| 10 | Plinio | VII | 687 |
+| 11 | Plinio | VII | 715 |
+| 12 | Diodoro Siculus | VIII | 805 |
+| 13 | Cayo Suetonio Tranquilo | VIII | 841 |
+| 14 | Plinio | IX | 983 |
+| 15 | Plutarco | IX | 985 |
+| 16 | Falso Beroso | IX | 997 |
+| 17 | Fabio Pictor | X | 1115 |
+| 18 | Valerio Sorano | X | 1126 |
+| 19 | Cayo Julio Solino | XI | 1261 |
+| 20 | Justino | XI | 1274 |
+| 21 | Justino | XI | 1279 |
+| 22 | Diodoro Siculus | XII | 1338 |
+| 23 | Marco Varron | XII | 1365 |
+| 24 | Diodoro Siculus | XII | 1424 |
+| 25 | Virgilio | XII | 1432 |
+| 26 | San Isidoro de Sevilla | XII | 1455 |
+| 27 | Cayo Julio Solino | XII | 1482 |
+| 28 | Estrabon | XII | 1482 |
+| 29 | Justino | XIII | 1561 |
+| 30 | Herodoto | XV | 1870 |
+| 31 | Cayo Julio Solino | XV | 1885 |
+| 32 | Plinio | XV | 1885 |
+| 33 | Plinio | XVII | 2002 |
+| 34 | Tito Flavio Josefo | XVII | 2063 |
+| 35 | Aristoteles | XVII | 2115 |
+| 36 | Tito Livio | XVIII | 2155 |
+| 37 | *Festo Pompeyo | XX | 2575 |
+| 38 | Arriano | XXII | 2747 |
+| 39 | Plinio | XXII | 2789 |
+| 40 | Claudio Ptolomeo | XXII | 2799 |
+| 41 | Plinio | XXII | 2831 |
+
+## Libro Segundo
+
+| # | Autor | Capítulo | Línea |
+|---|-------|----------|-------|
+| 42 | Dionisio de Halicarnaso | II | 96 |
+| 43 | Tito Livio | II | 96 |
+| 44 | Tucides | II | 96 |
+| 45 | Aristoteles | II | 301 |
+| 46 | Eusebio de Cesarea | III | 361 |
+| 47 | Orosio | V | 507 |
+| 48 | Arriano | V | 534 |
+| 49 | *Polibio | VI | 690 |
+| 50 | Eusebio de Cesarea | VI | 701 |
+| 51 | Plinio | VI | 719 |
+| 52 | Claudio Ptolomeo | VII | 841 |
+| 53 | Tito Livio | VII | 896 |
+| 54 | *Polibio | IX | 1142 |
+| 55 | *Polibio | X | 1361 |
+| 56 | *Rufo Festo | XII | 1466 |
+| 57 | Marco Varron | XIIII | 1661 |
+| 58 | Marco Varron | XIIII | 1664 |
+| 59 | Tito Livio | XVI | 1896 |
+| 60 | Plutarco | XVII | 1993 |
+| 61 | Plinio | XXI | 2483 |
+| 62 | Cayo Silio Italico | XXII | 2530 |
+| 63 | Plinio | XXIII | 2582 |
+| 64 | Plinio | XXIII | 2604 |
+| 65 | Valerio Maximo | XXIII | 2611 |
+| 66 | *Aulo Gelio | XXV | 2980 |
+| 67 | Marco Varron | XXVI | 3031 |
+| 68 | Claudio Ptolomeo | XXVI | 3037 |
+| 69 | Plutarco | XXVI | 3049 |
+| 70 | Cayo Silio Italico | XXVI | 3106 |
+
+## Libro Tercero
+
+| # | Autor | Capítulo | Línea |
+|---|-------|----------|-------|
+| 71 | Claudio Ptolomeo | I | 187 |
+| 72 | Ciceron | II | 254 |
+| 73 | Estrabon | II | 277 |
+| 74 | Plinio | II | 346 |
+| 75 | Ciceron | II | 364 |
+| 76 | *Appiano | III | 355 |
+| 77 | Plinio | IIII | 559 |
+| 78 | Plinio | IIII | 578 |
+| 79 | *Appiano | IIII | 660 |
+| 80 | *Appiano | X | 1247 |
+| 81 | Ciceron | XI | 1297 |
+| 82 | Ciceron | XI | 1299 |
+| 83 | *Antonio de Nebrija | XI | 1361 |
+| 84 | Claudio Ptolomeo | XII | 1491 |
+| 85 | Plinio | XII | 1491 |
+| 86 | Plutarco | XIII | 1519 |
+| 87 | Tertuliano | XIII | 1574 |
+| 88 | Orosio | XIII | 1611 |
+| 89 | Estrabon | XV | 1792 |
+| 90 | Ciceron | XV | 1797 |
+| 91 | Plutarco | XVI | 1812 |
+| 92 | Dion | XVI | 1860 |
+| 93 | Marco Varron | XVII | 1925 |
+| 94 | Marco Varron | XVII | 1926 |
+| 95 | Marco Varron | XVII | 1971 |
+| 96 | Lucano | XVII | 1988 |
+| 97 | Marco Varron | XVIII | 2048 |
+| 98 | Marco Varron | XVIII | 2061 |
+| 99 | Marco Varron | XVIII | 2064 |
+| 100 | Marco Varron | XVIII | 2067 |
+| 101 | Claudio Ptolomeo | XVIII | 2077 |
+| 102 | Plutarco | XXI | 2213 |
+| 103 | Floro | XXII | 2305 |
+| 104 | Virgilio | XXII | 2341 |
+| 105 | Dion | XXIII | 2375 |
+| 106 | Ciceron | XXIII | 2430 |
+| 107 | Dion | XXIIII | 2465 |
+| 108 | Ciceron | XXIIII | 2481 |
+| 109 | San Isidoro de Sevilla | XXIIII | 2486 |
+| 110 | San Isidoro de Sevilla | XXIIII | 2493 |
+| 111 | San Isidoro de Sevilla | XXIIII | 2501 |
+| 112 | Dion | XXIIII | 2559 |
+| 113 | Claudio Ptolomeo | XXV | 2612 |
+| 114 | Claudio Ptolomeo | XXV | 2685 |
+| 115 | Dion | XXV | 2777 |
+| 116 | Claudio Ptolomeo | XXV | 2796 |
+| 117 | Pomponio Mela | XXV | 2799 |
+| 118 | Plinio | XXV | 2846 |
+| 119 | Seneca | XXV | 2868 |
+| 120 | Ovidio Naso | XXV | 2875 |
+
+## Libro Cuarto
+
+| # | Autor | Capítulo | Línea |
+|---|-------|----------|-------|
+| 121 | Dion | I | 35 |
+| 122 | Seneca | I | 113 |
+| 123 | Dion | I | 145 |
+| 124 | Tacito | I | 145 |
+| 125 | San Lucas | II | 170 |
+| 126 | Cayo Silio Italico | II | 199 |
+| 127 | Seneca | II | 207 |
+| 128 | Columela | II | 213 |
+| 129 | Seneca | II | 214 |
+| 130 | Quintiliano | II | 218 |
+| 131 | Eusebio Cesariense | II | 220 |
+| 132 | Cayo Silio Italico | II | 226 |
+| 133 | San Lucas | II | 246 |
+| 134 | Lucano | III | 310 |
+| 135 | Seneca | III | 310 |
+| 136 | Seneca | III | 311 |
+| 137 | *Beda | III | 339 |
+| 138 | *Usuardo | III | 339 |
+| 139 | Quintiliano | III | 458 |
+| 140 | Cayo Silio Italico | III | 466 |
+| 141 | Pietro Ricci (Crinito) | III | 469 |
+| 142 | Gregorio Giraldo | III | 470 |
+| 143 | Seneca | III | 482 |
+| 144 | Quintiliano | III | 484 |
+| 145 | Cayo Suetonio Tranquilo | IIII | 667 |
+| 146 | Cayo Suetonio Tranquilo | IIII | 760 |
+| 147 | Plutarco | V | 875 |
+| 148 | Plinio | V | 909 |
+| 149 | Dion | VI | 1069 |
+| 150 | Quintiliano | X | 1492 |
+| 151 | Prudencio | X | 1562 |
+| 152 | Quintiliano | X | 1593 |
+| 153 | Prudencio | XII | 1795 |
+| 154 | Prudencio | XII | 1804 |
+| 155 | Braulio de Zaragoza | XIII | 1894 |
+| 156 | Claudio Ptolomeo | XIII | 1911 |
+| 157 | Tito Livio | XIII | 1915 |
+| 158 | Claudio Ptolomeo | XIII | 1924 |
+| 159 | Prudencio | XV | 2102 |
+| 160 | Pietro Ricci (Crinito) | XV | 2109 |
+| 161 | San Basilio | XVI | 2197 |
+| 162 | Eusebio Cesariense | XVI | 2215 |
+| 163 | Eusebio Cesariense | XVI | 2337 |
+| 164 | Eusebio Cesariense | XVI | 2342 |
+| 165 | Eusebio Cesariense | XVII | 2409 |
+| 166 | San Isidoro de Sevilla | XVII | 2445 |
+| 167 | Amiano Marcelino | XVII | 2481 |
+| 168 | Prudencio | XVII | 2482 |
+| 169 | Prudencio | XVII | 2486 |
+| 170 | Amiano Marcelino | XIX | 2575 |
+| 171 | Procopio | XIX | 2597 |
+| 172 | Eusebio Cesariense | XIX | 2635 |
+| 173 | San Basilio | XIX | 2638 |
+| 174 | Amiano Marcelino | XIX | 2672 |
+| 175 | Procopio | XIX | 2693 |
+| 176 | Eusebio Cesariense | XIX | 2728 |
+| 177 | San Gregorio Nacianceno | XX | 2819 |
+| 178 | Sigiberto de Gembloux | XX | 2871 |
+| 179 | San Isidoro de Sevilla | XX | 2937 |
+| 180 | Orosio | XXI | 3160 |
+| 181 | Prospero de Aquitania | XXI | 3160 |
 
 **Total de apariciones: 181**
 
