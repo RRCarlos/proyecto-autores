@@ -100,106 +100,7 @@ Para verificar la existencia de cada uno de los 68 autores y la disponibilidad d
 
 ---
 
-## 4. Resultados
-
-### Autores verificados
-
-De los **68 autores** identificados en los Libros I–IV, se verificó su existencia y la disponibilidad de ediciones impresas anteriores a 1592:
-
-| Categoría | Cantidad | Porcentaje |
-|-----------|----------|------------|
-| Edición pre-1592 verificada | 58 | 85.3% |
-| Status especial (ver abajo) | 10 | 14.7% |
-| **Total** | **68** | **100%** |
-
-### Autores con status especial
-
-**Falsificación:**
-
-| Autor | Problema |
-|-------|----------|
-| Falso Berroso (Annio de Viterbo) | Giovanni Nanni (1437–1502) publicó en 1498 textos que atribuyó falsamente al historiador babilónico Berroso. Paradójicamente, Mariana cita a Berroso precisamente para desacreditar las leyendas sobre los primeros reyes de España: usa una falsificación como herramienta de crítica de fuentes. |
-
-**Obras perdidas:**
-
-| Autor | Problema |
-|-------|----------|
-| Filisto de Siracusa | Obra completamente perdida (11 libros). Solo se conservan fragmentos a través de citas en otros autores. |
-| Quinto Fabio Píctor | Obra completamente perdida. Solo se conservan fragmentos citados por Polibio, Dionisio de Halicarnaso, Tito Livio y Plutarco. |
-
-**Principalmente manuscritos:**
-
-| Autor | Problema |
-|-------|----------|
-| El moro Rasis (al-Razi) | Identidad bibliográfica requiere confirmación adicional. |
-| Miguel Sincelo | Principalmente manuscritos. |
-| Braulio de Zaragoza | Sin edición incunable verificada. |
-| San Ildefonso de Toledo | Sin edición incunable verificada. |
-
-**Autoría dudosa:**
-
-| Autor | Problema |
-|-------|----------|
-| Julio Capitolino | Compilador de la *Historia Augusta*, atribución cuestionada. |
-| Trebellio Polión | Compilador de la *Historia Augusta*, atribución cuestionada. |
-| Andrea de' Bardi | No encontrado en catálogos estándar. |
-
-### Ejemplares localizados en CLM
-
-Se consultó la Biblioteca de Castilla-La Mancha (CLM), que conserva los fondos del antiguo Colegio de Jesuitas de Toledo. Se localizaron 11 ejemplares con edición anterior a 1592:
-
-| Autor | Obra | Año | Signatura |
-|-------|------|-----|-----------|
-| Tito Livio | Las Décadas | 1505 | Res.38 |
-| Tito Livio | Las quatorze decadas | 1520 | Res.372 |
-| Claudio Ptolomeo | Cosmographia | 1486 | Inc.318 |
-| Aristóteles | In octo Politicorum | 1500 | Inc.373(I) |
-| Platón | Opera omnia | 1548 | FA |
-| Marco Tulio Cicerón | Rhetorica ad Herennium | 1496 | FA |
-| Séneca el Viejo | Opera | 1529 | FA |
-| Antonio de Nebrija | Introductiones | 1540 | FA |
-| Ambrosio de Morales | Antigüedades de España | 1574–1575 | FA |
-| Lucio Flavio Arriano | Periplus | 1577 | FA |
-| Festo Pompeyo | Verrii Flacci quae extant | 1584 | FA |
-
-### Incunables más antiguos en CLM
-
-| Autor | Año | Signatura GW |
-|-------|-----|--------------|
-| San Jerónimo (Vulgata) | 1456 | — |
-| Cicerón | 1465 | Augusta Vincentiae |
-| Virgilio | 1469 | GW M47276 |
-| Tito Livio | 1470 | GW M18494 |
-| Plutarco | 1470 | GW M34477 |
-| Valerio Máximo | 1470 | GW M49160 |
-| Pomponio Mela | 1471 | GW M34861 |
-
-### Tres vías de transmisión
-
-Las obras llegaron a Mariana principalmente por tres vías:
-
-1. **Ediciones impresas (~70%)** — Desde 1450, los impresores produjeron masivamente ediciones de autores clásicos.
-2. **Compilaciones medievales (~20%)** — Autores como San Isidoro o Beda preservaron fragmentos de obras antiguas.
-3. **Manuscritos (~10%)** — Para obras menores o fragmentos específicos.
-
----
-
-## 5. Estado del proyecto
-
-| Área | Estado |
-|------|--------|
-| Extracción y verificación de autores | ✅ Completo — 68 autores verificados |
-| Búsqueda de edición de 1601 digital | ✅ Completo — TXT obtenido y dividido en Libros I–IV |
-| Identificación de obras explícitas | ✅ Completo — 18 casos (pendiente de re-verificar contra 1601) |
-| Reorientación metodológica | ✅ Documentada |
-| Normalización ortográfica de TXT | 🔲 Pendiente |
-| Verificación de 180 citas contra edición 1601 | 🔲 Pendiente |
-| Análisis historiográfico | 🔲 Pendiente |
-| Redacción de conclusiones | 🔲 Pendiente |
-
----
-
-## 6. Estructura del repositorio
+## 4. Estructura del repositorio
 
 ```
 Proyecto_Autores/
@@ -217,7 +118,7 @@ Proyecto_Autores/
 
 ---
 
-## 7. Referencias
+## 5. Referencias
 
 ### Catálogos
 
