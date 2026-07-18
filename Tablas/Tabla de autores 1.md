@@ -270,31 +270,42 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 
 ## Autores no encontrados en los archivos TXT
 
-Los siguientes autores de las apuntaciones del usuario **no se encontraron** en los archivos de texto digitalizados:
+Búsqueda exhaustiva realizada capítulo por capítulo en los cuatro archivos OCR individuales (`01_libro_primero.txt`, `02_libro_segundo.txt`, `03_libro_tercero.txt`, `04_libro_cuarto.txt`), con múltiples variantes de búsqueda por autor.
 
-| Autor | Búsqueda realizada | Resultado |
+### Autores hallados como fuentes en los archivos (eliminados de esta lista)
+
+| Autor | Libro(s) | Línea(s) | Resultado |
+|-------|----------|----------|-----------|
+| Filón de Biblos | I | 1987 | **Hallado como "Philon"** — citado sobre costumbres fenicias de sacrificio humano. Fuente genuina. |
+| Nicéforo | IV | 1446 | **Hallado como "Nicephoro"** — citado sobre el martirio de Cristóbal. Fuente genuina. |
+| Poggio Florentín | IV | 460 | **Hallado como "Pogio Plorentin"** — citado por recuperar las *Instituciones oratorias* de Quintiliano. Fuente genuina. |
+| Dion Casio | III, IV | 1860, 2375, 2465, 2559, 2777, 35, 145, 1069 | **Hallado como "Dion"** (8 citas) — referido siempre por el nombre monónimo. El nombre completo "Dion Casio" no aparece en el texto, pero las referencias son inequívocamente al historiador Dion Casio por su contexto (historia imperial romana, emperadores, consulados). |
+
+### Autores no encontrados como fuentes
+
+| Autor | Variantes buscadas | Resultado |
 |-------|-------------------|-----------|
-| Nepote | "Nepote", "Nepo" en libros I–IV | Solo aparece en HGE_TomosI-II.txt (libro combinado), no en los archivos individuales. Posiblemente en secciones no digitalizadas o con OCR muy corrupto. |
-| Casiodoro | "Casiodoro" en todos los libros | No encontrado. Nombre posiblemente corruptado en OCR o ausente de esta edición. |
-| San Agustín | "Agustín", "Augustin", "Agust" en libros I–IV | No encontrado. Ausente de los archivos TXT. |
-| San Jerónimo | "Jerónimo", "Jeronimo", "Hieronimo" en libros I–IV | No encontrado. Ausente de los archivos TXT. |
-| Nicéforo | "Nicéforo", "Niceforo", "Nicoforo" en libros I–IV | No encontrado. Ausente de los archivos TXT. |
-| Poggio Florentín | "Poggio", "Florentin" en libros I–IV | No encontrado. Ausente de los archivos TXT. |
-| Filisto de Siracusa | "Filisto" en todos los libros | No encontrado. Ausente de los archivos TXT. |
-| Filón de Biblos | "Filón", "Filon", "Filo", "Biblo", "Byblo" en todos los libros | No encontrado. Posible corrupción OCR grave. |
-| Trebellio Polión | "Trebellio", "Polión", "Polion", "Trebello", "Trebelio" en libros I–IV | No encontrado. Ausente de los archivos TXT. |
-| Dion Casio | "Dion Casio", "Casio" en todos los libros | No encontrado. "Dion" (Cassio) ya está en la tabla. El nombre completo "Dion Casio" no aparece como tal — siempre "Dion". |
-| Juan de Mariana | "Mariana" en todos los libros | Solo aparece como mención del autor de la obra (colofón, dedicatoria), no como autor citado en el texto. |
-| Apiano (en Libros I y II) | "Apiano", "Appiano", "Appian" en libros I y II | Solo encontrado en Libro III. Las citas de Libros I y II indicadas en las apuntaciones no aparecen en los TXT digitalizados. |
-| Arriano (en Libro IV) | "Arriano" en libro IV | 11 coincidencias, pero todas se refieren a la herejía arriana ("ser arriano"), no al historiador Arriano como fuente. |
+| Nepote | "Nepote", "Nepo", "Nepot", "Nepos" en libros I–IV | **No encontrado.** Aparece en HGE_TomosI-II.txt pero en Libro Quinto (emperador Julio Nepos), no en los libros I–IV. |
+| Casiodoro | "Casiodoro", "Cafiodoro", "Casiodo", "Cafodoro", "Caſiodoro" en libros I–IV | **No encontrado.** Nombre posiblemente corruptado en OCR o ausente de esta edición. |
+| San Agustín | "Agustín", "Augustin", "Agust", "Agustin" en libros I–IV | **No encontrado.** Ausente de los archivos TXT. |
+| San Jerónimo | "Jerónimo", "Jeronimo", "Hieronimo", "fan Ieronymo" en libros I–IV | **Mencionado, pero no como fuente.** Aparece 3 veces en Libro IV (líneas 2591, 2688, 3040) como personaje histórico (amigo de Damaso, de Licinio), nunca citado como autoridad. |
+| Filisto de Siracusa | "Filisto", "Filto", "Filifto", "Filfto", "Philiſto" en libros I–IV | **No encontrado.** Ausente de los archivos TXT. |
+| Trebellio Polión | "Trebellio", "Polión", "Polion", "Trebello", "Trebelio" en libros I–IV | **No encontrado.** Ausente de los archivos TXT. |
+| Juan de Mariana | "Mariana" en libros I–IV | **Solo como marca de imprenta.** Aparece como rúbrica de colofón ("luán de Mariana, G 4") en Libros II y III, no como autor citado en el cuerpo del texto. |
+| Apiano (en Libros I y II) | "Apiano", "Appiano", "Appian", "Apian" en libros I y II | **No encontrado en Libros I y II.** Sí aparece en Libro III (líneas 355, 660, 1247) como "Appiano" — fuente genuina sobre Numancia y Cartagena. |
+| Arriano (en Libro IV) | "Arriano", "Arrian", "Ariano" en libro IV | **No encontrado como historiador.** Las 11 coincidencias en Libro IV se refieren todas a la herejía arriana ("ser arriano", "Arrianos"), no al historiador Arriano. Sí aparece como fuente en Libros I (línea 2747: topografía africana) y II (línea 534: embajadas a Alejandro). |
 
 ## Notas sobre la revisión
 
 - **Festo Pompeyo** aparece en Libro I (cap XX, línea 2575), no en Libro II (XX) como indicaban las apuntaciones. El OCR lo registra como "Feíto Pompeio".
-- **Appiano** aparece como "Appiano" en Libro III. Las citas en Libros I y II indicadas en las apuntaciones no se encontraron.
-- **Arriano** (historiador) solo se confirma en Libros I y II, no en Libro IV.
+- **Appiano** aparece como "Appiano" en Libro III (líneas 355, 660, 1247). Las citas en Libros I y II indicadas en las apuntaciones no se encontraron.
+- **Arriano** (historiador) se confirma en Libros I (línea 2747) y II (línea 534) como fuente. En Libro IV, todas las coincidencias de "Arriano" se refieren a la herejía arriana, no al historiador.
 - Las líneas de **Beda** y **Usuardo** (línea 339, Libro IV, Cap III) están en la misma línea de texto: "Afsimifmo Beday Vfuardo teftifican".
 - Las líneas 2553-2740 del OCR de Libro IV están duplicadas; las entradas 170-176 usan los números de la primera aparición.
 - Las entradas 163 y 165 aparecen etiquetadas como "Eusebio Cesariense" pero en realidad se refieren a Eusebio de Nicomedia y Eusebio de Vercelli respectivamente.
 - La entrada 126 ("Cayo Silio Italico" línea 199) puede estar mal atribuida: el OCR en línea 199 habla de Silio (marido de Mesalina), no del poeta.
-- Se verificaron 8 entradas existentes contra el TXT — todas con número de línea correcto.
+- **Filón de Biblos** se encontró como "Philon" en Libro I (línea 1987), citado sobre costumbres fenicias.
+- **Nicéforo** se encontró como "Nicephoro" en Libro IV (línea 1446), citado sobre el martirio de Cristóbal.
+- **Poggio Florentín** se encontró como "Pogio Plorentin" en Libro IV (línea 460), citado por recuperar las *Instituciones oratorias* de Quintiliano.
+- **Dion Casio** se encontró como "Dion" (sin "Casio") en 8 citas a lo largo de Libros III y IV — siempre referido por el nombre monónimo, como era convención habitual.
+- **San Jerónimo** aparece mencionado en Libro IV (líneas 2591, 2688, 3040) solo como personaje histórico (amigo de Damaso), no como fuente citada.
