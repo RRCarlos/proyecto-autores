@@ -139,7 +139,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 121 | Dion | XXIIII | 2559 | como lo dize Dion | Dion Casio: deificación de Sexto Pacuvio |
 | 122 | Claudio Ptolomeo | XXV | 2612 | Ptolomeo señala por aledaños de los Cántabros, a los Autrigones por la parte deliente, y por la de poniente a los Lungones | Ptolomeo: localización de pueblos cántabros |
 | 123 | Claudio Ptolomeo | XXV | 2685 | marcados en Ptolomeo, Vinieron pues a las manos | Ptolomeo: batalla de Vellica |
-| 124 | *Moro Rasis | XXV | 2771 | Rafis Arabe encarece mucho la grandezay hermofura de aquellaciudad,hafta dezir cofas dellacafi increíbles | Moro Rasis: Merida, historian árabe |
+| 124 | *Moro Rasis | XXV | 2771 | Rafis Arabe encarece mucho la grandezay hermofura de aquellaciudad,hafta dezir cofas dellacafi increíbles | Moro Rasis: grandeza y hermosura de Mérida (Emerita Augusta) |
 | 125 | Dion | XXV | 2777 | Dion siempre le llama Tito Cariño, que debió ser descuido de pluma, porque en las monedas no se llama sino Publio Carisio | Dion Casio: error sobre Publio Carisio |
 | 126 | Claudio Ptolomeo | XXV | 2796 | las Aras Sextianas, de las cuales Mela, Plinio, y Ptolomeo, hicieron notable mención | Ptolomeo: monumentos augustales |
 | 127 | Pomponio Mela | XXV | 2799 | por dezir Mela que estaban dedicadas a Augusto César | Pomponio Mela: aras sextianas |
@@ -267,7 +267,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | Justino | 3 | I | Reyes de Tartessos, mitología, colonizaciones antiguas |
 | Lucano | 2 | III, IV | Geografía fluvial hispana, tiranía de Nerón y muerte de Séneca |
 | Marco Varrón | 11 | I, II, III, IV | Etimología del nombre «España», guerra civil en Hispania, administración provincial, costumbres militares |
-| *Moro Rasis | 3 | III, IV | Historiador árabe: Merida, murallas de Toledo, dioceses de Constantino |
+| *Moro Rasis | 3 | III, IV | Historiador árabe: Mérida (Emerita Augusta), murallas de Toledo, dioceses de Constantino |
 | Nicéforo | 1 | IV | Martirio de Cristóbal |
 | Orosio | 3 | II, III, IV | Cronología universal, embajadas a Alejandro, saqueos de Roma |
 | Ovidio Naso | 1 | IV | Poemas de destierro, referencias a poetas hispanos |
