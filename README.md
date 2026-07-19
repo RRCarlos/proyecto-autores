@@ -15,7 +15,7 @@ La pregunta que guía este proyecto es:
 
 No se trata de determinar si Mariana tuvo acceso físico a las obras que menciona, sino de entender la **función historiográfica** de cada cita dentro de la construcción del relato. Plinio aparece casi siempre para describir la geografía de Hispania. Tito Livio sustenta el relato de guerras y conquistas. San Isidoro actúa como puente entre el mundo clásico y el altomedieval. Y cuando Mariana entra en terreno dudoso —reyes fabulosos, genealogías fantásticas, falsificaciones—, despliega varios autores en contraste, desplegando su escepticismo humanista.
 
-El objeto de estudio son **182 citas distribuidas en los Libros I–IV**, referenciadas contra la edición de 1601 y clasificadas según su función en el argumento de Mariana.
+El objeto de estudio son **186 citas distribuidas en los Libros I–IV**, referenciadas contra la edición de 1601 y clasificadas según su función en el argumento de Mariana.
 
 ---
 
@@ -46,7 +46,7 @@ Comprender el sistema de citas de Mariana permite:
 
 #### Verificación de autores
 
-Se realizó una verificación exhaustiva de las **182 citas** contra los archivos OCR de la edición de 1601. Resultados:
+Se realizó una verificación exhaustiva de las **186 citas** contra los archivos OCR de la edición de 1601. Resultados:
 
 - **Autores verificados como fuentes citadas**: 59 de los 68 autores iniciales resultaron ser citaciones genuinas
 - **Autores no encontrados en el OCR**: 9 autores no aparecen como fuentes citadas en los Libros I–IV (algunos aparecen solo como figuras históricas pasajeras o marcas de imprenta)
@@ -58,7 +58,7 @@ La tabla principal (`Tabla de autores 1.md`) contiene:
 
 | Columna | Contenido |
 |---------|-----------|
-| # | Número de entrada (1–182) |
+| # | Número de entrada (1–186) |
 | Autor | Nombre del autor tal como aparece en Mariana |
 | Capítulo | Libro y capítulo de la cita |
 | Línea | Línea exacta en el archivo OCR |
@@ -138,7 +138,7 @@ Proyecto_Autores/
 ├── README.md                          — Bitácora del proyecto
 │
 ├── Tablas/
-│   ├── Tabla de autores 1.md          — Tabla principal: 182 citas con Cita y Contexto
+│   ├── Tabla de autores 1.md          — Tabla principal: 186 citas con Cita y Contexto
 │   └── Tabla de capítulos.md          — Estructura de capítulos de los Libros I–IV
 │
 └── Ediciones_HGE/
