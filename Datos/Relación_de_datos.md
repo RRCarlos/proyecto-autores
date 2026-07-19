@@ -387,83 +387,11 @@ Los nombres propios latinos conservan mejor su forma en el OCR que los nombres e
 
 ---
 
-## 11. Curiosidades y hallazgos
-
-### 11.1 La «triplicidad» de Plinio
-
-Plinio es citado en los 4 libros y acumula 20 apariciones, pero su presencia **decrece cronológicamente**: 9 en LI → 4 en LII → 5 en LIII → 2 en LIV. Esto refleja que Plinio es principalmente una fuente geográfica/etnográfica, más relevante para la España prerromana y romana temprana.
-
-### 11.2 Varrón: el erudito que desaparece
-
-Marco Varrón tiene 11 apariciones en 3 libros (I, II, III) pero **ninguna en el IV**. Su tipo de erudición (gramática, etimología, administración provincial) se agota cuando la narrativa pasa del mundo romano al cristiano.
-
-### 11.3 El «club exclusivo» de Prudencio
-
-Prudencio (6 citas) es el **único autor que aparece exclusivamente en el Libro Cuarto** entre los 10 más citados. Es el poeta cristiano por excelencia de Mariana para los siglos III–V: mártires, concilios, obispos.
-
-### 11.4 San Isidoro: el puente entre mundos
-
-San Isidoro (7 citas) es el único autor que aparece en los Libros I, III y IV — cubriendo desde la etnografía antigua hasta la etimología medieval. Mariana lo usa como **puente enciclopédico** entre la antigüedad clásica y la España visigoda.
-
-### 11.5 Co-referencia tripartita más densa
-
-La línea OCR 687 del Libro Primero contiene **tres autores simultáneos** (Plinio, Estrabón, Ptolomeo), la mayor densidad de autoridad en un solo punto del texto. Mariana invoca la tríada geográfica clásica para confirmar la diversidad de pueblos hispanos.
-
-### 11.6 Los Eusebios: un caso de homonimia controlada
-
-Mariana distingue con precisión entre **cuatro autores distintos** llamados Eusebio:
-- Eusebio Cesariense (cronólogo)
-- Eusebio de Cesarea (cronólogo — posiblemente el mismo)
-- Eusebio de Cesarea de Capadocia (obispo)
-- Eusebio de Nicomedia (arriano)
-- Eusebio de Vercelli (antiarriano)
-
-Esta distinción demuestra un nivel de precisión erudita notable para un historiador del siglo XVI.
-
-### 11.7 La «cola larga» de 37 autores de una cita
-
-Más de la mitad de los autores (52,1 %) aparecen una sola vez. Esto revela que Mariana no es un compilador sistemático sino un **narrador estratégico**: cita a un autor cuando lo necesita para un punto concreto, y no vuelve a él.
-
-### 11.8 Libro Segundo: el más «pobre» en fuentes
-
-Con solo 29 citas y 16 autores, el Libro Segundo (guerras púnicas) es el menos erudito. Su narrativa se sustenta en pocos autores pero de gran peso: Tito Livio (3), Varrón (3), Polibio (3) y Plinio (4) concentran el 48 % de sus citas.
-
----
-
-## 12. Cuadros resumen
-
-### 12.1 Autores por número de libros citados
-
-```
-4 libros:  █████  5 autores  (7,0 %)
-3 libros:  ███████  7 autores  (9,9 %)
-2 libros:  ████████████████████████  20 autores  (28,2 %)
-1 libro:   █████████████████████████████████████████  37 autores  (52,1 %)
-```
-
-### 12.2 Distribución de citas por libro
-
-```
-Libro I:    ████████████████████████  47 citas  (23,4 %)
-Libro II:   ██████████████  29 citas  (14,4 %)
-Libro III:  ██████████████████████████  54 citas  (26,9 %)
-Libro IV:   █████████████████████████████████████  71 citas  (35,3 %)
-```
-
-### 12.3 Top 10 de autores vs. resto
-
-```
-Top 10 autores:   ████████████████████████████████████████████████████  97 citas (48,3 %)
-Otros 61 autores: ██████████████████████████████████████████████████████████  104 citas (51,7 %)
-```
-
----
-
-## 13. Origen geográfico de las fuentes: un mapa mental del conocimiento antiguo
+## 11. Origen geográfico de las fuentes: un mapa mental del conocimiento antiguo
 
 La procedencia geográfica de los autores revela de qué civilizaciones dependía Mariana para reconstruir la historia de España. Los 71 autores se distribuyen en una geografía que cubre todo el Mediterráneo clásico:
 
-### 13.1 Distribución continental
+### 11.1 Distribución continental
 
 | Región | Autores | % del total | Ejemplos destacados |
 |--------|---------|-------------|---------------------|
@@ -475,23 +403,23 @@ La procedencia geográfica de los autores revela de qué civilizaciones dependí
 | Britania | ~2 | 2,8 % | Beda, Galeno (pergamum) |
 | Desconocida / incierta | ~12 | 16,9 % | Varios autores menores y medievales |
 
-### 13.2 Observaciones clave
+### 11.2 Observaciones clave
 
 - **Roma domina en cantidad** (34 %), pero **Grecia domina en autoridad**: Ptolomeo, Platón y Aristóteles son citados como fuentes científicas, no meras referencias narrativas.
 - **Hispania aporta 8 autores** — el 11 % — que son los más cercanos a Mariana: Séneca, Columela, Lucano, Floro, Prudencio. Son sus «compatriotas» literarios.
 - La presencia de **Siria** (Filón de Biblos, Orígenes) y **Norte de África** (Tertuliano, Apuleyo) muestra que la red de fuentes de Mariana se extendía por todo el Imperio romano, no solo sus núcleos itálico/helénico.
 
-### 13.3 Implicación para la obra de Mariana
+### 11.3 Implicación para la obra de Mariana
 
 Mariana no se limitó a las fuentes grecolatinas canónicas. Su inclusiones de Beda (Britania), Moro Rasis (al-Ándalus) y el Pelayo obispo de Oviedo (Asturias) muestran una voluntad explícita de abarcar la **totalidad geográfica** de la Península Ibérica a lo largo de los siglos, incluyendo sus fuentes musulmanas y medievales.
 
 ---
 
-## 14. Idiomas de las fuentes: el plurilingüismo erudito del siglo XVI
+## 12. Idiomas de las fuentes: el plurilingüismo erudito del siglo XVI
 
 Mariana accedía a sus fuentes en varios idiomas. Este frente analiza la lengua original de cada autor citado, lo que revela la amplitud lingüística de su erudición.
 
-### 14.1 Distribución por lengua original
+### 12.1 Distribución por lengua original
 
 | Idioma | Autores | % | Autores representativos |
 |--------|---------|---|------------------------|
@@ -502,21 +430,21 @@ Mariana accedía a sus fuentes en varios idiomas. Este frente analiza la lengua 
 | Hebreo | ~1 | 1,4 % | Orígenes |
 | Desconocido | ~7 | 9,9 % | Autores fragmentarios o perdidos |
 
-### 14.2 El problema de las traducciones
+### 12.2 El problema de las traducciones
 
 El caso más revelador es **Ptolomeo** (14 citas): Mariana lo cita en la versión latina de **Giorgio Valla** (1488–1498), no en griego. Esto es coherente con su formación: como jesuita formado en Alcalá y Roma, su griego era funcional pero su latín era nativo. La mayoría de los autores griegos llegaban a Mariana ya traducidos al latín por humanistas del siglo XV.
 
-### 14.3 Fuentes árabes: un puente cultural
+### 12.3 Fuentes árabes: un puente cultural
 
 La presencia de **Moro Rasis** (13 citas, el 7.º autor más citado) y **Alboácen** demuestra que Mariana tuvo acceso a traducciones castellanas de crónicas árabes, probablemente a través de la traducción de **Juan de Segovia** o similares. Esto es notable: en 1592, la erudición española ya integraba fuentes musulmanas como legítimas para la historia de Hispania.
 
 ---
 
-## 15. Redes de transmisión textual: quién cita a quién
+## 13. Redes de transmisión textual: quién cita a quién
 
 Este frente rastrea las relaciones indirectas entre autores: cuando Mariana cita a un autor que a su vez cita a otro. Esto revela las **cadenas de transmisión** de la información histórica.
 
-### 15.1 Cadenas principales detectadas
+### 13.1 Cadenas principales detectadas
 
 ```
 Homero → (oral) → Heródoto → Plutarco → Mariana
@@ -537,7 +465,7 @@ Plinio el Viejo → Ptolomeo → Mariana
                → Solino → Mariana
 ```
 
-### 15.2 Observaciones clave
+### 13.2 Observaciones clave
 
 - **Plinio el Viejo** es el nodo central: al menos 5 cadenas de transmisión pasan por él. Su *Naturalis Historia* era la enciclopedia de referencia.
 - **Varrón** (11 citas) actúa como puente entre la tradición agronómica-enciclopédica y Mariana.
@@ -546,11 +474,11 @@ Plinio el Viejo → Ptolomeo → Mariana
 
 ---
 
-## 16. Densidad temática por capítulo
+## 14. Densidad temática por capítulo
 
 Este frente clasifica las 201 citas por tema predominante en el capítulo donde aparecen, revelando qué aspectos de la historia de España priorizó Mariana en cada parte de su obra.
 
-### 16.1 Distribución temática estimada
+### 14.1 Distribución temática estimada
 
 | Tema | Entradas aproximadas | Libros predominantes | Ejemplos |
 |------|----------------------|---------------------|----------|
@@ -566,24 +494,24 @@ Este frente clasifica las 201 citas por tema predominante en el capítulo donde 
 | Arte / arquitectura | ~4 | III, IV | Plinio, Vitrubio |
 | Otros | ~53 | Varios | Fragmentarios, misceláneos |
 
-### 16.2 Patrón observado
+### 14.2 Patrón observado
 
 - El **Libro I** es el más heterogéneo: geografía, mitología, costumbres y guerras primitivas.
 - El **Libro II** se concentra en cronología y genealogías reales.
 - El **Libro III** mezcla geografía, derecho y agricultura.
 - El **Libro IV** domina en guerras, biografías e instituciones del Bajo Imperio.
 
-### 16.3 Implicación
+### 14.3 Implicación
 
 Mariana estructuró su obra siguiendo un modelo **polibiano** de la historia: no solo narrar hechos, sino explicar sus causas (geografía, costumbres, instituciones). La distribución temática refleja esta ambición de historia *causal*, no meramente cronológica.
 
 ---
 
-## 17. Supervivencia de las fuentes citadas: ¿cuántas obras referenciadas existen hoy?
+## 15. Supervivencia de las fuentes citadas: ¿cuántas obras referenciadas existen hoy?
 
 De las ~40 obras diferentes que Mariana cita directamente, ¿cuántas sobreviven completas, cuáles fragmentariamente y cuáles se han perdido?
 
-### 17.1 Estado de conservación
+### 15.1 Estado de conservación
 
 | Estado | Obras | % | Ejemplos |
 |--------|-------|---|----------|
@@ -592,11 +520,11 @@ De las ~40 obras diferentes que Mariana cita directamente, ¿cuántas sobreviven
 | **Perdidas** | ~7 | 17,5 % | Homero → existe, pero *Fenicias* de Filón: perdida; Solino original vs. *Collectanea* |
 | **Traducción medieval** | ~3 | 7,5 % | Moro Rasis (traducción castellana de la crónica árabe), Beda |
 
-### 17.2 La tasa de supervivencia
+### 15.2 La tasa de supervivencia
 
 Según los estudios modernos (Grafton, *The MissingMosaic*), solo sobrevivió aproximadamente el **1 % de la literatura griega clásica** y el **5–10 % de la latina**. Mariana citaba predominantemente autores del estrato que SÍ sobrevivió, lo que confirma la selección natural de la tradición manuscrita medieval.
 
-### 17.3 Autores cuyas fuentes principales se perdieron
+### 15.3 Autores cuyas fuentes principales se perdieron
 
 | Autor en Mariana | Obra referenciada | Estado hoy |
 |------------------|-------------------|------------|
@@ -605,7 +533,7 @@ Según los estudios modernos (Grafton, *The MissingMosaic*), solo sobrevivió ap
 | Ennio | *Annales* | Perdidos en su mayoría |
 | Livio | 42 libros | Solo 35 sobreviven (los 7 «perdidos») |
 
-### 17.4 Implicación
+### 15.4 Implicación
 
 Mariana trabajaba con un **corpus ya filtrado** por siglos de selección. Su erudición era impresionante para 1592, pero estaba limitada por lo que los monjes medievales decidieron copiar. Las fuentes que citaba eran las que sobrevivieron precisamente porque se consideraban las más importantes — un círculo de autoridad que se retroalimenta.
 
