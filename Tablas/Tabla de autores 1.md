@@ -321,7 +321,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Valerio Sorano | 1 | I | Religión y secretos sagrados |
 | Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
-**Total de autores distintos: 76 (75 fuentes externas + 1 autoreferencia)**
+**Total de autores distintos: 75 (74 fuentes externas + 1 autoreferencia)**
 
 ## Autores no encontrados en los archivos TXT
 

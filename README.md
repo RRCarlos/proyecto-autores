@@ -15,7 +15,7 @@ La pregunta que guía este proyecto es:
 
 No se trata de determinar si Mariana tuvo acceso físico a las obras que menciona, sino de entender la **función historiográfica** de cada cita dentro de la construcción del relato. Plinio aparece casi siempre para describir la geografía de Hispania. Tito Livio sustenta el relato de guerras y conquistas. San Isidoro actúa como puente entre el mundo clásico y el altomedieval. Y cuando Mariana entra en terreno dudoso —reyes fabulosos, genealogías fantásticas, falsificaciones—, despliega varios autores en contraste, desplegando su escepticismo humanista.
 
-El objeto de estudio son **205 citas a fuentes externas y 2 autoreferencias distribuidas en los Libros I–IV**, referenciadas contra la edición de 1601 y clasificadas según su función en el argumento de Mariana.
+El objeto de estudio son **206 citas a fuentes externas y 2 autoreferencias distribuidas en los Libros I–IV**, referenciadas contra la edición de 1601 y clasificadas según su función en el argumento de Mariana.
 
 ---
 
@@ -46,9 +46,9 @@ Comprender el sistema de citas de Mariana permite:
 
 #### Verificación de autores
 
-Se realizó una verificación exhaustiva de las **205 citas** contra los archivos OCR de la edición de 1601. Además, se hizo un barrido sistemático de **25 capítulos sin citas** en busca de nuevas referencias. Resultados:
+Se realizó una verificación exhaustiva de las **206 citas** contra los archivos OCR de la edición de 1601. Además, se hizo un barrido sistemático de **25 capítulos sin citas** en busca de nuevas referencias. Resultados:
 
-- **Autores verificados como fuentes citadas**: 75 autores resultaron ser citaciones genuinas
+- **Autores verificados como fuentes citadas**: 74 autores externos resultaron ser citaciones genuinas
 - **Autores no encontrados en el OCR**: 6 autores no aparecen como fuentes citadas en los Libros I–IV (Casiodoro, Filisto, Hilderico, Miguel Sincelo, Hernando del Pulgar, Arriano en LIV)
 - **Barrido de capítulos**: de 25 capítulos vacíos, se hallaron **6 citas nuevas** (Rufo Festo y Tito Livio en L.I CAP XXI; Trebellio Polión y San Jerónimo en L.IV; San Agustín ×2 en L.IV pendientes de indexar), más **Juan Margarite** localizado como «don luán Margante» en L.III CAP XXIV pendiente de indexar
 
@@ -58,7 +58,7 @@ La tabla principal (`Tabla de autores 1.md`) contiene:
 
 | Columna | Contenido |
 |---------|-----------|
-| # | Número de entrada (1–205) |
+| # | Número de entrada (1–206) |
 | Autor | Nombre del autor tal como aparece en Mariana |
 | Capítulo | Libro y capítulo de la cita |
 | Línea | Línea exacta en el archivo OCR |
@@ -139,7 +139,7 @@ Proyecto_Autores/
 ├── README.md                          — Bitácora del proyecto
 │
 ├── Tablas/
-│   ├── Tabla de autores 1.md          — Tabla principal: 205 citas con Cita y Contexto
+│   ├── Tabla de autores 1.md          — Tabla principal: 206 citas con Cita y Contexto
 │   └── Tabla de capítulos.md          — Estructura de capítulos de los Libros I–IV
 │
 ├── Notas/

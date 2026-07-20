@@ -1,6 +1,6 @@
 # Relación de datos
 
-Análisis cuantitativo y cualitativo de las citas a autores en los Libros I–IV de la *Historia General de España* de Juan de Mariana (edición de 1601). Fuente: [Tabla de autores 1](../Tablas/Tabla%20de%20autores%201.md) (206 entradas, 76 autores únicos).
+Análisis cuantitativo y cualitativo de las citas a autores en los Libros I–IV de la *Historia General de España* de Juan de Mariana (edición de 1601). Fuente: [Tabla de autores 1](../Tablas/Tabla%20de%20autores%201.md) (206 entradas, 75 autores únicos).
 
 ---
 
@@ -9,17 +9,17 @@ Análisis cuantitativo y cualitativo de las citas a autores en los Libros I–IV
 | Métrica | Valor |
 |---------|-------|
 | Total de apariciones (citas) | 206 |
-| Autores únicos | 76 |
+| Autores únicos | 75 |
 | Libros cubiertos | 4 (I–IV) |
 | Capítulos con al menos 1 cita | 82 de 92 totales |
-| Autores que acaparan el 50 % de las citas | 12 de 76 (15,8 %) |
+| Autores que acaparan el 50 % de las citas | 12 de 75 (16,0 %) |
 | Autor más citado | Plinio (20 citas, 9,7 %) |
 | Libro con más citas | Libro Cuarto (73 citas, 35,4 %) |
-| Libro con más autores únicos | Libro Cuarto (38 autores) |
-| Autores citados en 3+ libros | 12 de 76 (15,8 %) |
-| Autores de una sola aparición | 40 de 76 (52,6 %) |
+| Libro con más autores únicos | Libro Cuarto (40 autores) |
+| Autores citados en 3+ libros | 12 de 75 (16,0 %) |
+| Autores de una sola aparición | 40 de 75 (53,3 %) |
 
-**Ley de Pareto aplicada:** Los 10 autores más citados (13,2 % del total) concentran 97 apariciones, el **47,1 %** de todas las citas. Los 20 primeros (26,3 %) concentran 140 citas, el **68,0 %**.
+**Ley de Pareto aplicada:** Los 10 autores más citados (13,3 % del total) concentran 94 apariciones, el **45,6 %** de todas las citas. Los 20 primeros (26,7 %) concentran 133 citas, el **64,6 %**.
 
 ---
 
@@ -54,20 +54,20 @@ Análisis cuantitativo y cualitativo de las citas a autores en los Libros I–IV
 | 23 | Moro Rasis | 3 | 1,5 % | III, IV | Historiador árabe |
 | 24 | Orosio | 3 | 1,5 % | II, III, IV | Cronista cristiano |
 | 25–35 | 11 autores con 2 apariciones | 22 | 10,7 % | — | Varios |
-| 36–76 | 41 autores con 1 aparición | 41 | 19,9 % | — | Varios |
+| 36–75 | 40 autores con 1 aparición | 40 | 19,4 % | — | Varios |
 
 ### 2.2 Curva de concentración (Pareto)
 
 | Grupo | Autores | % de autores | Citas | % de citas |
 |-------|---------|-------------|-------|------------|
-| Top 5 | Plinio, Ptolomeo, Varrón, Dion, Plutarco | 6,6 % | 61 | 29,6 % |
-| Top 10 | + Cicerón, Isidoro, Séneca, Prudencio, T. Livio | 13,2 % | 94 | 45,6 % |
-| Top 15 | + Apiano, Silio, Estrabón, Quintiliano, Polibio | 19,7 % | 118 | 57,3 % |
-| Top 20 | + Amiano, Aristóteles, Solino, Suetonio, Diodoro | 26,3 % | 133 | 64,6 % |
-| Top 24 | + Eusebio, Justino, Moro Rasis, Orosio | 31,6 % | 145 | 70,4 % |
-| Todos (76) | — | 100 % | 206 | 100 % |
+| Top 5 | Plinio, Ptolomeo, Varrón, Dion, Plutarco | 6,7 % | 61 | 29,6 % |
+| Top 10 | + Cicerón, Isidoro, Séneca, Prudencio, T. Livio | 13,3 % | 94 | 45,6 % |
+| Top 15 | + Apiano, Silio, Estrabón, Quintiliano, Polibio | 20,0 % | 118 | 57,3 % |
+| Top 20 | + Amiano, Aristóteles, Solino, Suetonio, Diodoro | 26,7 % | 133 | 64,6 % |
+| Top 24 | + Eusebio, Justino, Moro Rasis, Orosio | 32,0 % | 145 | 70,4 % |
+| Todos (75) | — | 100 % | 206 | 100 % |
 
-**Interpretación:** Un tercio de los autores concentra dos tercios de las citas. El modelo es típico de una obra historiográfica clásica: unas pocas autoridades fundacionales (Plinio, Ptolomeo, Varrón) sostienen la mayor parte del aparato erudito, mientras que la «cola larga» de 41 autores de una sola aparición refleja menciones puntuales, curiosidades o referencias de apoyo.
+**Interpretación:** Un tercio de los autores concentra dos tercios de las citas. El modelo es típico de una obra historiográfica clásica: unas pocas autoridades fundacionales (Plinio, Ptolomeo, Varrón) sostienen la mayor parte del aparato erudito, mientras que la «cola larga» de 40 autores de una sola aparición refleja menciones puntuales, curiosidades o referencias de apoyo.
 
 ---
 
@@ -77,11 +77,11 @@ Análisis cuantitativo y cualitativo de las citas a autores en los Libros I–IV
 
 | Libro | Entradas | % | Autores únicos | Densidad (citas/capítulo) |
 |-------|----------|---|----------------|--------------------------|
-| Libro Primero | 49 | 23,9 % | 25 | 2,2 |
-| Libro Segundo | 30 | 14,6 % | 16 | 1,2 |
+| Libro Primero | 49 | 23,9 % | 27 | 2,2 |
+| Libro Segundo | 30 | 14,6 % | 17 | 1,2 |
 | Libro Tercero | 54 | 26,3 % | 21 | 2,3 |
-| Libro Cuarto | 73 | 35,4 % | 39 | 3,5 |
-| **Total** | **206** | **100 %** | **76** | **2,2** |
+| Libro Cuarto | 73 | 35,4 % | 40 | 3,5 |
+| **Total** | **206** | **100 %** | **75** | **2,2** |
 
 **Observaciones:**
 - El Libro Cuarto tiene **el triple de densidad** que el Libro Segundo. Esto se explica porque LIV cubre 400 años de historia (siglos I–V) con multiplicación de fuentes eclesiásticas y cronológicas.
@@ -285,7 +285,7 @@ Plinio y Cicerón nunca aparecen juntos en la misma línea OCR, pese a ser dos d
 
 ### 8.1 Fórmulas citativas
 
-Del análisis de las 201 citas OCR se identifican patrones recurrentes en cómo Mariana introduce a sus fuentes:
+Del análisis de las 206 citas OCR se identifican patrones recurrentes en cómo Mariana introduce a sus fuentes:
 
 | Fórmula | Ejemplos | Frecuencia estimada |
 |---------|----------|---------------------|
@@ -384,7 +384,7 @@ Los nombres propios latinos conservan mejor su forma en el OCR que los nombres e
 
 ## 11. Origen geográfico de las fuentes: un mapa mental del conocimiento antiguo
 
-La procedencia geográfica de los autores revela de qué civilizaciones dependía Mariana para reconstruir la historia de España. Los 76 autores se distribuyen en una geografía que cubre todo el Mediterráneo clásico:
+La procedencia geográfica de los autores revela de qué civilizaciones dependía Mariana para reconstruir la historia de España. Los 75 autores se distribuyen en una geografía que cubre todo el Mediterráneo clásico:
 
 ### 11.1 Distribución continental
 
@@ -471,7 +471,7 @@ Plinio el Viejo → Ptolomeo → Mariana
 
 ## 14. Densidad temática por capítulo
 
-Este frente clasifica las 201 citas por tema predominante en el capítulo donde aparecen, revelando qué aspectos de la historia de España priorizó Mariana en cada parte de su obra.
+Este frente clasifica las 206 citas por tema predominante en el capítulo donde aparecen, revelando qué aspectos de la historia de España priorizó Mariana en cada parte de su obra.
 
 ### 14.1 Distribución temática estimada
 
@@ -536,7 +536,7 @@ Mariana trabajaba con un **corpus ya filtrado** por siglos de selección. Su eru
 
 ## Metodología
 
-- **Fuente primaria:** [Tabla de autores 1.md](../Tablas/Tabla%20de%20autores%201.md) (201 entradas verificadas).
+- **Fuente primaria:** [Tabla de autores 1.md](../Tablas/Tabla%20de%20autores%201.md) (206 entradas verificadas).
 - **Verificación cruzada:** Notas del investigador (`Notas/Apuntes sobre HGE Cap I-IV.txt`) + archivos OCR individuales (`Ediciones_HGE/01_libro_primero.txt` a `04_libro_cuarto.txt`).
 - **Criterio de inclusión:** Solo autores citados explícitamente por Mariana como fuentes o autoridades. Personajes históricos mencionados de pasada (San Jerónimo, Arriano en LIV) se registran en «no encontrados».
 - **Limitaciones:** El OCR contiene corrupciones significativas que pueden ocultar menciones. La tabla refleja las citas encontradas, no necesariamente las totales de la edición completa.
