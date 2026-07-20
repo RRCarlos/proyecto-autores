@@ -7,7 +7,7 @@
 
 ## 1. Qué investigamos
 
-Juan de Mariana (1536–1624), jesuita e historiador, publicó en 1601 la primera traducción al castellano de su *Historia General de España* (*Historia General de España, compuesta primero en latín, después vuelta en castellano por Juan de Mariana*). En los cuatro primeros libros —que abarcan desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a **71 autores distintos** para fundamentar su relato.
+Juan de Mariana (1536–1624), jesuita e historiador, publicó en 1601 la primera traducción al castellano de su *Historia General de España* (*Historia General de España, compuesta primero en latín, después vuelta en castellano por Juan de Mariana*). En los cuatro primeros libros —que abarcan desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a **72 autores distintos (71 fuentes externas + 1 autoreferencia)** para fundamentar su relato.
 
 La pregunta que guía este proyecto es:
 
@@ -15,7 +15,7 @@ La pregunta que guía este proyecto es:
 
 No se trata de determinar si Mariana tuvo acceso físico a las obras que menciona, sino de entender la **función historiográfica** de cada cita dentro de la construcción del relato. Plinio aparece casi siempre para describir la geografía de Hispania. Tito Livio sustenta el relato de guerras y conquistas. San Isidoro actúa como puente entre el mundo clásico y el altomedieval. Y cuando Mariana entra en terreno dudoso —reyes fabulosos, genealogías fantásticas, falsificaciones—, despliega varios autores en contraste, desplegando su escepticismo humanista.
 
-El objeto de estudio son **201 citas distribuidas en los Libros I–IV**, referenciadas contra la edición de 1601 y clasificadas según su función en el argumento de Mariana.
+El objeto de estudio son **201 citas a fuentes externas y 2 autoreferencias distribuidas en los Libros I–IV**, referenciadas contra la edición de 1601 y clasificadas según su función en el argumento de Mariana.
 
 ---
 
@@ -49,7 +49,7 @@ Comprender el sistema de citas de Mariana permite:
 Se realizó una verificación exhaustiva de las **201 citas** contra los archivos OCR de la edición de 1601. Resultados:
 
 - **Autores verificados como fuentes citadas**: 71 autores resultaron ser citaciones genuinas
-- **Autores no encontrados en el OCR**: 13 autores no aparecen como fuentes citadas en los Libros I–IV (algunos aparecen solo como figuras históricas pasajeras o marcas de imprenta)
+- **Autores no encontrados en el OCR**: 11 autores no aparecen como fuentes citadas en los Libros I–IV (Nepote se descartó por ausencia total; Juan de Mariana pasó a categoría de autoreferencias)
 
 #### Tabla de autores
 
@@ -65,8 +65,9 @@ La tabla principal (`Tabla de autores 1.md`) contiene:
 | Contexto | Descripción del contexto historiográfico de la cita |
 
 Se incluyen además:
-- **Resumen por autor** (71 autores con temática y frecuencia de aparición)
-- **Autores no encontrados** (13 autores sin citas genuinas en el OCR)
+- **Resumen por autor** (72 autores con temática y frecuencia de aparición)
+- **Autoreferencias de Juan de Mariana** (2 remisiones a su *Historiae de Rebus Hispaniae* de 1592)
+- **Autores no encontrados** (11 autores sin citas genuinas en el OCR)
 - **Notas sobre la revisión** (6 hallazgos verificados: duplicaciones OCR, atribuciones erróneas, variantes ortográficas, alcance de la verificación)
 
 ---

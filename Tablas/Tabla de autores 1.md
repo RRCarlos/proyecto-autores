@@ -223,7 +223,18 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 200 | Orosio | XXI | 3160 | la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Orosio: discrepancia de dos años |
 | 201 | Prospero de Aquitania | XXI | 3160 | Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Prospero: misma discrepancia cronológica |
 
-**Total de apariciones: 201**
+**Total de apariciones (fuentes externas): 201**
+
+## Autoreferencias de Juan de Mariana
+
+Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempre remitiendo a su *Historiae de Rebus Hispaniae* (1592) como depósito erudito del que la versión castellana extracta o prescinde. Ninguna de las dos es una cita de autoridad factual, sino una decisión editorial sobre qué incluir y dónde.
+
+| # | Libro | Capítulo | Línea | Cita | Contexto |
+|---|-------|----------|-------|------|----------|
+| AR1 | III | XIV | 1727 | no lo tenemos por cierto,dado q en nueftra hiftoria Latina pufimos aquel letrero,tomado có otros algunos de Ambrofio de Morales,a fu riefgo y por fu cuenta | Mariana se distancia de una inscripción dudosa sobre el sepulcro de Sertorio en Ébora (Évora), incluida en su *Historiae de Rebus Hispaniae* (1592) por conducto de Ambrosio de Morales. En la castellana la omite por falta de testigos fiables. |
+| AR2 | IV | IV | 620–624 | En nueftra hiftoria Latina la hallará quien guftare de eftas antiguallas | Mariana remite al lector a su obra latina para consultar la epístola de Vespasiano hallada en Cañete (antigua Sabora). No la reproduce ni en latín (inteligible solo para eruditos) ni en romance (pérdida de elegancia). |
+
+**Total de autoreferencias: 2**
 
 ## Resumen por autor
 
@@ -263,6 +274,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | Floro | 1 | III | Guerras civiles en Hispania |
 | Gregorio Giraldo | 1 | IV | Biografía de Silio Itálico y su patria |
 | Heródoto | 1 | I | Curiosidades etnográficas (derrota asiria por ratones) |
+| Juan de Mariana | 2 | III, IV | Autoreferencias a su *Historiae de Rebus Hispaniae* (1592): inscripción de Sertorio (Ébora) y epístola de Vespasiano (Sabora). Función metodológica, no de autoridad factual. |
 | *Julio Capitolino | 1 | IV | Legion Fulminatrix, prodigios militares |
 | Justino | 3 | I | Reyes de Tartessos, mitología, colonizaciones antiguas |
 | Lucano | 2 | III, IV | Geografía fluvial hispana, tiranía de Nerón y muerte de Séneca |
@@ -301,7 +313,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | Valerio Sorano | 1 | I | Religión y secretos sagrados |
 | Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
-**Total de autores distintos: 71**
+**Total de autores distintos: 72 (71 fuentes externas + 1 autoreferencia)**
 
 ## Autores no encontrados en los archivos TXT
 
@@ -311,7 +323,6 @@ Búsqueda exhaustiva realizada capítulo por capítulo en los cuatro archivos OC
 
 | Autor | Variantes buscadas | Resultado |
 |-------|-------------------|-----------|
-| Nepote | "Nepote", "Nepo", "Nepot", "Nepos" en libros I–IV | **No encontrado.** Aparece en HGE_TomosI-II.txt pero en Libro Quinto (emperador Julio Nepos), no en los libros I–IV. |
 | Hipócrates | "Hipócrates", "Hipocrat", "Hipocras" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro II Cap II pero ausente del OCR. |
 | Casiodoro | "Casiodoro", "Cafiodoro", "Casiodo", "Cafodoro", "Caſiodoro" en libros I–IV | **No encontrado.** Nombre posiblemente corruptado en OCR o ausente de esta edición. |
 | San Agustín | "Agustín", "Augustin", "Agust", "Agustin" en libros I–IV | **No encontrado.** Ausente de los archivos TXT. |
@@ -320,7 +331,6 @@ Búsqueda exhaustiva realizada capítulo por capítulo en los cuatro archivos OC
 | Trebellio Polión | "Trebellio", "Polión", "Polion", "Trebello", "Trebelio" en libros I–IV | **No encontrado.** Ausente de los archivos TXT. |
 | Juan Margarite | "Margarite", "Margarita", "Marguerite" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro III Cap XXIV pero ausente del OCR. |
 | Hilderico | "Hilderico", "Hilderic", "Ilderic" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro III Cap XXIV pero ausente del OCR. |
-| Juan de Mariana | "Mariana" en libros I–IV | **Solo como marca de imprenta.** Aparece como rúbrica de colofón ("luán de Mariana, G 4") en Libros II y III, no como autor citado en el cuerpo del texto. |
 | Miguel Sincelo | "Sincelo", "Syncelo", "Síncelo" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro IV Cap IV pero ausente del OCR. |
 | Hernando del Pulgar | "Pulgar", "del Pulgar" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro IV Cap XXI pero solo aparece en libros posteriores (VII+). |
 | Arriano (en Libro IV) | "Arriano", "Arrian", "Ariano" en libro IV | **No encontrado como historiador.** Las 11 coincidencias en Libro IV se refieren todas a la herejía arriana ("ser arriano", "Arrianos"), no al historiador Arriano. Sí aparece como fuente en Libros I (línea 2747: topografía africana) y II (línea 534: embajadas a Alejandro). |
@@ -331,4 +341,4 @@ Búsqueda exhaustiva realizada capítulo por capítulo en los cuatro archivos OC
 - **Duplicación OCR en Libro IV**: las líneas 2580–2593 y 2678–2693 contienen texto casi idéntico (biografía del Papa Damaso y su amistad con San Jerónimo). Las entradas 188–194 usan los números de la primera aparición.
 - **Entrada 137** ("Cayo Silio Italico", Libro IV línea 199): la cita ("vn mancebo principal, llamado Silio") se refiere a Silio, marido de Mesalina, no al poeta Cayo Silio Italico. El poeta sí aparece como fuente en Libro II (línea 3106) y Libro IV (línea 466).
 - **San Jerónimo**: las 3 menciones en Libro IV (líneas 2591, 2688, 3040) lo describen como personaje histórico (amigo de Damaso y de Licinio Bético), nunca como fuente citada por Mariana.
-- **Verificación de julio 2026**: se añadieron 15 entradas nuevas (186→201 apariciones, 62→71 autores) mediante cruce exhaustivo de las notas del investigador contra los archivos OCR. Se añadieron 5 autores más a la sección de no encontrados (13 total).
+- **Verificación de julio 2026**: se añadieron 15 entradas nuevas (186→201 apariciones, 62→71 autores) mediante cruce exhaustivo de las notas del investigador contra los archivos OCR. Se añadieron 5 autores más a la sección de no encontrados; tras el deep research en OCR, Nepote (ausente en todo I–IV) se descartó y Juan de Mariana se movió a autoreferencias (total: 11 no encontrados).
