@@ -330,14 +330,38 @@ Búsqueda exhaustiva realizada capítulo por capítulo en los cuatro archivos OC
 | Autor | Variantes buscadas | Resultado |
 |-------|-------------------|-----------|
 | Casiodoro | "Casiodoro", "Cafiodoro", "Casiodo", "Cafodoro", "Caſiodoro" en libros I–IV | **No encontrado.** Nombre posiblemente corruptado en OCR o ausente de esta edición. |
-| San Agustín | "Agustín", "Augustin", "Agust", "Agustin" en libros I–IV | **No encontrado.** Ausente de los archivos TXT. |
 | Filisto de Siracusa | "Filisto", "Filto", "Filifto", "Filfto", "Philiſto" en libros I–IV | **No encontrado.** Ausente de los archivos TXT. |
 | Trebellio Polión | "Trebellio", "Polión", "Polion", "Trebello", "Trebelio" en libros I–IV | **No encontrado.** Ausente de los archivos TXT. |
-| Juan Margarite | "Margarite", "Margarita", "Marguerite" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro III Cap XXIV pero ausente del OCR. |
 | Hilderico | "Hilderico", "Hilderic", "Ilderic" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro III Cap XXIV pero ausente del OCR. |
 | Miguel Sincelo | "Sincelo", "Syncelo", "Síncelo" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro IV Cap IV pero ausente del OCR. |
 | Hernando del Pulgar | "Pulgar", "del Pulgar" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro IV Cap XXI pero solo aparece en libros posteriores (VII+). |
 | Arriano (en Libro IV) | "Arriano", "Arrian", "Ariano" en libro IV | **No encontrado como historiador.** Las 11 coincidencias en Libro IV se refieren todas a la herejía arriana ("ser arriano", "Arrianos"), no al historiador Arriano. Sí aparece como fuente en Libros I (línea 2747: topografía africana) y II (línea 534: embajadas a Alejandro). |
+
+## Tabla de autores aún no encontrados con OCR
+
+De los autores referidos en las notas del investigador o mencionados en la bibliografía de la edición, los siguientes **no han podido localizarse** en los archivos OCR de los Libros I–IV tras búsqueda exhaustiva por variantes ortográficas y corrupción OCR:
+
+| # | Autor | Libro | Causa probable |
+|---|-------|-------|----------------|
+| 1 | **Casiodoro** | III | Nombre corrupto en OCR o ausente de esta edición |
+| 2 | **Filisto de Siracusa** | I | Fuente muy antigua (s. IV a.C.), Mariana quizá cita de memoria |
+| 3 | **Trebellio Polión** | III | Autor de la *Historia Augusta* — nombre no detectado en OCR |
+| 4 | **Hilderico** | III | Solo en libros V+ |
+| 5 | **Miguel Sincelo** | IV | Bizantino (s. IX), fuera del rango de fuentes de L I–IV |
+| 6 | **Hernando del Pulgar** | IV | Solo en libros posteriores (VII+) |
+| 7 | **Arriano (en LIV)** | IV | Confundido con herejía arriana; presente como historiador solo en L I y L II |
+
+**Total: 7 autores no encontrados en OCR.**
+
+### Autores encontrados en OCR pendientes de indexar
+
+Los siguientes autores fueron localizados en el texto OCR con citas verificables pero aún no tienen entrada en la tabla principal:
+
+| Autor | Libro | Capítulo | Línea | OCR | Cita |
+|-------|-------|----------|-------|-----|------|
+| San Agustín | IV | I | 20 | "en tiepo de fan Auguílin fuccedio,como el mefmo lo refiere" | San Agustín testifica sobre la confusión de los cónsules |
+| San Agustín | IV | XII | 1751 | "Pegun que lo refiere fan Auguílin" | San Agustín referido sobre edictos |
+| Juan Margarite | III | XXIV | 2453 | "Porqueloquedizc don luán Margante obifpo de Girona" | Sobre la Era del César |
 
 ## Notas sobre la revisión
 
@@ -345,4 +369,4 @@ Búsqueda exhaustiva realizada capítulo por capítulo en los cuatro archivos OC
 - **Duplicación OCR en Libro IV**: las líneas 2580–2593 y 2678–2693 contienen texto casi idéntico (biografía del Papa Damaso y su amistad con San Jerónimo). Las entradas 188–194 usan los números de la primera aparición.
 - **Entrada 137** ("Cayo Silio Italico", Libro IV línea 199): la cita ("vn mancebo principal, llamado Silio") se refiere a Silio, marido de Mesalina, no al poeta Cayo Silio Italico. El poeta sí aparece como fuente en Libro II (línea 3106) y Libro IV (línea 466).
 - **San Jerónimo**: indexado como fuente en Libro IV (línea 2489, entrada 189), donde Mariana lo cita por su *De viris illustribus* dedicado a Dextro de Barcelona. Las otras 3 menciones (líneas 2591, 2688, 3040) lo describen como personaje histórico (amigo de Damaso y de Licinio Bético). Encontrado mediante variante de búsqueda «Icronymo» (OCR corrupto).
-- **Verificación de julio 2026**: se añadieron 19 entradas nuevas (186→205 apariciones, 62→74 autores) mediante cruce exhaustivo de las notas del investigador (Casiodoro, San Agustín ×2, San Jerónimo, Filisto, Trebellio, Juan Margarite) y barrido de 25 capítulos sin citas (halladas 2 en Libro I CAP XXI: Rufo Festo y Tito Livio). San Jerónimo recuperado del OCR y ya no está en no encontrados (11 restantes). Arreglado duplicado de numeración 191. Revisión completa de numeración completada.
+- **Verificación de julio 2026**: se añadieron 19 entradas nuevas (186→205 apariciones, 62→74 autores). Barrido de 25 capítulos sin citas: halladas 2 en Libro I CAP XXI (Rufo Festo, Tito Livio). San Jerónimo recuperado del OCR. San Agustín (2 citas) y Juan Margarite (1 cita) localizados en OCR pero pendientes de indexar. 7 autores continúan sin localizar en OCR. Arreglado duplicado de numeración 191. Revisión completa de numeración completada.

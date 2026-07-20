@@ -49,8 +49,8 @@ Comprender el sistema de citas de Mariana permite:
 Se realizó una verificación exhaustiva de las **205 citas** contra los archivos OCR de la edición de 1601. Además, se hizo un barrido sistemático de **25 capítulos sin citas** en busca de nuevas referencias. Resultados:
 
 - **Autores verificados como fuentes citadas**: 74 autores resultaron ser citaciones genuinas
-- **Autores no encontrados en el OCR**: 11 autores no aparecen como fuentes citadas en los Libros I–IV (Nepote descartado, Juan de Mariana como autoreferencia, Hipócrates recuperado del OCR)
-- **Barrido de capítulos**: de 25 capítulos vacíos, se hallaron **2 citas nuevas** en Libro I CAP XXI (Rufo Festo y Tito Livio sobre bocas del Guadalquivir y ciudad de Iberia), más **4 citas adicionales** de autores de las notas del investigador (San Agustín ×2, Trebellio Polión, San Jerónimo) recuperadas del OCR con búsquedas dirigidas
+- **Autores no encontrados en el OCR**: 7 autores no aparecen como fuentes citadas en los Libros I–IV (Casiodoro, Filisto, Trebellio Polión, Hilderico, Miguel Sincelo, Hernando del Pulgar, Arriano en LIV)
+- **Barrido de capítulos**: de 25 capítulos vacíos, se hallaron **5 citas nuevas** (Rufo Festo y Tito Livio en L.I CAP XXI; San Jerónimo en L.IV; San Agustín ×2 en L.IV pendientes de indexar), más **Juan Margarite** localizado como «don luán Margante» en L.III CAP XXIV pendiente de indexar
 
 #### Tabla de autores
 
@@ -68,7 +68,7 @@ La tabla principal (`Tabla de autores 1.md`) contiene:
 Se incluyen además:
 - **Resumen por autor** (75 autores con temática y frecuencia de aparición)
 - **Autoreferencias de Juan de Mariana** (2 remisiones a su *Historiae de Rebus Hispaniae* de 1592)
-- **Autores no encontrados** (11 autores sin citas genuinas en el OCR)
+- **Autores no encontrados** (7 autores sin citas genuinas en el OCR)
 - **Notas sobre la revisión** (7 hallazgos verificados: duplicaciones OCR, atribuciones erróneas, variantes ortográficas, barrido de capítulos, recuperación de autores perdidos)
 
 ---

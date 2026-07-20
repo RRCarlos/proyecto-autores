@@ -358,19 +358,16 @@ Los nombres propios latinos conservan mejor su forma en el OCR que los nombres e
 
 ## 10. Análisis de los autores no encontrados
 
-### 10.1 Clasificación de los 13 autores no encontrados
+### 10.1 Clasificación de los autores no encontrados
 
 | Autor | Libro | Causa probable |
 |-------|-------|----------------|
 | **Nepote** | V (no I-IV) | Fuera del rango de análisis |
-| **Hipócrates** | II | Nombre corrompido o mención indirecta sin grep |
 | **Casiodoro** | III | Nombre posiblemente ausente en esta edición |
-| **San Agustín** | IV | Ausente de los TXT (quizá en edición completa) |
 | **Filisto** | I | Ausente — fuente muy antigua, Mariana quizá cita de memoria |
 | **Trebellio Polión** | III | Ausente — autor de la *Historia Augusta* |
-| **Juan Margarite** | III | Ausente — cronista catalán, s. XV |
 | **Hilderico** | III | Solo en libros V+ |
-| **Juan de Mariana** | — | Solo en colofones de imprenta |
+| **Juan de Mariana** | — | Autoreferencia editorial, no fuente externa |
 | **Miguel Sincelo** | IV | Ausente — bizantino, s. IX |
 | **Hernando del Pulgar** | IV | Solo en libros V+ |
 | **Arriano (en LIV)** | IV | Confundido con herejía arriana |
@@ -379,10 +376,10 @@ Los nombres propios latinos conservan mejor su forma en el OCR que los nombres e
 
 | Tipo | Autores | Explicación |
 |------|---------|-------------|
-| **Fuera de rango** | Nepote, Margarite, Hilderico, Pulgar | Citados en libros V–XXI, fuera del análisis |
-| **OCR insalvable** | Hipócrates, Casiodoro, Sincelo | Nombre corrupto o ausente del texto digitalizado |
+| **Fuera de rango** | Nepote, Hilderico, Pulgar | Citados en libros V+, fuera del análisis |
+| **OCR insalvable** | Casiodoro, Sincelo | Nombre corrupto o ausente del texto digitalizado |
 | **No-fuente** | Arriano (LIV), Juan de Mariana | Presente en el texto pero no como autoridad citada |
-| **Ausencia real** | Filisto | Mariana los menciona pero el OCR no los captura |
+| **Ausencia real** | Filisto, Trebellio Polión | Mariana los menciona pero el OCR no los captura |
 
 ---
 
