@@ -186,52 +186,53 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 163 | Quintiliano | III | 484 | Quintiliano haze mención de una sola tragedia que andava en nombre de Seneca el Philosopho | Quintiliano — tragedia de Séneca |
 | 164 | Cayo Suetonio Tranquilo | IIII | 667 | todos los philosophos, como lo dizc Suetonio | Domiciano destierra filósofos |
 | 165 | Cayo Suetonio Tranquilo | IIII | 760 | todos los philosophos, como lo dizc Suetonio | Domiciano destierra filósofos (segunda mención) |
-| 166 | Plutarco | V | 875 | el gran philosopho Plutarcho | Plutarco — maestro de Trajano |
-| 167 | Plinio | V | 909 | Plinio el mas moço, proconsul a la fazón de Bithynia, le aviso por una carta suya | Plinio — carta sobre cristianos |
-| 168 | *Julio Capitolino | VI | 1066 | Iulio Capitolino dizc, q por lasoracioncs del emperadorfe aplacaron los diofesy cayóla lluuia | Julio Capitolino: Legion Fulminatrix, lluvia milagrosa |
-| 169 | Dion | VI | 1069 | muchos y muy antiguos, que refieren la cosa como ella dizo, favorece Dion | Legion Fulminatrix — lluvia |
-| 170 | Nicéforo | IX | 1446 | padeÃ§io el martyr santo Christoval, segun que lo refiere Nicephoro | Nicéforo: martirio de Cristóbal |
-| 171 | Quintiliano | X | 1492 | las declamaciones que andan impresas al fin de las instituciones de Quintiliano | Declamaciones de Quintiliano |
-| 172 | Trebellio Polión | X | 1554 | por autoridad de TrcbellioPollion,para concordar las opiniones | Trebellio citado para concordar cronologías — Mariana lo refuta por errado |
-| 173 | Prudencio | X | 1562 | según que lo testifica Prudencio | Prudencio: mártires — hija de Emiliano |
-| 174 | Quintiliano | X | 1593 | nombró en su lugar a Quintiliano su hermano, hombre de tan pequeño coragon | Quintiliano: hermano de Claudio se suicidó |
+| *166 | Miguel Sincelo | IIII | 842 | por Michae! Syncello, fue elque nosotros llamamos Eugenio | Sincelo: Vida de San Clemente, San Eugenio en Espa�a |
+| 167 | Plutarco | V | 875 | el gran philosopho Plutarcho | Plutarco — maestro de Trajano |
+| 168 | Plinio | V | 909 | Plinio el mas moço, proconsul a la fazón de Bithynia, le aviso por una carta suya | Plinio — carta sobre cristianos |
+| 169 | *Julio Capitolino | VI | 1066 | Iulio Capitolino dizc, q por lasoracioncs del emperadorfe aplacaron los diofesy cayóla lluuia | Julio Capitolino: Legion Fulminatrix, lluvia milagrosa |
+| 170 | Dion | VI | 1069 | muchos y muy antiguos, que refieren la cosa como ella dizo, favorece Dion | Legion Fulminatrix — lluvia |
+| 171 | Nicéforo | IX | 1446 | padeÃ§io el martyr santo Christoval, segun que lo refiere Nicephoro | Nicéforo: martirio de Cristóbal |
+| 172 | Quintiliano | X | 1492 | las declamaciones que andan impresas al fin de las instituciones de Quintiliano | Declamaciones de Quintiliano |
+| 173 | Trebellio Polión | X | 1554 | por autoridad de TrcbellioPollion,para concordar las opiniones | Trebellio citado para concordar cronologías — Mariana lo refuta por errado |
+| 174 | Prudencio | X | 1562 | según que lo testifica Prudencio | Prudencio: mártires — hija de Emiliano |
+| 175 | Quintiliano | X | 1593 | nombró en su lugar a Quintiliano su hermano, hombre de tan pequeño coragon | Quintiliano: hermano de Claudio se suicidó |
 | *175 | San Agustín | XII | 1751 | Pegun que lo refiere fan Auguílin | San Agustín: edictos contra los cristianos del año 303 (Diocleciano y Maximiano) |
-| 176 | Prudencio | XII | 1795 | Prudencio la llama Encratis | Santa Engracia |
-| 177 | Prudencio | XII | 1804 | Prudencio refiere que sucedió lo mismo a las cenizas de trescientos martyres | Masa candida |
-| 178 | Braulio de Zaragoza | XIII | 1894 | como esta en los libros eclesiásticos muy antiguos, escrito por Braulio obispo de Caragoça | Braulio: vida de Santa Leocadia |
-| 179 | Claudio Ptolomeo | XIII | 1911 | Por lo menos Ptolomeo le da nombre de Libora | Ptolomeo: Talavera = Libora |
-| 180 | Tito Livio | XIII | 1915 | Tito Livio en los Carpetanos pone un pueblo que el llama Ebura | Tito Livio: Talavera = Ebura |
-| 181 | Claudio Ptolomeo | XIII | 1924 | Ptolomeo llama Libora | Ptolomeo: Elbora/Talavera |
-| 182 | *Moro Rasis | XIV | 2010 | Lo qual teftifica el Moro Rafis,queleuantaron los Moros aquellafuercaapropofito de impedirlas correrías | Moro Rasis: murallas de Toledo |
-| 183 | Prudencio | XV | 2102 | Bivió por este tiempo Prudencio obispo de Tarragona | Prudencio obispo |
-| 184 | Pietro Ricci (Crinito) | XV | 2109 | Assi lo dize Crinito | Crinito: Rufo Festo Avieno |
-| 185 | San Basilio | XVI | 2197 | por vna homilía que hizo fan Bafilio en su fiestinidad | San Basilio: 40 mártires de Sebaste |
-| 186 | Eusebio Cesariense | XVI | 2215 | fue condiscípulo de los dos Eufebios, Nicomedienfey Cefarienses | Herejía arriana — los dos Eusebios |
-| 187 | *Moro Rasis | XVI | 2295 | por las mifmaspalabras del Moro Rafis,hiíloriador antiguo y graue | Moro Rasis: dioceses de Constantino |
-| 188 | Eusebio de Nicomedia | XVI | 2337 | por Eufebio obispo de aquella ciudad, gran fauorcedor de los Arrianos | Eusebio de Nicomedia — bautiza a Constantino |
-| 189 | Eusebio Cesariense | XVI | 2342 | principalmente hizo errar a muchos el testimonio de Eufebio Cefariense | Eusebio Cesariense: testimonio falso sobre Arrio |
-| 190 | Eusebio de Vercelli | XVII | 2409 | Eufebio obispo de Vercellis | Eusebio de Vercelli — concilio de Milán |
-| 191 | San Isidoro de Sevilla | XVII | 2445 | el testimonio de Marcellino presbytero, del qual fan Ifidoro en los varones illustres | San Isidoro: Marcellino en Varones illustres |
-| 192 | Amiano Marcelino | XVII | 2481 | que fue caso notable, referido por Amiano Marcelino | Amiano: caso de romano que degolló a su familia |
-| 193 | Prudencio | XVII | 2482 | Clemente Prudencio, natural de Calahorra, poeta muy señalado | Prudencio — poeta de Calahorra |
-| 194 | Prudencio | XVII | 2486 | Iuuenco presbytero Español, y mas viejo que Prudencio | Referencia cruzada — Juvenco más viejo que Prudencio |
-| 195 | San Jerónimo | XVII | 2489 | fan Icronymo dedicó el libro de los eferitores ccclcfiafticos | San Jerónimo dedica *De viris illustribus* a Dextro, hijo de Paciano de Barcelona |
-| 196 | Amiano Marcelino | XIX | 2575 | lo cuenta Amiano Marcellino historiador gentil, y de aquel tiempo | Amiano: elección del Papa (Damaso vs Ursino) |
-| 197 | Procopio | XIX | 2597 | ca en el oriente vn deudo de Iuliano, llamado Procopio, tomó nombre de emperador | Procopio — usurpador oriental |
-| 198 | Eusebio de Cesarea de Capadocia | XIX | 2635 | Eufebio obispo de Cesarea la de Capadocia, tan conocido por su valor y constancia | Eusebio de Cesarea de Capadocia — exiliado |
-| 199 | San Basilio | XIX | 2638 | Al de Capadocia succedio en aquel obispado el gran Basilio | San Basilio: conflicto con emperador Valente |
-| 200 | Amiano Marcelino | XIX | 2672 | lo cuenta Amiano Marcellino historiador gentil | Amiano: elección del Papa (segunda referencia) |
-| 201 | Procopio | XIX | 2693 | ca en el oriente vn deudo de Iuliano, llamado Procopio | Procopio — usurpador (segunda referencia) |
-| 202 | Eusebio de Cesarea de Capadocia | XIX | 2728 | Eufebio obispo de Cesarea la de Capadocia | Eusebio de Capadocia — segunda referencia |
-| 203 | San Gregorio Nacianceno | XX | 2819 | Gregorio Nazianzeno, por la mala voluntad que algunos le tenian, dexara de su voluntad aquella yglesia | Gregorio Nazianceno: deja Constantinopla |
-| 204 | *Severo Sulpicio | XX | 2870 | como felee en Señero Sulpicio | Severo Sulpicio: excomunión de Priscilianos |
-| 205 | Sigiberto de Gembloux | XX | 2871 | San Isidro solo dize que era obispo de las Empañas, y Sigiberto, que de Lamego | Sigiberto: discrepa sobre sede de Itacio |
-| 206 | San Isidoro de Sevilla | XX | 2937 | Isidoro expresamente haze della mención en los varones illustres en Siricio | San Isidoro: epístola de Siricio |
-| 207 | *Claudiano | XX | 3001 | lo cantó Claudiano poeta deaquel tiempo,muy famofo,fi pagano | Claudiano: batalla de Frígido (394) |
-| 208 | Orosio | XXI | 3160 | la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Orosio: discrepancia de dos años |
-| 209 | Prospero de Aquitania | XXI | 3160 | Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Prospero: misma discrepancia cronológica |
+| 177 | Prudencio | XII | 1795 | Prudencio la llama Encratis | Santa Engracia |
+| 178 | Prudencio | XII | 1804 | Prudencio refiere que sucedió lo mismo a las cenizas de trescientos martyres | Masa candida |
+| 179 | Braulio de Zaragoza | XIII | 1894 | como esta en los libros eclesiásticos muy antiguos, escrito por Braulio obispo de Caragoça | Braulio: vida de Santa Leocadia |
+| 180 | Claudio Ptolomeo | XIII | 1911 | Por lo menos Ptolomeo le da nombre de Libora | Ptolomeo: Talavera = Libora |
+| 181 | Tito Livio | XIII | 1915 | Tito Livio en los Carpetanos pone un pueblo que el llama Ebura | Tito Livio: Talavera = Ebura |
+| 182 | Claudio Ptolomeo | XIII | 1924 | Ptolomeo llama Libora | Ptolomeo: Elbora/Talavera |
+| 183 | *Moro Rasis | XIV | 2010 | Lo qual teftifica el Moro Rafis,queleuantaron los Moros aquellafuercaapropofito de impedirlas correrías | Moro Rasis: murallas de Toledo |
+| 184 | Prudencio | XV | 2102 | Bivió por este tiempo Prudencio obispo de Tarragona | Prudencio obispo |
+| 185 | Pietro Ricci (Crinito) | XV | 2109 | Assi lo dize Crinito | Crinito: Rufo Festo Avieno |
+| 186 | San Basilio | XVI | 2197 | por vna homilía que hizo fan Bafilio en su fiestinidad | San Basilio: 40 mártires de Sebaste |
+| 187 | Eusebio Cesariense | XVI | 2215 | fue condiscípulo de los dos Eufebios, Nicomedienfey Cefarienses | Herejía arriana — los dos Eusebios |
+| 188 | *Moro Rasis | XVI | 2295 | por las mifmaspalabras del Moro Rafis,hiíloriador antiguo y graue | Moro Rasis: dioceses de Constantino |
+| 189 | Eusebio de Nicomedia | XVI | 2337 | por Eufebio obispo de aquella ciudad, gran fauorcedor de los Arrianos | Eusebio de Nicomedia — bautiza a Constantino |
+| 190 | Eusebio Cesariense | XVI | 2342 | principalmente hizo errar a muchos el testimonio de Eufebio Cefariense | Eusebio Cesariense: testimonio falso sobre Arrio |
+| 191 | Eusebio de Vercelli | XVII | 2409 | Eufebio obispo de Vercellis | Eusebio de Vercelli — concilio de Milán |
+| 192 | San Isidoro de Sevilla | XVII | 2445 | el testimonio de Marcellino presbytero, del qual fan Ifidoro en los varones illustres | San Isidoro: Marcellino en Varones illustres |
+| 193 | Amiano Marcelino | XVII | 2481 | que fue caso notable, referido por Amiano Marcelino | Amiano: caso de romano que degolló a su familia |
+| 194 | Prudencio | XVII | 2482 | Clemente Prudencio, natural de Calahorra, poeta muy señalado | Prudencio — poeta de Calahorra |
+| 195 | Prudencio | XVII | 2486 | Iuuenco presbytero Español, y mas viejo que Prudencio | Referencia cruzada — Juvenco más viejo que Prudencio |
+| 196 | San Jerónimo | XVII | 2489 | fan Icronymo dedicó el libro de los eferitores ccclcfiafticos | San Jerónimo dedica *De viris illustribus* a Dextro, hijo de Paciano de Barcelona |
+| 197 | Amiano Marcelino | XIX | 2575 | lo cuenta Amiano Marcellino historiador gentil, y de aquel tiempo | Amiano: elección del Papa (Damaso vs Ursino) |
+| 198 | Procopio | XIX | 2597 | ca en el oriente vn deudo de Iuliano, llamado Procopio, tomó nombre de emperador | Procopio — usurpador oriental |
+| 199 | Eusebio de Cesarea de Capadocia | XIX | 2635 | Eufebio obispo de Cesarea la de Capadocia, tan conocido por su valor y constancia | Eusebio de Cesarea de Capadocia — exiliado |
+| 200 | San Basilio | XIX | 2638 | Al de Capadocia succedio en aquel obispado el gran Basilio | San Basilio: conflicto con emperador Valente |
+| 201 | Amiano Marcelino | XIX | 2672 | lo cuenta Amiano Marcellino historiador gentil | Amiano: elección del Papa (segunda referencia) |
+| 202 | Procopio | XIX | 2693 | ca en el oriente vn deudo de Iuliano, llamado Procopio | Procopio — usurpador (segunda referencia) |
+| 203 | Eusebio de Cesarea de Capadocia | XIX | 2728 | Eufebio obispo de Cesarea la de Capadocia | Eusebio de Capadocia — segunda referencia |
+| 204 | San Gregorio Nacianceno | XX | 2819 | Gregorio Nazianzeno, por la mala voluntad que algunos le tenian, dexara de su voluntad aquella yglesia | Gregorio Nazianceno: deja Constantinopla |
+| 205 | *Severo Sulpicio | XX | 2870 | como felee en Señero Sulpicio | Severo Sulpicio: excomunión de Priscilianos |
+| 206 | Sigiberto de Gembloux | XX | 2871 | San Isidro solo dize que era obispo de las Empañas, y Sigiberto, que de Lamego | Sigiberto: discrepa sobre sede de Itacio |
+| 207 | San Isidoro de Sevilla | XX | 2937 | Isidoro expresamente haze della mención en los varones illustres en Siricio | San Isidoro: epístola de Siricio |
+| 208 | *Claudiano | XX | 3001 | lo cantó Claudiano poeta deaquel tiempo,muy famofo,fi pagano | Claudiano: batalla de Frígido (394) |
+| 209 | Orosio | XXI | 3160 | la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Orosio: discrepancia de dos años |
+| 210 | Prospero de Aquitania | XXI | 3160 | Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Prospero: misma discrepancia cronológica |
 
-**Total de apariciones (fuentes externas): 209**
+**Total de apariciones (fuentes externas): 210**
 
 ## Autoreferencias de Juan de Mariana
 
@@ -289,6 +290,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Justino | 3 | I | Reyes de Tartessos, mitología, colonizaciones antiguas |
 | Lucano | 2 | III, IV | Geografía fluvial hispana, tiranía de Nerón y muerte de Séneca |
 | Marco Varrón | 11 | I, II, III, IV | Etimología del nombre «España», guerra civil en Hispania, administración provincial, costumbres militares |
+| *Miguel Sincelo | 1 | IV | Fuentes hagiogr�ficas bizantinas, Vida de San Clemente |
 | *Moro Rasis | 3 | III, IV | Historiador árabe: Mérida (Emerita Augusta), murallas de Toledo, dioceses de Constantino |
 | Nicéforo | 1 | IV | Martirio de Cristóbal |
 | Orosio | 3 | II, III, IV | Cronología universal, embajadas a Alejandro, saqueos de Roma |
@@ -326,7 +328,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Valerio Sorano | 1 | I | Religión y secretos sagrados |
 | Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
-**Total de autores distintos: 77 (75 fuentes externas + 2 autoreferencias)**
+**Total de autores distintos: 78 (76 fuentes externas + 2 autoreferencias)**
 
 ## Tabla de autores aún no encontrados con OCR
 
@@ -337,10 +339,9 @@ De los autores referidos en las notas del investigador o mencionados en la bibli
 | 1 | **Casiodoro** | III | Nombre corrupto en OCR o ausente de esta edición |
 | 2 | **Filisto de Siracusa** | I | Fuente muy antigua (s. IV a.C.), Mariana quizá cita de memoria |
 | 3 | **Hilderico** | III | Solo en libros V+ |
-| 4 | **Miguel Sincelo** | IV | Bizantino (s. IX), fuera del rango de fuentes de L I–IV |
-| 5 | **Hernando del Pulgar** | IV | Solo en libros posteriores (VII+) |
+| 4 | **Hernando del Pulgar** | IV | Solo en libros posteriores (VII+) |
 
-**Total: 5 autores no encontrados en OCR.**
+**Total: 4 autores no encontrados en OCR.**
 
 
 
