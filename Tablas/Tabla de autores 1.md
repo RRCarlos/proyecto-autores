@@ -335,7 +335,3 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
 **Total de autores distintos: 81 (80 fuentes externas + 2 autoreferencias de Juan de Mariana)**
-## Notas sobre la revisión
-
-- **Duplicación OCR en Libro IV**: las líneas 2580–2593 y 2678–2693 contienen texto casi idéntico (biografía del Papa Damaso y su amistad con San Jerónimo). Las entradas 188–194 usan los números de la primera aparición.
-- **Entrada 137** ("Cayo Silio Italico", Libro IV línea 199): la cita ("vn mancebo principal, llamado Silio") se refiere a Silio, marido de Mesalina, no al poeta Cayo Silio Italico. El poeta sí aparece como fuente en Libro II (línea 3106) y Libro IV (línea 466).
