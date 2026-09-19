@@ -260,8 +260,8 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Total de citas en los Libros I-IV | 196 |
 | Citas historiográficas principales | 194 |
 | Autoreferencias de Juan de Mariana | 2 |
-| Autores externos únicos | 83 |
-| Total autores distintos (incluyendo a Juan de Mariana) | 84 |
+| Autores externos únicos (etiquetas actuales) | 84 |
+| Total autores distintos (incluyendo a Juan de Mariana) | 85 |
 
 Desglose del total de citas por libro, incluyendo las autoreferencias:
 
@@ -284,7 +284,7 @@ en el Libro III (AR1) y en el Libro IV (AR2), respectivamente.
 | Antonino | 1 | I | Itinerario geográfico, fuentes de viajeros |
 | Antonio de Nebrija | 1 | III | Verificación arqueológica de la Vía de la Plata |
 | Appiano | 5 | I, III | Conquista romana de Hispania, guerras numantinas, ubicación de Segeda en la Celtiberia |
-| Arístides (de Mileto) | 1 | IV | Género milesio: modelo literario de las patrañas Milesias, desacreditado por Mariana |
+| Arístides | 1 | IV | Género milesio: modelo literario de las patrañas Milesias, desacreditado por Mariana |
 | Aristoteles | 3 | I, II | Llegada de los fenicios a Cádiz, costumbres funerarias hispanas, política cartaginesa |
 | Arriano | 2 | I, II | Topografía de la costa africana, crónicas de Alejandro Magno y embajadas |
 | Aulo Gelio | 1 | II | Campañas militares de Catón contra Numancia |
@@ -295,14 +295,14 @@ en el Libro III (AR1) y en el Libro IV (AR2), respectivamente.
 | Cayo Julio Solino | 4 | I | Cabo Artabro, antiguo nombre de Roma, Ulises en España, etnografía antigua |
 | Cayo Silio Itálico | 2 | I, II | Longevidad de Argantonio, Córdoba en tiempo de Aníbal |
 | Cayo Suetonio Tranquilo | 2 | I, IV | Oráculo de los Gériones en Padua, Domiciano destierra filósofos |
-| Ciceron | 4 | II | Retórica y elocuencia, biografías de oradores hispanos, etimología de «Era» |
+| Ciceron | 4 | III | Retórica y elocuencia, biografías de oradores hispanos, etimología de «Era» |
 | Claudiano | 1 | IV | Batalla de Frígido (394) |
 | Claudio Ptolomeo | 13 | I, II, III, IV | Geografía de Hispania: localización de pueblos, ciudades, ríos y provincias |
 | Diodoro Siculus | 3 | I | Mitología egipcia (Osiris/Baccho), orígenes divinos, guerras de Heracles |
-| Dion Casio | 8 | II, III, IV | Guerras civiles romanas en Hispania, imperio de Augusto y Nerón, prodigios militares |
+| Dion Casio | 8 | III, IV | Guerras civiles romanas en Hispania, imperio de Augusto y Nerón, prodigios militares |
 | Dionisio de Halicarnaso | 1 | II | Epidemias antiguas |
 | Don Alonso el Onzeno (su historia) | 1 | II | Crónica de Alfonso XI: letrero de la piedra antigua (muralla de Tarragona) |
-| Estrabón | 5 | II, III | Geografía de Hispania, diversidad lingüística, etnografía, colonizaciones griegas |
+| Estrabón | 5 | I, III | Geografía de Hispania, diversidad lingüística, etnografía, colonizaciones griegas |
 | Eusebio de Cesarea | 5 | II, IV | Cronología antigua, datos numéricos de batallas navales, cronología eclesiástica, herejía arriana, persecución de Diocleciano |
 | Fabio Pictor | 1 | I | Autoridad sobre la fundación de Roma |
 | Falso Beroso | 1 | I | Crónicas fabulosas del Oriente (rechazadas por Mariana) |
@@ -325,9 +325,10 @@ en el Libro III (AR1) y en el Libro IV (AR2), respectivamente.
 | Miguel Sincelo | 1 | IV | Fuentes hagiográficas bizantinas, Vida de San Clemente |
 | Moro Rasis | 3 | III, IV | Historiador árabe: Mérida, murallas de Toledo, diocesis de Constantino |
 | Nicéforo | 1 | IV | Martirio de Cristóbal |
-| Orosio | 3 | II, III, IV | Cronología universal, embajadas a Alejandro, saqueos de Roma |
+| Paulo Orosio | 3 | II, III, IV | Cronología universal, embajadas a Alejandro, saqueos de Roma |
 | Papa Antero | 1 | IV | Carta a los obispos de Andalucía y Toledo (falsificación pseudo-isidoriana) |
 | Pelayo obispo de Oviedo | 1 | IV | Historia de la evangelización, discípulos de Santiago |
+| Pietro Ricci (Crinito) | 1 | IV | Rufo Festo Avieno, escritor e historiador de Roma |
 | Platón | 1 | I | Timeo, Atlántides y Cádiz |
 | Plinio el Viejo | 20 | I, II, III, IV | Geografía de Hispania, flora y fauna, costumbres púnicas y romanas, etnografía |
 | Plinio el Mozo | 1 | IV | Correspondencia con Trajano sobre cristianos |
@@ -354,11 +355,11 @@ en el Libro III (AR1) y en el Libro IV (AR2), respectivamente.
 | Terencio | 1 | IV | Comedias cuyos argumentos (periochas) escribió Sulpicio Apolinar |
 | Tertuliano | 1 | III | Sobrenombre de Pompeyo, cita conjunta con Casiodoro |
 | Tito Flavio Josefo | 1 | I | Historia de Judea, invasiones babilónicas |
-| Tito Livio | 8 | III, IV | Guerras púnicas, conquista de Hispania, etnografía, topografía, nomenclatura de Ebura |
+| Tito Livio | 8 | I, II, IV | Guerras púnicas, conquista de Hispania, etnografía, topografía, nomenclatura de Ebura |
 | Trebellio Polión | 1 | IV | Cronología de la Historia Augusta — Mariana lo refuta por errado |
 | Tucides | 1 | II | Epidemias antiguas |
 | Usuardo | 1 | IV | Cronología apostólica (predicación de Pablo) |
 | Valerio Máximo | 1 | II | Discrepancia sobre el parentesco de los gladiadores Corbis y Orsua |
 | Virgilio | 2 | I, III | Mitos fundacionales (Hércules), geografía, referente literario |
 
-**Total de autores distintos: 83 fuentes externas + 1 autor propio (Juan de Mariana) = 84**
+**Total de autores distintos: 84 etiquetas externas + 1 autor propio (Juan de Mariana) = 85**
