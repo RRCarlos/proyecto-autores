@@ -2,6 +2,32 @@
 
 Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). La tabla incluye únicamente citas historiográficas, es decir, aquellos pasajes en que Mariana emplea a un autor como fuente o testimonio; se han excluido las menciones biográficas de personajes (aunque fuesen historiadores) cuando el autor es simplemente nombrado en la narración sin aportar testimonio propio. Cada fila indica una aparición concreta del autor, ordenada por libro y capítulo. La columna **Cita normalizada** aplica ortografía moderna (s larga→s, espacios) con verificación manual completa. La columna **Contexto** describe brevemente el contexto historiográfico de cada cita. La columna **Temática** clasifica cada cita en grandes grupos temáticos: Geografía, Etnografía, Historiografía, Cronología, Biografía, Genealogía, Política/Militar, Religión, Arqueología y Lingüística.
 
+Nota metodológica: el total principal de citas de la tabla incluye únicamente las entradas de autoridad historiográfica de los Libros I-IV; las dos autoreferencias de Juan de Mariana se registran en un bloque separado y no forman parte del recuento principal. Este criterio se mantiene para evitar mezclar citas analíticas con autorreferencias de la obra misma.
+
+Nota de estandarización temática: para evitar inconsistencias de edición, las etiquetas de la columna **Temática** se normalizan bajo la misma nomenclatura en todo el documento: Geografía, Etnografía, Historiografía, Cronología, Biografía, Genealogía, Política/Militar, Religión, Arqueología y Lingüística. La forma escrita en la tabla se mantiene como canon para la presentación final.
+
+## Equivalencias de nombres
+
+Cuando una misma autoridad aparece con variante de forma o abreviatura, se conserva el nombre original de la cita y se registra una equivalencia canónica para la presentación final. Esta tabla no reemplaza la fuente original; solo normaliza los nombres para evitar duplicidades y errores de lectura.
+
+Nota aclaratoria: la tabla que sigue es un ejemplo ilustrativo del procedimiento de normalización, no un registro exhaustivo de todas las variantes del documento. Su finalidad es dejar constancia de la regla que se aplica y del tipo de equivalencias que se han identificado en una muestra representativa.
+
+Regla de canonización: la forma canónica empleada en la presentación final es la más completa y estable del nombre del autor; las variantes abreviadas o traducidas no se sustituyen dentro del texto original, pero sí se registran como equivalencias y se usan como referencia de lectura. Las etiquetas temáticas se mantienen con la misma grafía en toda la tabla para evitar confusión entre edición y análisis.
+
+| Nombre original | Nombre canónico | Justificación |
+| --- | --- | --- |
+| Solino | Cayo Julio Solino | Esta forma abreviada aparece varias veces en el texto de la cita, pero la tabla canoniza el nombre completo para evitar ambigüedad. |
+| Livio | Tito Livio | La referencia suele reducirse a “Livio”; la forma canónica completa el nombre del autor para una identificación estable. |
+| Plutarcho | Plutarco | Se emplea la versión griega en algunos pasajes del texto, pero la tabla utiliza la forma castellana normalizada que corresponde al autor. |
+| Suetonio | Cayo Suetonio Tranquilo | En la cita se menciona a menudo solo por el apellido o por el nombre más breve; la versión canónica conserva el nombre completo. |
+| Diodoro Sículo | Diodoro Siculus | La cita emplea a veces la forma hispanizada con tilde, mientras la tabla mantiene la forma latinizada como referencia canónica. |
+
+### Criterio de deduplicación
+
+Se considera la misma autoridad cuando la variación responde a una misma persona, obra o tradición de transmisión y no introduce un autor distinto, por ejemplo: abreviaturas del nombre, formas latinizadas o adaptaciones por tradición editorial, variaciones de orden de nombres o usos frecuentes en la historiografía. No se deduplica si el nombre señala una persona distinta, una lectura alternativa de una fuente o una forma que cambia el sujeto histórico, incluso aunque el parecido sea grande. La regla se aplica sin borrar la forma original de la cita ni el contexto de la referencia.
+
+Nota de cierre editorial: la tabla se presenta como una base documental estable para la investigación; toda normalización se realiza de forma declarada y conservando la evidencia original, de modo que la interpretación pueda revisarse sin perder la fuente ni la trazabilidad documental.
+
 ## Libro Primero
 
 | # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
@@ -231,9 +257,21 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 
 | Concepto | Valor |
 | --- | --- |
-| Total de citas | 194 |
+| Total de citas en los Libros I-IV | 196 |
+| Citas historiográficas principales | 194 |
+| Autoreferencias de Juan de Mariana | 2 |
 | Autores externos únicos | 83 |
 | Total autores distintos (incluyendo a Juan de Mariana) | 84 |
+
+Desglose del total de citas por libro, incluyendo las autoreferencias:
+
+- Libro I: 55 citas
+- Libro II: 29 citas
+- Libro III: 48 citas
+- Libro IV: 64 citas
+
+La suma de los cuatro libros es 196 citas. Las dos autoreferencias se contabilizan
+en el Libro III (AR1) y en el Libro IV (AR2), respectivamente.
 
 ## Resumen por autor
 
