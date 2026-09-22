@@ -24,6 +24,10 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 11 | Paulo Orosio | I | «Máximo [...] dejó las insignias imperiales, huyó miserablemente lo que le duró la vida, que fue hasta el tiempo de Paulo Orosio, como él mismo lo testifica.» | Testimonio sobre la supervivencia de Máximo. | Historiografía |
 | 12 | Paulo Orosio | I | «Estuvo por cierto que Alejandro Magno huyó de encontrarse con ellos, Pirro los temió, Julio César rehusó la pelea con ellos, según que lo dice Orosio.» | Reputación militar de los Godos frente a grandes conquistadores. | Política/Militar |
 | 13 | Marliano | I | «En el tiempo del pontífice Paulo tercero se halló en Roma el sepulcro de María [...] según que en la descripción de la ciudad de Roma lo relata Marliano más en particular.» | Hallazgo del sepulcro de María y de una inscripción con los nombres de Honorio y María. | Arqueología |
+| 14 | Jordanes | II | «Iornandes [le] llama Giferico, lo que sin duda es falso.» | Nombre del rey vándalo Godigisco, llamado Gunderico por algunos y Giferico por Jordanes. | Historiografía |
+| 15 | Olimpiodoro | II | «Olympiodoro, uno de los autores de la biblioteca de Focio, le llama Dobbio, y dice que dio la muerte a Athaulfo, en venganza de la que el antes había dado a su amo.» | Identidad y motivo del homicida de Athaulfo (Vernulfo, llamado Dobbio por este autor). | Historiografía |
+| 16 | Olimpiodoro | II | «Añade Olympiodoro, que un niño llamado Teodosio, que tuvo Athaulfo en Placidia, y murió en su primera edad, estaba sepultado en un oratorio cerca de Barcelona, en una caxa de plata.» | Sepultura e infancia del hijo de Athaulfo y Placidia, Teodosio. | Historiografía |
+| 17 | Paulo Orosio | II | «Hízose esta paz el año de cuatrocientos y diez y ocho, según que lo refiere Paulo Orosio, presbítero Tarraconense.» | Datación de la paz entre los Godos y el imperio romano. | Cronología |
 
 
 
