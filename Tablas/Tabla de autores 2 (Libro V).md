@@ -51,6 +51,10 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 38 | Plinio el Viejo | VIII | En un lugar cerca de Seuilla, que oy se llama Oñeto, y Plinio le llama Oñet. | Nombre antiguo del lugar próximo a Sevilla donde se producía el milagro de las fuentes. | Geografía |
 | 39 | San Isidoro | VIII | Este milagro de las fuentes, como lo refiere san Isidoro (...) dize que acontecia en Sicilia. | Milagro de las fuentes del bautismo (que se henchían de agua cada Sábado Santo): san Isidoro lo refiere como acontecido en Sicilia, no en España. | Historiografía |
 | 40 | Paschasio | VIII | (...) Paschasio obispo, en una carta que escriuio a san León el Magno, dize que acontecia en Sicilia. | Carta de Paschasio a San León Magno sobre el mismo milagro de las fuentes, situado en Sicilia. | Historiografía |
+| 41 | San Isidoro | IX | Y san Isidoro escriue, que como por aquella afrenta y reués, començasse a ser despreciado, no paró el daño en ello: y es ordinario, que en pos de la fortuna, va el favor y desfauor de los hombres. | Tras el desastre de Agila ante Córdoba (profanó el templo de san Acisclo), san Isidoro explica que la pérdida de prestigio prolongó la desgracia del rey godo. | Historiografía |
+| 42 | Jordanes | IX | Iornandes obispo de los Godos, continuó la historia de aquella nación hasta aquellos tiempos, en los quales Athanagildo, por la muerte de su contrario, quedó sin contradición por rey de los Godos. | Mariana sitúa el fin del relato de Jordanes en el momento en que Athanagildo queda como rey indiscutido de los godos. | Historiografía |
+| 43 | Lucas de Tuy | IX | Después de la muerte de Athanagildo, se siguió una vacante de cinco meses. Don Lucas de Tuy dize de cinco años y cinco meses. | Discrepancia sobre la duración de la vacante real goda tras la muerte de Athanagildo. | Historiografía |
+| 44 | Idacio | IX | Señalaronse los términos a cada una de las diócesis de Galicia, hasta donde cada qual se estendía, como lo dize Idacio en la Crónica de los Sueuos, Vándalos y Godos. | Delimitación de las diócesis gallegas en el concilio de Braga, según la crónica de Idacio. | Historiografía |
 
 
 
