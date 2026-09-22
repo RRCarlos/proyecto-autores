@@ -1,30 +1,13 @@
 # Tabla de autores — Libro Quinto
 
-Autores citados por Juan de Mariana en el Libro Quinto de la *Historia General de España* (edición de 1601), únicamente en el Capítulo I. La tabla incluye citas historiográficas, es decir, aquellos pasajes en que Mariana emplea a un autor como fuente o testimonio. Se han excluido las menciones nominales de personajes y las referencias colectivas sin autor identificado.
+Autores citados por Juan de Mariana en el Libro Quinto de la *Historia General de España* (edición de 1601). La tabla incluye citas historiográficas, es decir, aquellos pasajes en que Mariana emplea a un autor como fuente o testimonio. Se han excluido las menciones nominales de personajes y las referencias colectivas sin autor identificado.
 
-La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306. El Capítulo I comienza en la línea 12307 y termina antes del Capítulo II, que comienza en la línea 12626.
+La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306. 
 
-## Equivalencias de nombres
 
-Cuando el texto presenta una forma abreviada o latinizada, se conserva la forma original en la cita y se emplea una forma canónica en la columna **Autor**. La normalización no sustituye la evidencia original: solo facilita la identificación y la comparación.
-
-| Nombre original | Nombre canónico | Justificación |
-| --- | --- | --- |
-| Dion | Dion Casio | La forma abreviada aparece en el texto como autoridad para la localización del río Albis. |
-| Dionisio | Dionisio Periegeta | El texto lo identifica como autor de un poema geográfico griego sobre la descripción de las tierras. |
-| Marcellino / Marcelino | Amiano Marcelino | La forma abreviada del texto corresponde al historiador Amiano Marcelino. |
-| Marliano | Marliano | Se conserva la forma usada por Mariana para el autor de la descripción de Roma. |
-| Orosio | Paulo Orosio | Se completa el nombre del historiador citado en forma abreviada. |
 
 ## Libro Quinto
 
-**Línea de comienzo:** 12306
-
-## Capítulo I. Como diversas naciones vinieron a España
-
-**Título original:** `Como diuerfas naciones Finieron a ÉJfana.`
-**Línea de comienzo:** 12307
-**Límite final:** antes de `CAP. II. Como los Godos Vencieron alas demás naciones`, línea 12626.
 
 | # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
 | ---: | --- | --- | --- | --- | --- |
@@ -42,32 +25,6 @@ Cuando el texto presenta una forma abreviada o latinizada, se conserva la forma 
 | 12 | Paulo Orosio | I | «Estuvo por cierto que Alejandro Magno huyó de encontrarse con ellos, Pirro los temió, Julio César rehusó la pelea con ellos, según que lo dice Orosio.» | Reputación militar de los Godos frente a grandes conquistadores. | Política/Militar |
 | 13 | Marliano | I | «En el tiempo del pontífice Paulo tercero se halló en Roma el sepulcro de María [...] según que en la descripción de la ciudad de Roma lo relata Marliano más en particular.» | Hallazgo del sepulcro de María y de una inscripción con los nombres de Honorio y María. | Arqueología |
 
-## Conteo de citas
 
-| Concepto | Valor |
-| --- | ---: |
-| Total de citas historiográficas del Capítulo I | 13 |
-| Autores externos únicos | 8 |
-| Citas de Plinio el Viejo | 3 |
-| Citas de Paulo Orosio | 3 |
-| Citas de Amiano Marcelino | 2 |
-| Citas de Dion Casio | 1 |
-| Citas de Dionisio Periegeta | 1 |
-| Citas de Estrabón | 1 |
-| Citas de Heródoto | 1 |
-| Citas de Marliano | 1 |
 
-## Resumen por autor
 
-| Autor | Apariciones | Capítulo | Temática |
-| --- | ---: | --- | --- |
-| Amiano Marcelino | 2 | I | Etnografía de los Alanos; origen del nombre Salios y ley Sálica |
-| Dion Casio | 1 | I | Geografía del río Albis y los montes Vandalicos |
-| Dionisio Periegeta | 1 | I | Geografía de los Alanos, Dacia y los Getas |
-| Estrabón | 1 | I | Geografía de los Suevos y el Danubio |
-| Heródoto | 1 | I | Geografía de los Getas |
-| Marliano | 1 | I | Hallazgo arqueológico e inscripción del sepulcro de María |
-| Paulo Orosio | 3 | I | Cronología, supervivencia de Máximo y reputación militar de los Godos |
-| Plinio el Viejo | 3 | I | Geografía de los Vándalos, los Getas y Magog |
-
-**Total de autores distintos: 8**
