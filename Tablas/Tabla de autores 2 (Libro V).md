@@ -55,6 +55,10 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 42 | Jordanes | IX | Iornandes obispo de los Godos, continuó la historia de aquella nación hasta aquellos tiempos, en los quales Athanagildo, por la muerte de su contrario, quedó sin contradición por rey de los Godos. | Mariana sitúa el fin del relato de Jordanes en el momento en que Athanagildo queda como rey indiscutido de los godos. | Historiografía |
 | 43 | Lucas de Tuy | IX | Después de la muerte de Athanagildo, se siguió una vacante de cinco meses. Don Lucas de Tuy dize de cinco años y cinco meses. | Discrepancia sobre la duración de la vacante real goda tras la muerte de Athanagildo. | Historiografía |
 | 44 | Idacio | IX | Señalaronse los términos a cada una de las diócesis de Galicia, hasta donde cada qual se estendía, como lo dize Idacio en la Crónica de los Sueuos, Vándalos y Godos. | Delimitación de las diócesis gallegas en el concilio de Braga, según la crónica de Idacio. | Historiografía |
+| 45 | Gregorio de Tours | X | Sea licito vsar de las mismas palabras de Gregorio Turonense, prelado del mismo tiempo. | Retrato de Brunechilde (moca elegante en denuedo, de buen parecer, de honestas costumbres...) tomado de las palabras de Gregorio de Tours. | Historiografía |
+| 46 | San Gregorio Magno | X | Como lo mostrarán dos cartas de san Gregorio Papa, escritas a ella, llenas de verdaderas alabanças. | Cartas del Papa a Brunechilde como prueba de su bondad y fama, frente a las fábulas que la acusaban. | Historiografía |
+| 47 | Boccaccio | X | Según el Bocado lo consideró primero que nós, escritor de ingenio poético, pero de grande diligencia y cuydado en rastrear la antigüedad. | Boccaccio como primer defensor de la inocencia de Brunechilde, según Mariana. | Historiografía |
+| 48 | Paulo Emilio | X | Y después del Paulo Emilio en su historia de Francia. | Paulo Emilio, en su historia de Francia, sigue la defensa de Brunechilde. | Historiografía |
 
 
 
