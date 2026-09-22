@@ -28,6 +28,12 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 15 | Olimpiodoro | II | «Olympiodoro, uno de los autores de la biblioteca de Focio, le llama Dobbio, y dice que dio la muerte a Athaulfo, en venganza de la que el antes había dado a su amo.» | Identidad y motivo del homicida de Athaulfo (Vernulfo, llamado Dobbio por este autor). | Historiografía |
 | 16 | Olimpiodoro | II | «Añade Olympiodoro, que un niño llamado Teodosio, que tuvo Athaulfo en Placidia, y murió en su primera edad, estaba sepultado en un oratorio cerca de Barcelona, en una caxa de plata.» | Sepultura e infancia del hijo de Athaulfo y Placidia, Teodosio. | Historiografía |
 | 17 | Paulo Orosio | II | «Hízose esta paz el año de cuatrocientos y diez y ocho, según que lo refiere Paulo Orosio, presbítero Tarraconense.» | Datación de la paz entre los Godos y el imperio romano. | Cronología |
+| 18 | Ptolomeo | III | «…y aun dizen que son los mismos que Ptolomeo llama Narbasos.» | Identificación de los montes Ervasos con los que Ptolomeo llama Narbasos. | Geografía |
+| 19 | Próspero de Aquitania | III | «Fueron estos mártires de nación españoles, y por quanto se puede entender de Próspero, sufrieron la muerte el año de quatrocientos y treynta y siete.» | Datación del martirio de los españoles, año 437. | Cronología |
+| 20 | Paulo Diácono | III | «…acudir a las cosas de Africa, do murió a manos de los Vándalos, segun que lo refiere Paulo Diacono.» | Muerte de Sebastián (yerno de Bonifacio) en África a manos de los Vándalos. | Historiografía |
+| 21 | Marcelino | III | «Marcellino los pone cerca del Océano, y sobre la laguna Meotideo.» | Asiento de los Hunos en la laguna Meótide (Azov). | Geografía |
+| 22 | Filósofo griego | III | «Esto vido escrito en Griego Gríégófeklíídoro philósopho dize, que por espacio de tres días después de la batalla se oyó este estruendo de las armas en el mismo lugar, y grandes alaridos de los que peleauan, como si las ánimas después de apartadas de los cuerpos con gran pertinacia perseverassen en la pelea.» | Leyenda de los alaridos y estruendo de armas oídos tres días tras la batalla contra Atila. | Historiografía |
+| 23 | Cassiodoro | III | «Dióse esta batalla según Cassiodoro, siendo cónsules Marciano Augusto, y Clodio Adelphio, el año que corría de Christo de quatrocientos y cincuenta y vno, y del reyno de Theodoredo veinte y vno.» | Datación de la batalla contra Atila, año 451, y comienzo de la propagación de fábulas entre los historiadores. | Cronología |
 
 
 
