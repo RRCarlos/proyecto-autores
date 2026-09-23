@@ -6,6 +6,16 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 
 
 
+## Libro Primero
+
+Capítulo I. (De la salida de Tubal y de la fertilidad de España.)
+
+| # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
+| ---: | --- | --- | --- | --- | --- |
+| 1 | Plinio el Viejo | I | Aun el mismo Plinio al fin de su historia natural testifica, que por todas las partes cercanas del mar, España es la mejor y mas fértil de todas las tierras, sacada Italia. | Mariana respalda en Plinio (Historia Natural) la superioridad y fertilidad de España frente a todas las provincias costeras, solo superada por Italia. | Geografía |
+
+
+
 ## Libro Quinto
 
 
