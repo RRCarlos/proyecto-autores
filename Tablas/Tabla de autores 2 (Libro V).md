@@ -119,6 +119,7 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 99 | Polibio | IX | …marchó y se puso sobre Sagunto con un campo de ciento y cincuenta mil hombres, que fue el año primero de la Olympiade ciento y quarenta, como lo dize Polybio. | Aníbal pone cerco a Sagunto; Polibio como fuente de la fecha y del tamaño del ejército. | Historiografía |
 | 100 | Polibio | X | …en el qual los mas cuentan nouenta mil peones, y doze mil cauallos. Polybio pone muy menor el numero. | Tamaño del ejército de Aníbal camino a Italia; Mariana contrapone la cifra común (90.000 infantes, 12.000 caballos) a la menor que da Polibio. | Historiografía |
 | 101 | Rufo Festo | XII | …el qual parece que Rufo Festo llamó Solorio, y dista de aquella ciudad quatro millas a la parte de poniente. | La armada romana inverna cerca de Tarragona; el puerto de Salu, que Rufo Festo llama Solorio. | Geografía |
+| 102 | Crónica de Alfonso XI | XV | …en el qual tiempo se acabó la muralla de aquella ciudad, como se entiende por el letrero de vna piedra antigua la qual se conservaua en tiempo de don Alonfo el onzeno rey de Castilla, segun que se refiere en su historia. | Terminación de la muralla de Tarragona en tiempos de los Escipiones; Mariana lo apoya en el letrero de una piedra conservado hasta el reinado de Alfonso XI. | Historiografía |
 
 
 
