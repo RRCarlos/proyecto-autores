@@ -144,6 +144,11 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 |---|-------|----------|------------------|----------|----------|
 | 118 | Apiano | I | Verdad es q Appiano la pone en lo postrero de la Celtiberia, entre los pueblos llamados Selos; por ventura donde al presente está la ciudad de Oíoia. | Apiano ubica Segeda al extremo de la Celtiberia, entre los Selos, donde hoy parece estar Osma. | Geografía |
 | 119 | Ptolomeo | I | …como se puede sospechar por las tablas de Ptolomeo, no lexos de Tara^ona, y de donde oy esta Calatayud. | Nertobriga estaría cerca de Tarazona (hoy Calatayud) según las tablas de Ptolomeo. | Geografía |
+| 120 | Marco Cicerón | II | ...pero yo por más cierto tengo lo que afirma Marco Cicerón, que esto sucedió adelante, en el consulado de Manlio. | Vuelta de Escipión a África en embajada a Masinisa: Mariana prefiere el testimonio de Cicerón sobre la fecha al refrán «ay quien diga». | Cronología |
+| 121 | Estrabón | II | ...y fueron por ellos recebidos en gracia, con tal que entregassen rehenes, y pagassen seys cientos talentos, como lo dize Estrabón. | Tributo de 600 talentos impuesto a Belos, Tithios y Areuacos al rendirse a los Romanos. | Geografía |
+| 122 | Plinio | II | ...donde como dize Plinio, presentaron a Lucullo la cabeça de vn pulpo de grandeza increíble. | Curiosidad geográfica: en el estrecho de Cádiz le regalan a Luculo la cabeza de un pulpo enorme. | Geografía |
+| 123 | Apiano | II | ...y muertos siete mil de los suyos, forçado con los demás huyr, y meterse en Carmena, como lo dize Apiano. | Derrota de Sergio Galba ante los lusitanos; Mariana matiza que «Carmena» debe decir «Carmona». | Historiografía |
+| 124 | Marco Cicerón | II | Hízoles el pretor vn razonamiento muy cuerdo, y muy elegante, como persona que era de los más señalados oradores de Roma: entre los quales es que le cuenta Cicerón. | Razonamiento de Galba a los embajadores lusitanos; Cicerón como fuente del discurso. | Historiografía |
 
 
 ## Libro Quinto
