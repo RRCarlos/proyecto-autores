@@ -105,6 +105,7 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 85 | Dionisio de Halicarnaso | II | Hizieron mención desta plaga Thucidides, Tito Liuio, y Dionysio Halicarnasseo, y aun nuestras historias atribuyen la causa desta mortandad a la sequedad del ayre. | Misma cita: Dionisio de Halicarnaso menciona la plaga junto a Tucídides y Tito Livio. | Historiografía |
 | 86 | Hipócrates | II | Hippocrates, que viuio por el mismo tiempo, afirma que para librar a Thessalia desta peste, hizo el quemar los montes y bosques de aquella tierra. | Mariana recurre a Hipócrates como testimonio del remedio contra la peste: quemar montes y bosques en Tesalia. | Historiografía |
 | 87 | Aristóteles | II | Aristoteles dize, que tratado el negocio en el senado, acordaron de encubrir esta nueua, y para este efeto hazer morir a los que la traxeron. | Aristóteles refiere el acuerdo del senado cartaginés de ocultar la isla descubierta (que los más eruditos creen ser la de santo Domingo o Española) y matar a los que la descubrieron. | Historiografía |
+| 88 | Eusebio | III | Y vltimamente el año diez y seys después que se començó [esta guerra], que a la cuenta de Eusebio de la fundación de Roma fue el de trezientos y ochenta y seys, o como otros mejor dizen, de la Olympiade nouenta y nueue año segundo. | Muerte de Dionisio el viejo por conjuración de los suyos; Mariana da las dos cronologías: la cuenta de Eusebio y la de la Olimpiada. | Historiografía |
 
 
 
