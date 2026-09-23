@@ -21,6 +21,7 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 9 | San Eulogio | IIII | En san Eulogio martyr se halla el rio Cantaber, que se entiende es Ega o Ebro, con el qual se junta el rio Aragón. | Mariana apoya en Eulogio de Córdoba la existencia del río Cantaber (identificado con el Ega/Ebro), indicio de una Cantabria antigua mayor. | Geografía |
 | 10 | Ptolomeo | IIII | Todo lo qual muestra, que fue Cantabria algún tiempo mayor de lo que Ptolomeo señala, y aun de lo que oy llamamos Vizcaya. | Evidencias (ciudad de Cantabriga, río Cantaber) de que la Cantabria antigua desbordaba los límites que Ptolomeo le asigna. | Geografía |
 | 11 | Ptolomeo | IIII | Talavera, que Ptolomeo llama Libora. | Identificación toponímica: Talavera de la Reina = Libora en Ptolomeo. | Geografía |
+| 12 | Estrabón | V | En particular Estrabón testifica, que no vn genero de letras, ni vna lengua era común a toda España. | Mariana se apoya en Estrabón contra la tesis de que el vascuence fuera lengua común de toda España. | Lingüística |
 
 
 
