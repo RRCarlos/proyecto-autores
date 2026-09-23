@@ -154,6 +154,7 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 127 | Plinio | IIII | ...embiaron al pretor Popilio, del qual refiere Plinio, que Viriato le entregó las ciudades que en su poder tenia. | Sentencia el conflicto entre Galba y Cotta por la provincia de España; Mariana cita a Plinio sobre la entrega de ciudades a Popilio. | Historiografía |
 | 128 | Plinio | IIII | Metello hazia la guerra en su provincia, y sosegó los Celtiberos: por lo menos Plinio dize, que venció los Areuacos. | Metelo pacifica a los celtíberos; Plinio como fuente de la victoria sobre los arévacos. | Historiografía |
 | 129 | Apiano | IIII | Pero donde no parece llegado a razón, ni cosa probable, lo que refiere Apiano, que el dicho concierto fue en Roma aprouado por el senado y pueblo Romano. | Mariana rechaza el testimonio de Apiano de que el Senado aprobó el concierto con Viriato. | Historiografía |
+| 130 | Apiano | X | ...Appiano dize, que entrada la ciudad hallaron algunos viuos, pero contrazien a esto los demás autores. Y es cosa aueriguada que Numancia se conseruó por la concordia de sus ciudadanos, que tenían entre sí y con sus comarcanos, y pereció por la discordia de los mismos. | Mariana recoge la versión de Apiano sobre supervivientes al entrar en Numancia, contradicha por los demás autores; destaca la concordia/discordia como causa. | Historiografía |
 
 
 ## Libro Quinto
