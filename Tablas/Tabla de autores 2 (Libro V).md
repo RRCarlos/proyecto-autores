@@ -123,6 +123,7 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 103 | Tito Livio | XVI | Tito Liuio va algún tanto differente en el cuento destas batallas, mas seguimos el asiento y orden de los lugares, y lo que otros escritores testifican. | Mariana advierte que Tito Livio difiere en el relato de las batallas contra los cartagineses; él sigue la ordenación geográfica y otros testimonios. | Historiografía |
 | 104 | Tito Livio | XVII | Ay quien diga, que sin embargo Syphaz passó en España, para tratar en presencia con los Scipiones la manera que se deuia tener en hazer la guerra: y que dexaron de contar este viage Tito Liuio y Plutarcho: como no es marauilla que en tan grande muchedumbre de cosas se oluide algo. | Mariana menciona la opinión de que Siface sí pasó a España, y que Tito Livio (con Plutarco) omitió ese viaje. | Historiografía |
 | 105 | Plutarco | XVII | Ay quien diga, que sin embargo Syphaz passó en España, para tratar en presencia con los Scipiones la manera que se deuia tener en hazer la guerra: y que dexaron de contar este viage Tito Liuio y Plutarcho: como no es marauilla que en tan grande muchedumbre de cosas se oluide algo. | Misma cita: Plutarco, junto a Tito Livio, omitió el viaje de Siface a España. | Historiografía |
+| 106 | Plinio | XXI | Plinio pone a Oringia en la Betica, hazia donde oy esta Jaen. | Scipion envía a su hermano Lucio a tomar Oringia, ciudad de los Meleños; Mariana la ubica en la Bética con Plinio. | Geografía |
 
 
 
