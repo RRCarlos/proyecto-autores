@@ -149,6 +149,8 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 122 | Plinio | II | ...donde como dize Plinio, presentaron a Lucullo la cabeça de vn pulpo de grandeza increíble. | Curiosidad geográfica: en el estrecho de Cádiz le regalan a Luculo la cabeza de un pulpo enorme. | Geografía |
 | 123 | Apiano | II | ...y muertos siete mil de los suyos, forçado con los demás huyr, y meterse en Carmena, como lo dize Apiano. | Derrota de Sergio Galba ante los lusitanos; Mariana matiza que «Carmena» debe decir «Carmona». | Historiografía |
 | 124 | Marco Cicerón | II | Hízoles el pretor vn razonamiento muy cuerdo, y muy elegante, como persona que era de los más señalados oradores de Roma: entre los quales es que le cuenta Cicerón. | Razonamiento de Galba a los embajadores lusitanos; Cicerón como fuente del discurso. | Historiografía |
+| 125 | Marco Cicerón | III | Consta asimismo que C. Lelio, aquel que en Roma tuuo sobrenombre de Sabio, como lo testificó Cicerón, vino por este mismo tiempo a España: y fue el primero que començó a quebrantar las fuerças y ferocidad de Viriato. | Cicerón atestigua la venida de Cayo Lelio el Sabio a España, primer general que quebranta a Viriato. | Historiografía |
+| 126 | Ciriaco de Ancona (Anconitano) | III | ...del qual se podria creer que vino también a España, y en ella venció a los Gallegos, si las inscripciones de Anconitano tuuessen bastante autoridad para fiarfe de lo que relatan en este caso. | Mariana duda de que el cónsul Mancino venciera a los gallegos: solo las inscripciones del anticuario Ciriaco de Ancona lo apoyan, autor tenido por «maestro de fábulas». | Historiografía |
 
 
 ## Libro Quinto
