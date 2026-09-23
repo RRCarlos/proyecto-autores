@@ -98,6 +98,15 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 ## Libro Segundo
 
 
+| # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
+| ---: | --- | --- | --- | --- | --- |
+| 83 | Tucídides | II | Hizieron mención desta plaga Thucidides, Tito Liuio, y Dionysio Halicarnasseo, y aun nuestras historias atribuyen la causa desta mortandad a la sequedad del ayre. | Sobre la peste que consumió hombres y ganados en toda la tierra, incluida España; Tucídides (con Tito Livio y Dionisio de Halicarnaso) menciona la plaga, y nuestras historias la atribuyen a la sequedad del aire. | Historiografía |
+| 84 | Tito Livio | II | Hizieron mención desta plaga Thucidides, Tito Liuio, y Dionysio Halicarnasseo, y aun nuestras historias atribuyen la causa desta mortandad a la sequedad del ayre. | Misma cita: Tito Livio menciona la plaga junto a Tucídides y Dionisio de Halicarnaso. | Historiografía |
+| 85 | Dionisio de Halicarnaso | II | Hizieron mención desta plaga Thucidides, Tito Liuio, y Dionysio Halicarnasseo, y aun nuestras historias atribuyen la causa desta mortandad a la sequedad del ayre. | Misma cita: Dionisio de Halicarnaso menciona la plaga junto a Tucídides y Tito Livio. | Historiografía |
+| 86 | Hipócrates | II | Hippocrates, que viuio por el mismo tiempo, afirma que para librar a Thessalia desta peste, hizo el quemar los montes y bosques de aquella tierra. | Mariana recurre a Hipócrates como testimonio del remedio contra la peste: quemar montes y bosques en Tesalia. | Historiografía |
+| 87 | Aristóteles | II | Aristoteles dize, que tratado el negocio en el senado, acordaron de encubrir esta nueua, y para este efeto hazer morir a los que la traxeron. | Aristóteles refiere el acuerdo del senado cartaginés de ocultar la isla descubierta (que los más eruditos creen ser la de santo Domingo o Española) y matar a los que la descubrieron. | Historiografía |
+
+
 
 ## Libro Quinto
 
