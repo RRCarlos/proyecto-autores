@@ -109,6 +109,9 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 89 | Paulo Orosio | V | El principal de la embaxada se llamó Mauroo, según se lee en Paulo Orosio. | Embajada de los españoles a Alejandro Magno en Babilonia; Mariana identifica al jefe de la embajada, Mauroo, por Paulo Orosio. | Historiografía |
 | 90 | Arriano | V | Esta embaxada fue muy agradable a Alexandro, de tal manera que entonces le pareció auerse hecho señor de todo, como lo dize Arriano, pues desde lo postrero del mundo venían a poner en sus manos sus diferencias. | La embajada española alegró a Alejandro «como lo dize Arriano», que presenta la llegada de los enviados desde el fin del mundo. | Historiografía |
 | 91 | Justino | V | Perdido el señorío de Sicilia tan presto como le auía adquirido (así lo refiere Iustino). | Salida de Pirro de Sicilia tras perder el señorío tan rápido como lo ganó; Mariana se apoya en Justino. | Historiografía |
+| 92 | Polibio | VI | …juntaron vna nueua y gruessa armada, y leuantaron nueuas compañías en España, y por las marinas de la Gallia, y por la Liguria (que oy es lo de Genoua), segun que Polybio lo testifica. | Los cartagineses rearman tras la alianza de Hierón con Roma; Polibio como testimonio del reclutamiento en España, la Galia y la Liguria. | Historiografía |
+| 93 | Eusebio | VI | …las fuerças de los Romanos fueron trabajadas: ca el general Romano Cecilio Metello fue vencido y puesto en huyda, con perdida, si creemos a Eusebio, de nouenta naues. | Batalla naval del año 502 de Roma; Mariana da por fuente a Eusebio sobre la pérdida de noventa naves. | Historiografía |
+| 94 | Plinio | VI | Plinio sin duda la letra no esta errada, haze a Tiquadra patria de Aníbal. | Nacimiento de Aníbal en la isla Tiquadra, cercana a Mallorca. | Historiografía |
 
 
 
