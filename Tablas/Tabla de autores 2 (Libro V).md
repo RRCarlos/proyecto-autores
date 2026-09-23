@@ -137,9 +137,16 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 117 | Silio Itálico | XXVI | Lo cierto es, que Silio Itálico haze mención de Cordoua en tiempo de Anibal… | Silio Itálico menciona Córdoba en tiempos de Aníbal, lo que sugiere fundación anterior. | Historiografía |
 
 
+## Libro Tercero
+
+
+| # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
+|---|-------|----------|------------------|----------|----------|
+| 118 | Apiano | I | Verdad es q Appiano la pone en lo postrero de la Celtiberia, entre los pueblos llamados Selos; por ventura donde al presente está la ciudad de Oíoia. | Apiano ubica Segeda al extremo de la Celtiberia, entre los Selos, donde hoy parece estar Osma. | Geografía |
+| 119 | Ptolomeo | I | …como se puede sospechar por las tablas de Ptolomeo, no lexos de Tara^ona, y de donde oy esta Calatayud. | Nertobriga estaría cerca de Tarazona (hoy Calatayud) según las tablas de Ptolomeo. | Geografía |
+
 
 ## Libro Quinto
-
 
 | # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
 | ---: | --- | --- | --- | --- | --- |
