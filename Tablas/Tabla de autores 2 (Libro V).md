@@ -11,6 +11,9 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
 | ---: | --- | --- | --- | --- | --- |
 | 1 | Plinio el Viejo | I | Aun el mismo Plinio al fin de su historia natural testifica, que por todas las partes cercanas del mar, España es la mejor y mas fértil de todas las tierras, sacada Italia. | Mariana respalda en Plinio (Historia Natural) la superioridad y fertilidad de España frente a todas las provincias costeras, solo superada por Italia. | Geografía |
+| 2 | Solino | II | La anchura por donde más se estrecha el mar apenas es de siete, conforme a lo que Solino escriue, dando que oy más de doze millas tiene de anchura por la parte más estrecha. | Medidas del estrecho de Gibraltar: siete millas según Solino frente a las más de doce actuales. | Geografía |
+| 3 | Pomponio Mela | II | El lado tercero de España, el qual corre entre los golfos Cierpoy y Cauroso o Gallego, se estiende por espacio de ciento y treynta y quatro leguas sus riberas, no iguales y derechas, como lo sintió Pomponio Mela. | Testimonio de Mela sobre el litoral cantábrico: costas recortadas, no rectilíneas. | Geografía |
+| 4 | Justino | II | Justino dize que son seyscientas millas: deuen sin duda los números por la injuria del tiempo, en esta parte estar mudados. | Mariana pone en duda los 600.000 pasos de Pirineos que da Justino contra las ochenta leguas que él calcula. | Geografía |
 
 
 
