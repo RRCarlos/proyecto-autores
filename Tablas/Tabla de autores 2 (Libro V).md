@@ -112,6 +112,9 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 92 | Polibio | VI | …juntaron vna nueua y gruessa armada, y leuantaron nueuas compañías en España, y por las marinas de la Gallia, y por la Liguria (que oy es lo de Genoua), segun que Polybio lo testifica. | Los cartagineses rearman tras la alianza de Hierón con Roma; Polibio como testimonio del reclutamiento en España, la Galia y la Liguria. | Historiografía |
 | 93 | Eusebio | VI | …las fuerças de los Romanos fueron trabajadas: ca el general Romano Cecilio Metello fue vencido y puesto en huyda, con perdida, si creemos a Eusebio, de nouenta naues. | Batalla naval del año 502 de Roma; Mariana da por fuente a Eusebio sobre la pérdida de noventa naves. | Historiografía |
 | 94 | Plinio | VI | Plinio sin duda la letra no esta errada, haze a Tiquadra patria de Aníbal. | Nacimiento de Aníbal en la isla Tiquadra, cercana a Mallorca. | Historiografía |
+| 95 | Estrabón | VII | …era ella gente por aquel tiempo tan rica, que como dize Estrabon vsauan de pesebres y de tinajas de plata. | Riqueza de los naturales de la Bética en tiempos de Amílcar; Estrabón como testimonio. | Historiografía |
+| 96 | Ptolomeo | VII | …donde sin duda la puso Ptolomeo. | Cartago la vieja, pueblo junto al Ebro que Mariana identifica con Cantavieja; Ptolomeo lo sitúa en los Ilercaones. | Geografía |
+| 97 | Tito Livio | VII | Tito Liuio dize, que esta batalla se dio junto a un lugar y pueblo que se llamaua Castro Alto. | Muerte de Amílcar Barchino contra los naturales; Tito Livio localiza el combate en Castro Alto. | Historiografía |
 
 
 
