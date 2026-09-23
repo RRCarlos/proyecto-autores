@@ -115,6 +115,8 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 95 | Estrabón | VII | …era ella gente por aquel tiempo tan rica, que como dize Estrabon vsauan de pesebres y de tinajas de plata. | Riqueza de los naturales de la Bética en tiempos de Amílcar; Estrabón como testimonio. | Historiografía |
 | 96 | Ptolomeo | VII | …donde sin duda la puso Ptolomeo. | Cartago la vieja, pueblo junto al Ebro que Mariana identifica con Cantavieja; Ptolomeo lo sitúa en los Ilercaones. | Geografía |
 | 97 | Tito Livio | VII | Tito Liuio dize, que esta batalla se dio junto a un lugar y pueblo que se llamaua Castro Alto. | Muerte de Amílcar Barchino contra los naturales; Tito Livio localiza el combate en Castro Alto. | Historiografía |
+| 98 | Estéfano de Bizancio | IX | (Scephano pone los Olcades cerca del rio Ebro) | Mariana ubica a los Olcades en la Ocaña actual y apunta la localización de Estéfano junto al Ebro. | Geografía |
+| 99 | Polibio | IX | …marchó y se puso sobre Sagunto con un campo de ciento y cincuenta mil hombres, que fue el año primero de la Olympiade ciento y quarenta, como lo dize Polybio. | Aníbal pone cerco a Sagunto; Polibio como fuente de la fecha y del tamaño del ejército. | Historiografía |
 
 
 
