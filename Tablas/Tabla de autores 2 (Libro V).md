@@ -76,6 +76,8 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 64 | Anacreonte | XVII | Plinio, por testimonio de Anacéonte, le da ciento y cinquenta. | Anacreonte, citado por Plinio, es la fuente que documenta los ciento cincuenta años de Argantonio. | Historiografía |
 | 65 | Josefo | XVII | Iosepho en las Antigüedades dize que Nabucodonosor se apoderó de España. | Josefo (Antigüedades) testimonia la llegada de Nabucodonosor a España, viniendo de Tiro y antes de volver a Babilonia. | Historiografía |
 | 66 | Aristóteles | XVII | Por lo que Aristóteles refiere de la costumbre de los Españoles, que sepultauan sus muertos en esta guisa, con esta solemnidad y manera de sepulcros. | Aristóteles refiere la costumbre sepulcral de los españoles (sepulcro de Argantonio con agujas y pirámides) que Mariana emplea para explicar la honra póstuma del rey. | Historiografía |
+| 67 | Tito Livio | XVIII | Tito Liuió y Polibio hazen los mismos a los Turdulos y Turdetanos, y los más confunden los términos de las gentes. | Tito Livio (con Polibio) equipara los Turdulos y los Turdetanos, confundiendo sus límites; Mariana lo emplea para no detallar más los mojones de cada pueblo. | Historiografía |
+| 68 | Polibio | XVIII | Tito Liuió y Polibio hazen los mismos a los Turdulos y Turdetanos, y los más confunden los términos de las gentes. | Misma cita: Polibio, con Tito Livio, equipara Turdulos y Turdetanos y confunde sus términos. | Historiografía |
 
 
 
