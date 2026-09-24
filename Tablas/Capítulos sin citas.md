@@ -40,9 +40,10 @@ Capítulos de los Libros I–IV de la *Historia General de España* (edición de
 | XIX | Título ilegible en OCR (victorias de César en Farsalia y Egipto, muerte de Pompeio) | 8300 |
 | XX | De lo que Longino hizo en España | 2081 |
 
-## Libro Cuarto (2 de 21)
+## Libro Cuarto (3 de 21)
 
 | Cap. | Título | Línea |
 |---|---|---|
+| VII | De los Emperadores Severo y Caracalla | 10270 |
 | XI | De algunos otros Emperadores | 1630 |
 | XVIII | De los Emperadores Juliano y Joviano | 2490 |
