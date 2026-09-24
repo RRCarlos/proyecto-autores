@@ -174,7 +174,7 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 147 | Plutarco | XXI | Plutarco dize, que César en Cordoua primeramente sintió el mal caduco de que era tocado. | Plutarco como fuente del primer episodio del mal caduco (epilepsia) de César en Córdoba. | Salud / fisiognomía |
 | 148 | Floro | XXII | Floro dize que peleó, y que le mataron cerca de Laurorta, pueblo que oy se llama Lyria, o Laurigi, como otros creen. | Mariana sitúa alternativamente con Floro el lugar de la muerte de Gneo Pompeio tras la derrota de Munda. | Muerte y captura de Gneo Pompeio |
 | 149 | Virgilio | XXII | Afinio Polión muy conocido por vna égloga de Virgilio, en la qual con versos de la Sibylla que hablaua de la venida de Christo hijo de Dios, celebró el insigne poeta el nacimiento de Salonino hijo deste Polión. | Virgilio (égloga IV) como fuente para identificar a Polión, gobernador de la España Ulterior. | Identificación de Polión vía Virgilio |
-
+| 150 | Dion Casio | XXIII | ...Cuando a veynte y dos de Setiembre, según que lo refiere Dion, le nombraron por cónsul en lugar de Caio Vibio Panfa. | Dion como fuente de la fecha del consulado de Octaviano Augusto, inicio de su imperio. | Cronología |
 
 ## Libro Quinto
 
