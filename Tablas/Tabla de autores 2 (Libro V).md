@@ -232,6 +232,7 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 200 | Iulio Capitolino | VI | «Muchos hazen mención deste sucesso tan notable. Iulio Capitolino dize, que por las oraciones del emperador se aplacaron los dioses y cayó la lluvia» | Iulio Capitolino como fuente de la lluvia milagrosa en la guerra contra los Marcomanos (legión Fulminatrix). | Historiografía |
 | 201 | Dion | VI | «A nuestros escritores, muchos y muy antiguos, que refieren la cosa como ella dicha, favorece Dion, y vna carta del emperador que anda en Griego y en Latin, sobre el caso» | Dion apoya la versión del milagro de la legión Fulminatrix, junto a la carta del emperador. | Historiografía |
 | 202 | Iulio Capitolino | VI | «Iulio Capitolino dize, que el tercer abuelo de Commodo se llamó Annio Vero, y que fue Español natural del municipio Succubitano, que estaua en la Betica, oy Andalucia» | Iulio Capitolino como fuente del origen hispano del tercer abuelo de Cómodo (Annio Vero). | Prosopografía |
+| 203 | Papa Antero | VIII | «Por este tiempo el Papa Antero, que gouerno la Yglesia Romana, escriuio vna carta a los obispos del Andaluzia, y reyno de Toledo: en la qual entre otras cosas dize, que los obispos no pueden licitamente ser promouidos de vna yglesia a otra, por su particular interés y comodidad» | La carta del Papa Antero a los obispos de Andalucía y Toledo como testimonio de disciplina eclesiástica en Hispania. | Religión |
 
 ## Libro Quinto
 
