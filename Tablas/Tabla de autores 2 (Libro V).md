@@ -172,6 +172,8 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 145 | Estrabón | XVII | Estrabon añade, que Craffo passó por mar a las islas Cassiterides, puestas enfrente del promontorio Cronio, que oy se llama cabo de Finisterre: y que sin difficultad se apoderó dellas, por ser aquella gente muy amiga del sosiego, enemiga de la guerra, y dada a las artes de la paz. | Mariana añade la versión de Estrabón: Craso pasó a las islas Casitérides y se apoderó de ellas sin dificultad. | Geografía |
 | 146 | Lucano | XVII | Lucano dixo, que el dicho rio estaua en medio. | Caio Fabio cruza el Segre frente a Lérida; Lucano como fuente de que el río quedaba en medio. | Historiografía |
 | 147 | Plutarco | XXI | Plutarco dize, que César en Cordoua primeramente sintió el mal caduco de que era tocado. | Plutarco como fuente del primer episodio del mal caduco (epilepsia) de César en Córdoba. | Salud / fisiognomía |
+| 148 | Floro | XXII | Floro dize que peleó, y que le mataron cerca de Laurorta, pueblo que oy se llama Lyria, o Laurigi, como otros creen. | Mariana sitúa alternativamente con Floro el lugar de la muerte de Gneo Pompeio tras la derrota de Munda. | Muerte y captura de Gneo Pompeio |
+| 149 | Virgilio | XXII | Afinio Polión muy conocido por vna égloga de Virgilio, en la qual con versos de la Sibylla que hablaua de la venida de Christo hijo de Dios, celebró el insigne poeta el nacimiento de Salonino hijo deste Polión. | Virgilio (égloga IV) como fuente para identificar a Polión, gobernador de la España Ulterior. | Identificación de Polión vía Virgilio |
 
 
 ## Libro Quinto
