@@ -223,6 +223,8 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 191 | Pedro Crinito | III | «Crinito dize que nació en Roma, pero que la descendencia era de España» | Crinito matiza el origen romano-español de Silio Itálico. | Prosopografía |
 | 192 | Gregorio Giraldo | III | «Gregorio Giraldo affirma que en lo vno y en lo otro ay engaño, y que fue natural de los Peligros, pueblos del reyno de Nápoles, y nació en vn lugar de aquella comarca, llamado Itálica» | Gregorio Giraldo corrige a Suetonio y Crinito sobre el origen de Silio Itálico. | Prosopografía |
 | 193 | Quintiliano | III | «Quintiliano haze mención de vna sola tragedia que andaua en nombre de Séneca el Philósopho, que deuio perderse con el tiempo» | Quintiliano menciona una tragedia de Séneca el Filósofo ya perdida. | Historiografía |
+| 194 | Suetonio | IIII | «Publicó vn edicto, por el qual desterró de Roma, y de toda Italia a todos los philosophos, como lo dize Suetonio» | Suetonio como fuente del edicto de Domiciano que desterró a los filósofos de Roma e Italia. | Historiografía |
+| 195 | Miguel Sincello | IIII | «como se vee en la vida de san Clemente, escripta por Michael Syncello» | La vida de san Clemente, escrita por Miguel Sincello, como fuente para identificar a san Eugenio (véase si era Philippo o Marcello). | Hagiografía |
 
 ## Libro Quinto
 
