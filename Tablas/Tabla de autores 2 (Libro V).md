@@ -198,6 +198,14 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 
 ## Libro Quarto
 
+| # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
+|---|-------|----------|------------------|----------|----------|
+| 171 | San Agustín | I | «Y aun no concuerdan todos en los nombres de los cónsules que fueron a la sazón; lo qual también en tiempo de san Augustín sucedió, como el mismo lo refiere» | Mariana apoya en San Agustín la incertidumbre sobre la fecha del nacimiento de Cristo. | Cronología |
+| 172 | Dion Casio | I | «Entre los historiadores solo Dion, sin señalar tiempo ni lugar, en particular cuenta que vn capitán de salteadores llamado Corocota... dize pues que como le buscassen con diligencia para darle la muerte, el mismo de su voluntad se presentó delante el emperador: con lo qual no solo le perdonó, sino le dio también el dinero y la talla que estaua prometida al que le prendiesse o matasse» | Corocota, capitán de salteadores, se entrega voluntariamente a Augusto y recibe perdón y recompensa; solo Dion lo cuenta. | Historiografía |
+| 173 | Dion Casio | I | «Que la aue Phenix, la qual fue vista como lo refieren Dion, Tácito, y Plinio, antes del postrer año del imperio de Tiberio, dio indicio y fue pronóstico y muestra de la resurrección de Christo hijo de Dios, por suceder en aquel tiempo, y ser ella de tal naturaleza, que de sus cenizas después de muerta tornaua a biuir» | El ave fénix, vista antes del último año de Tiberio, como presagio de la resurrección de Cristo. | Historiografía |
+| 174 | Tácito | I | «Que la aue Phenix, la qual fue vista como lo refieren Dion, Tácito, y Plinio, antes del postrer año del imperio de Tiberio, dio indicio y fue pronóstico y muestra de la resurrección de Christo hijo de Dios, por suceder en aquel tiempo, y ser ella de tal naturaleza, que de sus cenizas después de muerta tornaua a biuir» | Misma cita: Tácito, junto a Dion y Plinio, testimonia el ave fénix. | Historiografía |
+| 175 | Plinio | I | «Que la aue Phenix, la qual fue vista como lo refieren Dion, Tácito, y Plinio, antes del postrer año del imperio de Tiberio, dio indicio y fue pronóstico y muestra de la resurrección de Christo hijo de Dios, por suceder en aquel tiempo, y ser ella de tal naturaleza, que de sus cenizas después de muerta tornaua a biuir» | Misma cita: Plinio, junto a Dion y Tácito, testimonia el ave fénix. | Historiografía |
+
 ## Libro Quinto
 
 | # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
