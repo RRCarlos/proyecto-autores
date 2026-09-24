@@ -185,6 +185,18 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 158 | Dion Casio | XXIIII | Sexto Pacuuio tribuno del pueblo consagró su nombre... costumbre y vanidad tomada de España, como lo dize Dion. | Costumbre de honrar en vida a los príncipes, tomada de España según Dion. | Usos y costumbres |
 | 159 | Paulo Orosio | XXIIII | Los que por autoridad de Paulo Orosio sienten que la guerra de Cantabria duró por espacio de cinco años enteros. | Duración de la guerra de Cantabria según Orosio. | Historiografía |
 | 160 | Estrabón | XXIIII | Los naturales mudaron sus costumbres antiguas, y su lengua, y la trocaron con las de los Romanos, según que Estrabón lo testifica. | Romanización de costumbres y lengua tras la fundación de colonias. | Etnografía |
+| 161 | Ptolomeo | XXV | «Ptolomeo señala por aledaños de los Cántabros, a los Autrigones por la parte del levante, y por la de poniente a los Lungones, hazia el medio día las fuentes del río Ebro, y hazia el septentrión el Océano Cantábrico» | Límites del territorio cántabro según Ptolomeo. | Geografía |
+| 162 | Ptolomeo | XXV | «[La batalla] se dio cerca de Vellica, que algunos creen sea Vitoria, ciudad de Alava; pero contradize el sitio y distancia de los lugares marcados en Ptolomeo» | Mariana duda de identificar Vellica con Vitoria por las coordenadas ptolemaicas. | Geografía |
+| 163 | Paulo Orosio | XXV | «Además que Orósio dize que el monte Medulio, donde los Gallegos se hizieron fuertes, estaua puesto sobre el río Miño» | Ubicación del monte Medulio, refugio de los gallegos, según Orosio. | Geografía |
+| 164 | Rasis | XXV | «Rasis Arabe encarece mucho la grandez y hermosura de aquella ciudad [Mérida], hasta dezir cosas della casi increíbles. Affirma empero, que fue destruyda por los Moros quando se apoderaron de España» | Esplendor de Mérida y su destrucción por los moros según Rasis. | Historiografía |
+| 165 | Dion Casio | XXV | «Dion siempre le llama Tito Carisio, que deuio ser descuydo de pluma, porque en las monedas no se llama sino Publio Carisio» | Mariana corrige la variante «Tito Carisio» de Dion. | Crítica textual |
+| 166 | Mela | XXV | «las Aras Sextianas, de las quales Mela, Plinio, y Ptolomeo hizieron notable mención, a manera de pyramides, cada vna con su caracol de abaxo arriba... por dezir Mela que estauan dedicadas a Augusto Cesar» | Las Aras Sextianas según Mela, Plinio y Ptolomeo. | Geografía |
+| 167 | Plinio | XXV | «las Aras Sextianas, de las quales Mela, Plinio, y Ptolomeo hizieron notable mención, a manera de pyramides, cada vna con su caracol de abaxo arriba... por dezir Mela que estauan dedicadas a Augusto Cesar» | Misma cita: Plinio junto a Mela y Ptolomeo documenta las Aras Sextianas. | Geografía |
+| 168 | Ptolomeo | XXV | «las Aras Sextianas, de las quales Mela, Plinio, y Ptolomeo hizieron notable mención, a manera de pyramides, cada vna con su caracol de abaxo arriba... por dezir Mela que estauan dedicadas a Augusto Cesar» | Misma cita: Ptolomeo junto a Mela y Plinio documenta las Aras Sextianas. | Geografía |
+| 169 | Plinio | XXV | «bien que las medidas de la Betica o Andaluzia no estauan de todo punto ajustadas, como lo testifica Plinio» | Mariana nota la inexactitud del mapa de Agripa para la Bética según Plinio. | Geografía |
+| 170 | Suetonio | XXV | «Pero Suetonio parece sentirlo contrario, porque dize que a vn mismo [Higino] unos le hazian Alexandrino, otros Español, a los quales el sigue; y añade que tuuo cuydado de la bibliotheca, o librería de Augusto» | Suetonio como fuente sobre la nacionalidad de Higino. | Prosopografía |
+
+## Libro Quarto
 
 ## Libro Quinto
 
