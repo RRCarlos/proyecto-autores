@@ -171,6 +171,7 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 144 | Paulo Orosio | XVII | Orosio dize, que cincuenta mil Cántabros, que morauan donde oy está Vizcaya, y por allí cerca, passaron en la Gallia. | Los españoles ayudan a los Voconcios y Tarusates contra Craso; Orosio cifra en 50.000 los cántabros que pasaron a la Galia. | Historiografía |
 | 145 | Estrabón | XVII | Estrabon añade, que Craffo passó por mar a las islas Cassiterides, puestas enfrente del promontorio Cronio, que oy se llama cabo de Finisterre: y que sin difficultad se apoderó dellas, por ser aquella gente muy amiga del sosiego, enemiga de la guerra, y dada a las artes de la paz. | Mariana añade la versión de Estrabón: Craso pasó a las islas Casitérides y se apoderó de ellas sin dificultad. | Geografía |
 | 146 | Lucano | XVII | Lucano dixo, que el dicho rio estaua en medio. | Caio Fabio cruza el Segre frente a Lérida; Lucano como fuente de que el río quedaba en medio. | Historiografía |
+| 147 | Plutarco | XXI | Plutarco dize, que César en Cordoua primeramente sintió el mal caduco de que era tocado. | Plutarco como fuente del primer episodio del mal caduco (epilepsia) de César en Córdoba. | Salud / fisiognomía |
 
 
 ## Libro Quinto

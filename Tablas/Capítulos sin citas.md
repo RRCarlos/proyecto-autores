@@ -27,7 +27,7 @@ Capítulos de los Libros I–IV de la *Historia General de España* (edición de
 | XX | Cómo Publio Escipión tomó a Cartagena | 2266 |
 | XXII | Como echaron a los Cartagineses de España | 2504 |
 
-## Libro Tercero (7 de 24)
+## Libro Tercero (8 de 24)
 
 | Cap. | Título | Línea |
 |---|---|---|
@@ -37,6 +37,7 @@ Capítulos de los Libros I–IV de la *Historia General de España* (edición de
 | VIII | Cómo Caio Mancio fue entregado a los numantinos | 903 |
 | IX | Cómo Scipión hecho cónsul vino a España | 978 |
 | XVIII | Como los Pompeianos fueron en España vencidos | 1997 |
+| XIX | Título ilegible en OCR (victorias de César en Farsalia y Egipto, muerte de Pompeio) | 8300 |
 | XX | De lo que Longino hizo en España | 2081 |
 
 ## Libro Cuarto (2 de 21)
