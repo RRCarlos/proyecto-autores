@@ -277,6 +277,10 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 245 | San Ambrósio | XX | «Los santos Ambrósio y Augustino en particulares sermones que hizieron, declararon al mundo las virtudes y loores de este excellent principe.» | Sermones de Ambrosio y Agustín: elogio fúnebre de Teodosio. | Religión |
 | 246 | San Agustín | XX | «Los santos Ambrósio y Augustino en particulares sermones que hizieron, declararon al mundo las virtudes y loores de este excellent principe.» | Sermones de Ambrosio y Agustín: elogio fúnebre de Teodosio. | Religión |
 | 247 | Juan (eremita) | XX | «Juan, que era uno de ellos, le prometió por sus cartas la viótoria, y juntamente le auisó que no boluería de Italia.» | Cartas proféticas de Juan el eremita a Teodosio antes de la batalla del Frígido. | Religión |
+| 248 | San Ildefonso | XXI | «...es aquel de quien testifica san Ildefonso en sus claros varones, que halló los cuerpos de los santos mártires Justo y Pastor en Alcalá de Henares, do padecieron.» | San Ildefonso (De viris illustribus): Asturio, obispo de Toledo, halló los cuerpos de Justo y Pastor. | Historiografía |
+| 249 | Abad Biclarense | XXI | «De lo que escribe el abad Biclarense, se entiende que en tiempo de Leovigildo rey de los Godos, Novello fue obispo de Alcalá...» | Juan de Biclaro: Novello, obispo de Alcalá en tiempos de Leovigildo. | Historiografía |
+| 250 | Paulo Orosio | XXI | «Enterose Roma el año de quatrocientos y diez, conforme a la cuenta mas acertada: dado que Paulo Orosio y Próspero Aquitánico, a este número parecen añaden dos años.» | Orosio: datación del saqueo de Roma (410), discrepando en dos años. | Historiografía |
+| 251 | Próspero Aquitánico | XXI | «Enterose Roma el año de quatrocientos y diez, conforme a la cuenta mas acertada: dado que Paulo Orosio y Próspero Aquitánico, a este número parecen añaden dos años.» | Próspero: datación del saqueo de Roma (410), discrepando en dos años. | Historiografía |
 
 ## Libro Quinto
 
