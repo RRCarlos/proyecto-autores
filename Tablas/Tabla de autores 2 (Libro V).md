@@ -273,6 +273,10 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 241 | Aurelio Víctor | XX | «El nombre de Teodosio, que quiere decir dado de Dios... como lo dice Aurelio Víctor, por sus grandes hazañas y virtudes le merecía.» | Aurelio Víctor explica el nombre *Theodosius* («dado de Dios»). | Historiografía |
 | 242 | Claudiano | XX | «...se levantó de repente un torbellino de vientos y lluvia, truenos y relámpagos que daba a los enemigos de cara... como lo cantó Claudiano poeta de aquel tiempo, muy famoso, si pagano, si fiel no se sabe: lo más cierto es que no fue Christiano.» | Claudiano cantó el torbellino que favoreció a Teodosio en la batalla del Frígido (a. 394). | Poesía |
 | 243 | San Jerónimo | XX | «...el cual ponía lengua en la costumbre que tiene la Iglesia de reverenciar a los santos que reinan con Cristo en el cielo, según que lo testifican el libro que escribió contra él san Jerónimo, insigne varón de estos tiempos...» | San Jerónimo (*Contra Vigilantium*) atestigua el error de Vigilancio de Pamplona contra el culto a los santos. | Religión |
+| 244 | San Isidoro | XX | «Por el contrario Itacio y Idacio (Isidoro dice Ursacio, en lugar de Idacio) fueron acusados por lo que habían hecho, y condenados en destierro.» | San Isidoro (variante textual): el acusador de Prisciliano sería Ursacio, no Idacio; ambos desterrados. | Historiografía |
+| 245 | San Ambrósio | XX | «Los santos Ambrósio y Augustino en particulares sermones que hizieron, declararon al mundo las virtudes y loores de este excellent principe.» | Sermones de Ambrosio y Agustín: elogio fúnebre de Teodosio. | Religión |
+| 246 | San Agustín | XX | «Los santos Ambrósio y Augustino en particulares sermones que hizieron, declararon al mundo las virtudes y loores de este excellent principe.» | Sermones de Ambrosio y Agustín: elogio fúnebre de Teodosio. | Religión |
+| 247 | Juan (eremita) | XX | «Juan, que era uno de ellos, le prometió por sus cartas la viótoria, y juntamente le auisó que no boluería de Italia.» | Cartas proféticas de Juan el eremita a Teodosio antes de la batalla del Frígido. | Religión |
 
 ## Libro Quinto
 
