@@ -242,7 +242,10 @@ La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306.
 | 210 | Sixto | X | «Sixto segundo, sucessor de Estephano, parece que en vna epístola escadereçada a los obispos de España les amonesta, que los decretos de los padres no se deuen alterar, ni antes del entero conocimiento de la causa deponer a los obispos, principalmente sin dar parte al Romano Pontífice» | La epístola atribuida al Papa Sixto II a los obispos de España sobre la inalterabilidad de los decretos. | Religión |
 | 211 | Dionisio | X | «Siendo cónsules el dicho emperador y Paterno, el Pontífice Dionysio escriuio vna epístola a Seuero obispo de Cordoua, en que le manda que a exemplo de Roma, reparta el pueblo por perrochias» | La epístola del Papa Dionisio a Severo, obispo de Córdoba, ordenando repartir el pueblo en parroquias. | Religión |
 | 212 | Eutiquiano | X | «Succediole Eutychiano, cuya carta a Lucio y a los demás obispos de la Bética o Andaluzia, tiene por data el consulado de Aureliano y Marcellino, es a saber, el año de Christo de dozientos y setenta y seys. Trata de propósito en ella de la santa encarnación del hijo de Dios, contra ciertos hereges» | La carta del Papa Eutiquiano a los obispos de la Bética sobre la encarnación, datada por el consulado. | Religión |
- 
+| 213 | San Agustín | XII | «Consules Diocleciano la octava vez y Maximiano la séptima, según que lo refiere San Agustín» | San Agustín como fuente de la cronología de los edictos contra los cristianos del año 303. | Religion |
+| 214 | Prudencio | XII | «En Zaragoza dio la muerte a Santa Engracia, a quien Prudencio llama Encratis» | Prudencio identifica a Encratis con Engracia en su himno sobre los mártires de Zaragoza. | Religion |
+| 215 | Prudencio | XII | «Prudencio refiere que las cenizas de trescientos mártires muertos en África, echados en cal viva, juntas fueron llamadas masa cándida» | Prudencio, Peristephanon 13: mártires de la Massa Candida de Utica, muertos en África y echados en cal viva. | Religion |
+
 ## Libro Quinto
 
 | # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
