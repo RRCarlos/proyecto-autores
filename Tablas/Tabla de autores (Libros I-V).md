@@ -1,8 +1,8 @@
-# Tabla de autores — Libro Quinto
+# Tabla de autores — Libros I–V
 
-Autores citados por Juan de Mariana en el Libro Quinto de la *Historia General de España* (edición de 1601). La tabla incluye citas historiográficas, es decir, aquellos pasajes en que Mariana emplea a un autor como fuente o testimonio. Se han excluido las menciones nominales de personajes y las referencias colectivas sin autor identificado.
+Autores citados por Juan de Mariana en los Libros I–V de la *Historia General de España* (edición de 1601). La tabla incluye únicamente pasajes en los que Mariana emplea a una autoridad como fuente, testimonio o argumento historiográfico. Se excluyen las menciones nominales de personajes y las referencias colectivas sin autor identificado.
 
-La línea de inicio de `LIBRO QVINTO.` en el tomo OCR es la 12306. 
+La numeración de la columna `#` es global y continua: 1–251 corresponden a los Libros I–IV y 252–324 al Libro V.
 
 
 
