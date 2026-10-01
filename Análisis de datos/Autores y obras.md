@@ -1,40 +1,51 @@
 # Autores y obras — Libros I–V
 
-Entradas de la [tabla de autores de los Libros I–V](../Tablas/Tabla%20de%20autores%20%28Libros%20I-V%29.md) en las que la cita normalizada de Mariana menciona una obra o permite identificarla. Los pasajes se reproducen completos y tal como aparecen en la tabla.
+Entradas de la [tabla de autores de los Libros I–V](../Tablas/Tabla%20de%20autores%20%28Libros%20I-V%29.md) en las que la cita normalizada de Mariana menciona una obra o permite identificarla. Los pasajes se reproducen completos y tal como aparecen en la tabla. Las entradas relacionadas con la Biblioteca de Focio se reúnen en una sección especial para evitar duplicados.
 
 ## Criterio
 
-Se incluyen obras nombradas o identificables en la cita normalizada. Se excluyen las referencias epistolares, que quedan pendientes de revisión, y las menciones que solo aparecen en la columna *Contexto*. Las atribuciones o títulos que requieren investigación se recogen en **Obras a confirmar**.
+Se incluyen obras nombradas o identificables en la cita normalizada. Se excluyen las referencias epistolares, que quedan pendientes de revisión, y las menciones que solo aparecen en la columna *Contexto*. Las entradas relacionadas con la Biblioteca de Focio se excluyen de esta tabla y se recogen en su sección especial. Las atribuciones o títulos que requieren investigación se recogen en **Obras a confirmar**.
 
 ## Entradas
 
 | # | Fila actual | Autor | Obra | Libro | Capítulo | Cita normalizada |
 |---:|---:|---|---|---|---|---|
 | 1 | 1 | Plinio el Viejo | *Historia natural* | I | I | Aun el mismo Plinio al fin de su historia natural testifica, que por todas las partes cercanas del mar, España es la mejor y mas fértil de todas las tierras, sacada Italia. |
-| 2 | 19 | Focio | *Bibliotheca* | I | VII | Conon en la Bibliotheca de Photio dize que Mida fue rey de los Brigas, cerca del monte Brimio: los quales passados en Asia, se llamaron Phryges. |
-| 3 | 20 | San Isidoro | *Etimologías*, libro XIII | I | VII | Es mas probable que aquel rio, por nacer en la prouincia Carthaginense, aya tomado su nombre de Carthago, oy Cartagena, como lo siente Isidoro al fin del libro treze de sus Etymologias. |
-| 4 | 54 | Platón | *Timeo* | I | XV | Platón en el Timeo dize que los Atlantides, entre los quales se puede contar Cádiz, por estar en el mar Atlántico, partidos de la ysia Erythrea, aportaron por mar a Achaia, donde por fuerza al principio se apoderaron de la ciudad de Athenas. |
-| 5 | 59 | Antonino | *Itinerario* | I | XVI | En particular la mayor de las dos [Baleares] se llamó Clumba, y la menor Nura, segun que lo testifica Antonino en su Itinerario. |
-| 6 | 61 | Filón de Biblos | Historia de los fenicios | I | XVI | Philon, en la historia de los de Phenicia, dize ouo costumbre que en los muy graues y estrechos peligros, el príncipe de la ciudad ofreciese al demonio vengador el hijo que más quería, en precio y para librar a los suyos de aquel peligro (...) esto dize Philon. |
-| 7 | 65 | Josefo | *Antigüedades* | I | XVII | Iosepho en las Antigüedades dize que Nabucodonosor se apoderó de España. |
-| 8 | 72 | Rufo Festo | Navegaciones | I | XXI | Rufo Festo, que escribió estas nauegaciones, dize que Guadalquiuir entraba en la mar por quatro bocas: los antiguos Geographos hallauan dos tan solamente; nosotros, mudadas con el tiempo las cosas y alteradas las marinas, no hallamos más de vna. |
-| 9 | 102 | Autor no identificado | *Crónica de Alfonso XI* | II | XV | …en el qual tiempo se acabó la muralla de aquella ciudad, como se entiende por el letrero de vna piedra antigua la qual se conservaua en tiempo de don Alonfo el onzeno rey de Castilla, segun que se refiere en su historia. |
-| 10 | 119 | Ptolomeo | Tablas de Ptolomeo (*Geografía*) | III | I | …como se puede sospechar por las tablas de Ptolomeo, no lexos de Tara^ona, y de donde oy esta Calatayud. |
-| 11 | 176 | San Lucas | *Hechos de los Apóstoles* | IV | II | «Al tiempo que murió Tiberio, Agrippa, al qual san Lucas en los Actos de los Apóstoles llama Herodes, se hallaua por su mandado en prisión en Roma, a causa que en cierto convite mostró deseo que Caio succediesse en el imperio» |
-| 12 | 177 | Josefo | *Antigüedades* | IV | II | «y hizo tanto, que le desterraron a León de Francia, como lo sienten los mas autores, por testimonio de Josefo en las Antigüedades Judaicas; dado que en otra parte dize que huyo, por la crueldad del emperador, a España» |
-| 13 | 179 | San Lucas | *Hechos de los Apóstoles* | IV | II | «mas del ciclo Hebreo se saca, que el año quarenta y dos de Christo los Iudios celebraron su pascua, sabado a veynte y quatro de Março, y començaron los días de los ázymos o pan cenceño, en los quales dize san Lucas en los Actos que le dieron la muerte» |
-| 14 | 182 | Séneca | *Declamationes* | IV | II | «Séneca en sus declamaciones haze mención de otros dos oradores Españoles que biuieron por este tiempo en Roma; el vno se llamó Cornelio, el otro Clodio Turino» |
-| 15 | 183 | Pelagio de Oviedo | Su historia (*Chronicon*) | IV | II | «Pelagio obispo de Oui[e]do, que escriuio su historia aura quinientos años, cuenta por discípulos de Santiago a los siguientes: Calocero, Basilio, Grifogo, Theodoro, Athanasio y Máximo» |
-| 16 | 185 | San Lucas | *Hechos de los Apóstoles* | IV | III | «dexó por obispo de Narbona a Sergio Paulo, al qual de procónsul que era en la isla de Chipre, conuirtió en siervo de Christo, según que en los Actos de los Apóstoles se refiere» |
-| 17 | 195 | Miguel Sincello | Vida de san Clemente | IV | IIII | «como se vee en la vida de san Clemente, escripta por Michael Syncello» |
-| 18 | 216 | Braulio de Zaragoza | Vida de santa Leocadia | IV | XIII | «se entienden mejor por la historia de la vida y muerte de Santa Leocadia, como está en los libros eclesiásticos muy antiguos, escrito por Braulio obispo de Zaragoza, según que muchos lo sienten.» |
-| 19 | 229 | San Isidoro | *De viris illustribus* (obra de San Isidoro) | IV | XVII | «...tachan el testimonio de Marcellino presbytero, del cual san Isidoro en los varones ilustres tomó lo que queda dicho.» |
-| 20 | 232 | San Jerónimo | *De viris illustribus* (obra de San Jerónimo) | IV | XVII | «...cuyo hijo fue Dextro, al cual san Jerónimo dedicó el libro de los escritores eclesiásticos.» |
-| 21 | 240 | San Isidoro | *De viris illustribus* (obra de San Isidoro) | IV | XX | «...y Isidoro expresamente hace de ella mención en los varones ilustres, en Siricio.» |
-| 22 | 248 | San Ildefonso | *De viris illustribus* (obra de San Ildefonso) | IV | XXI | «...es aquel de quien testifica san Ildefonso en sus claros varones, que halló los cuerpos de los santos mártires Justo y Pastor en Alcalá de Henares, do padecieron.» |
-| 23 | 287 | San Ildefonso | *De viris illustribus* (obra de San Ildefonso) | V | VII | San Ildefonso en el libro que escriuio de los claros varones de España, haze mención destas cartas, y dize corría muy gran fama que Montano, siendo acusado de deshonestidad, para muestra de su innocencia, tuuo en el seno ascuas bresas en tanto que dezía la missa, sin que las vestiduras se quemassen, ni fin que se apagasse el fuego. |
+| 2 | 20 | San Isidoro | *Etimologías*, libro XIII | I | VII | Es mas probable que aquel rio, por nacer en la prouincia Carthaginense, aya tomado su nombre de Carthago, oy Cartagena, como lo siente Isidoro al fin del libro treze de sus Etymologias. |
+| 3 | 54 | Platón | *Timeo* | I | XV | Platón en el Timeo dize que los Atlantides, entre los quales se puede contar Cádiz, por estar en el mar Atlántico, partidos de la ysia Erythrea, aportaron por mar a Achaia, donde por fuerza al principio se apoderaron de la ciudad de Athenas. |
+| 4 | 59 | Antonino | *Itinerario* | I | XVI | En particular la mayor de las dos [Baleares] se llamó Clumba, y la menor Nura, segun que lo testifica Antonino en su Itinerario. |
+| 5 | 61 | Filón de Biblos | Historia de los fenicios | I | XVI | Philon, en la historia de los de Phenicia, dize ouo costumbre que en los muy graues y estrechos peligros, el príncipe de la ciudad ofreciese al demonio vengador el hijo que más quería, en precio y para librar a los suyos de aquel peligro (...) esto dize Philon. |
+| 6 | 65 | Josefo | *Antigüedades* | I | XVII | Iosepho en las Antigüedades dize que Nabucodonosor se apoderó de España. |
+| 7 | 72 | Rufo Festo | Navegaciones | I | XXI | Rufo Festo, que escribió estas nauegaciones, dize que Guadalquiuir entraba en la mar por quatro bocas: los antiguos Geographos hallauan dos tan solamente; nosotros, mudadas con el tiempo las cosas y alteradas las marinas, no hallamos más de vna. |
+| 8 | 102 | Autor no identificado | *Crónica de Alfonso XI* | II | XV | …en el qual tiempo se acabó la muralla de aquella ciudad, como se entiende por el letrero de vna piedra antigua la qual se conservaua en tiempo de don Alonfo el onzeno rey de Castilla, segun que se refiere en su historia. |
+| 9 | 119 | Ptolomeo | Tablas de Ptolomeo (*Geografía*) | III | I | …como se puede sospechar por las tablas de Ptolomeo, no lexos de Tara^ona, y de donde oy esta Calatayud. |
+| 10 | 176 | San Lucas | *Hechos de los Apóstoles* | IV | II | «Al tiempo que murió Tiberio, Agrippa, al qual san Lucas en los Actos de los Apóstoles llama Herodes, se hallaua por su mandado en prisión en Roma, a causa que en cierto convite mostró deseo que Caio succediesse en el imperio» |
+| 11 | 177 | Josefo | *Antigüedades* | IV | II | «y hizo tanto, que le desterraron a León de Francia, como lo sienten los mas autores, por testimonio de Josefo en las Antigüedades Judaicas; dado que en otra parte dize que huyo, por la crueldad del emperador, a España» |
+| 12 | 179 | San Lucas | *Hechos de los Apóstoles* | IV | II | «mas del ciclo Hebreo se saca, que el año quarenta y dos de Christo los Iudios celebraron su pascua, sabado a veynte y quatro de Março, y començaron los días de los ázymos o pan cenceño, en los quales dize san Lucas en los Actos que le dieron la muerte» |
+| 13 | 182 | Séneca | *Declamationes* | IV | II | «Séneca en sus declamaciones haze mención de otros dos oradores Españoles que biuieron por este tiempo en Roma; el vno se llamó Cornelio, el otro Clodio Turino» |
+| 14 | 183 | Pelagio de Oviedo | Su historia (*Chronicon*) | IV | II | «Pelagio obispo de Oui[e]do, que escriuio su historia aura quinientos años, cuenta por discípulos de Santiago a los siguientes: Calocero, Basilio, Grifogo, Theodoro, Athanasio y Máximo» |
+| 15 | 185 | San Lucas | *Hechos de los Apóstoles* | IV | III | «dexó por obispo de Narbona a Sergio Paulo, al qual de procónsul que era en la isla de Chipre, conuirtió en siervo de Christo, según que en los Actos de los Apóstoles se refiere» |
+| 16 | 195 | Miguel Sincello | Vida de san Clemente | IV | IIII | «como se vee en la vida de san Clemente, escripta por Michael Syncello» |
+| 17 | 216 | Braulio de Zaragoza | Vida de santa Leocadia | IV | XIII | «se entienden mejor por la historia de la vida y muerte de Santa Leocadia, como está en los libros eclesiásticos muy antiguos, escrito por Braulio obispo de Zaragoza, según que muchos lo sienten.» |
+| 18 | 229 | San Isidoro | *De viris illustribus* (obra de San Isidoro) | IV | XVII | «...tachan el testimonio de Marcellino presbytero, del cual san Isidoro en los varones ilustres tomó lo que queda dicho.» |
+| 19 | 232 | San Jerónimo | *De viris illustribus* (obra de San Jerónimo) | IV | XVII | «...cuyo hijo fue Dextro, al cual san Jerónimo dedicó el libro de los escritores eclesiásticos.» |
+| 20 | 240 | San Isidoro | *De viris illustribus* (obra de San Isidoro) | IV | XX | «...y Isidoro expresamente hace de ella mención en los varones ilustres, en Siricio.» |
+| 21 | 248 | San Ildefonso | *De viris illustribus* (obra de San Ildefonso) | IV | XXI | «...es aquel de quien testifica san Ildefonso en sus claros varones, que halló los cuerpos de los santos mártires Justo y Pastor en Alcalá de Henares, do padecieron.» |
+| 22 | 287 | San Ildefonso | *De viris illustribus* (obra de San Ildefonso) | V | VII | San Ildefonso en el libro que escriuio de los claros varones de España, haze mención destas cartas, y dize corría muy gran fama que Montano, siendo acusado de deshonestidad, para muestra de su innocencia, tuuo en el seno ascuas bresas en tanto que dezía la missa, sin que las vestiduras se quemassen, ni fin que se apagasse el fuego. |
 
-**Total: 23 entradas.** Las referencias epistolares no se incluyen por el momento.
+**Total: 22 entradas.** Las referencias epistolares no se incluyen por el momento.
+
+## Referencias a la Biblioteca de Focio
+
+Estas entradas de la tabla de autores se relacionan con la Biblioteca de Focio, tanto por su cita directa como por la procedencia de la fuente. Se reproducen completas y conservan la numeración y las seis columnas originales.
+
+| # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
+| ---: | --- | --- | --- | --- | --- |
+| 18 | Conón | VII | Conon en la Bibliotheca de Photio dize que Mida fue rey de los Brigas, cerca del monte Brimio: los quales passados en Asia, se llamaron Phryges. | Conón, preservado en la Biblioteca de Focio, testifica la realeza de Mida sobre los Brigas; Mariana lo usa contra el origen español de los Brigas. | Historiografía |
+| 19 | Focio | VII | Conon en la Bibliotheca de Photio dize que Mida fue rey de los Brigas, cerca del monte Brimio: los quales passados en Asia, se llamaron Phryges. | Mismo texto: la testimonio de Conón llega a Mariana a través de la Biblioteca de Focio. | Historiografía |
+| 266 | Olimpiodoro | II | Olympiodoro, uno de los autores de la biblioteca de Focio, le llama Dobbio, y dice que dio la muerte a Athaulfo, en venganza de la que el antes había dado a su amo. | Identidad y motivo del homicida de Athaulfo (Vernulfo, llamado Dobbio por este autor). | Historiografía |
+
+**Total: 3 entradas.**
 
 ## Obras a confirmar
 
