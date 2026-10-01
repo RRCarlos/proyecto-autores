@@ -1,8 +1,8 @@
 # Capítulos sin citas
 
-Capítulos de los Libros I–IV de la *Historia General de España* (edición de 1601) en los que la tabla de autores no registra ninguna cita historiográfica. La columna **Línea** indica la línea inicial del capítulo en el OCR consolidado.
+Capítulos de los Libros I–V de la *Historia General de España* (edición de 1601) en los que la tabla de autores no registra ninguna cita historiográfica. La columna **Línea** indica la línea inicial del capítulo en el OCR consolidado.
 
-**Revisión actualizada el 25 de septiembre de 2026.** La clasificación se contrastó con la tabla canónica, el OCR consolidado y los apuntes de lectura. Las apelaciones indirectas a fuentes anónimas («algunos», «otros», «dizen», «nuestros escritores») no cumplen el criterio de inclusión de la tabla.
+**Revisión actualizada el 25 de septiembre de 2026.** La clasificación se contrastó con la tabla canónica, el OCR consolidado y los apuntes de lectura. Las apelaciones indirectas a fuentes anónimas («algunos», «otros», «dizen», «nuestros escritores») no cumplen el criterio de inclusión de la tabla. El Libro Quinto no registra ningún capítulo sin citas.
 
 ## Libro Primero (3 de 22)
 
@@ -48,3 +48,7 @@ Capítulos de los Libros I–IV de la *Historia General de España* (edición de
 | VII | De los Emperadores Severo y Caracalla | 10271 |
 | XI | De algunos otros Emperadores | 10758 |
 | XVIII | De los Emperadores Juliano y Joviano | 11618 |
+
+## Libro Quinto (0)
+
+No hay capítulos sin citas en el Libro Quinto: la tabla de autores registra cita en cada capítulo del libro, y no aparece ninguna sección sin autoridades históricas.
